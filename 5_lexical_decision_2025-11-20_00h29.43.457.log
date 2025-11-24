@@ -1,0 +1,2837 @@
+8.2823 	INFO 	Loaded monitor calibration from ['2025_08_12 10:33']
+8.2939 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1200]. Using actual size
+8.5927 	INFO 	Using renderer 'Intel(R) Iris(R) Xe Graphics' for graphics
+8.5927 	INFO 	OpenGL version supported by driver is 4..
+8.6070 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F04B6AE2C0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F04B6AE260>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001F04B76BB20>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(0.0), np.float64(0.0)], screen=0, size=array([1920, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.6071 	EXP 	window1: backgroundImage = ''
+8.6071 	EXP 	window1: backgroundFit = 'none'
+8.8874 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.8874 	EXP 	window1: recordFrameIntervals = False
+9.0550 	EXP 	window1: recordFrameIntervals = True
+9.2396 	EXP 	Screen (0) actual frame rate measured at 59.94Hz
+9.2397 	EXP 	window1: recordFrameIntervals = False
+9.3186 	INFO 	keyboard.Keyboard is using ptb backend.
+9.3187 	INFO 	keyboard.Keyboard is using ptb backend.
+9.3187 	INFO 	keyboard.Keyboard is using ptb backend.
+9.3187 	EXP 	lexical_decision: status = STARTED
+9.3213 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.03, 0.03]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.3685 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.3695 	EXP 	Created fix = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fix', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.03, 0.03]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.3700 	EXP 	Created stim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stim', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+9.3739 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you for your contribution!\n', units='height', win=Window(...), wrapWidth=1)
+0.0055 	EXP 	fixation: autoDraw = True
+0.5151 	INFO 	Keyboard events cleared
+0.5148 	EXP 	fixation: autoDraw = False
+0.5148 	EXP 	text: autoDraw = True
+2.3682 	DATA 	Keypress: space
+2.3858 	EXP 	Device response: <KeyPress from None: t=2.3657854000011866, value=space, duration=None>
+2.3939 	EXP 	Imported COND.xlsx as conditions, 20 conditions, 3 params
+2.3963 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'stimulus': 'garden', 'type': 'word', 'correct_key': 'z', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+2.4042 	EXP 	fixation: autoDraw = False
+2.4042 	EXP 	text: autoDraw = False
+2.4042 	EXP 	stim: height = np.float64(0.05)
+2.4042 	EXP 	stim: height = np.float64(0.05)
+2.4042 	EXP 	stim: height = np.float64(0.05)
+2.4042 	EXP 	stim: text = 'garden'
+2.4042 	EXP 	fix: autoDraw = True
+2.5643 	EXP 	Device response: <KeyPress from None: t=2.3657854000011866, value=space, duration=0.19083839999984775>
+2.8973 	INFO 	Keyboard events cleared
+2.8970 	EXP 	stim: autoDraw = True
+2.9137 	EXP 	fix: autoDraw = False
+3.6144 	EXP 	Device response: <KeyPress from None: t=3.6036297000009654, value=z, duration=None>
+3.6147 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'stimulus': 'fradge', 'type': 'nonword', 'correct_key': 'm', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+3.6189 	DATA 	Keypress: z
+3.6306 	EXP 	fix: autoDraw = False
+3.6306 	EXP 	stim: autoDraw = False
+3.6306 	EXP 	stim: height = np.float64(0.05)
+3.6306 	EXP 	stim: height = np.float64(0.05)
+3.6306 	EXP 	stim: height = np.float64(0.05)
+3.6306 	EXP 	stim: text = 'fradge'
+3.6306 	EXP 	fix: autoDraw = True
+3.7975 	EXP 	Device response: <KeyPress from None: t=3.6036297000009654, value=z, duration=0.18983359999947425>
+4.1140 	INFO 	Keyboard events cleared
+4.1139 	EXP 	stim: autoDraw = True
+4.1304 	EXP 	fix: autoDraw = False
+5.0815 	EXP 	Device response: <KeyPress from None: t=5.0775940000003175, value=m, duration=None>
+5.0819 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'stimulus': 'flirp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+5.0869 	DATA 	Keypress: m
+5.0971 	EXP 	fix: autoDraw = False
+5.0971 	EXP 	stim: autoDraw = False
+5.0971 	EXP 	stim: height = np.float64(0.05)
+5.0971 	EXP 	stim: height = np.float64(0.05)
+5.0971 	EXP 	stim: height = np.float64(0.05)
+5.0971 	EXP 	stim: text = 'flirp'
+5.0971 	EXP 	fix: autoDraw = True
+5.2651 	EXP 	Device response: <KeyPress from None: t=5.0775940000003175, value=m, duration=0.17415550000077928>
+5.5815 	INFO 	Keyboard events cleared
+5.5813 	EXP 	stim: autoDraw = True
+5.5977 	EXP 	fix: autoDraw = False
+6.5643 	EXP 	Device response: <KeyPress from None: t=6.550711500000034, value=m, duration=None>
+6.5646 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'stimulus': 'river', 'type': 'word', 'correct_key': 'z', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+6.5708 	DATA 	Keypress: m
+6.5809 	EXP 	fix: autoDraw = False
+6.5809 	EXP 	stim: autoDraw = False
+6.5809 	EXP 	stim: height = np.float64(0.05)
+6.5809 	EXP 	stim: height = np.float64(0.05)
+6.5809 	EXP 	stim: height = np.float64(0.05)
+6.5809 	EXP 	stim: text = 'river'
+6.5809 	EXP 	fix: autoDraw = True
+6.7155 	EXP 	Device response: <KeyPress from None: t=6.550711500000034, value=m, duration=0.1513121999996656>
+7.0643 	INFO 	Keyboard events cleared
+7.0641 	EXP 	stim: autoDraw = True
+7.0808 	EXP 	fix: autoDraw = False
+7.6652 	EXP 	Device response: <KeyPress from None: t=7.658321800001431, value=z, duration=None>
+7.6657 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'stimulus': 'bottle', 'type': 'word', 'correct_key': 'z', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+7.6704 	DATA 	Keypress: z
+7.6809 	EXP 	fix: autoDraw = False
+7.6809 	EXP 	stim: autoDraw = False
+7.6809 	EXP 	stim: height = np.float64(0.05)
+7.6809 	EXP 	stim: height = np.float64(0.05)
+7.6809 	EXP 	stim: height = np.float64(0.05)
+7.6809 	EXP 	stim: text = 'bottle'
+7.6809 	EXP 	fix: autoDraw = True
+7.8312 	EXP 	Device response: <KeyPress from None: t=7.658321800001431, value=z, duration=0.1652323999987857>
+8.1811 	INFO 	Keyboard events cleared
+8.1809 	EXP 	fix: autoDraw = False
+8.1809 	EXP 	stim: autoDraw = True
+8.6979 	EXP 	Device response: <KeyPress from None: t=8.690565300001253, value=z, duration=None>
+8.6984 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'stimulus': 'plome', 'type': 'nonword', 'correct_key': 'm', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+8.7032 	DATA 	Keypress: z
+8.7141 	EXP 	fix: autoDraw = False
+8.7141 	EXP 	stim: autoDraw = False
+8.7141 	EXP 	stim: height = np.float64(0.05)
+8.7141 	EXP 	stim: height = np.float64(0.05)
+8.7141 	EXP 	stim: height = np.float64(0.05)
+8.7141 	EXP 	stim: text = 'plome'
+8.7141 	EXP 	fix: autoDraw = True
+8.8648 	EXP 	Device response: <KeyPress from None: t=8.690565300001253, value=z, duration=0.15560329999971145>
+9.2146 	INFO 	Keyboard events cleared
+9.2144 	EXP 	fix: autoDraw = False
+9.2144 	EXP 	stim: autoDraw = True
+10.6317 	EXP 	Device response: <KeyPress from None: t=10.619400700001279, value=z, duration=None>
+10.6321 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'stimulus': 'brantle', 'type': 'nonword', 'correct_key': 'm', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+10.6363 	DATA 	Keypress: z
+10.6470 	EXP 	fix: autoDraw = False
+10.6470 	EXP 	stim: autoDraw = False
+10.6470 	EXP 	stim: height = np.float64(0.05)
+10.6470 	EXP 	stim: height = np.float64(0.05)
+10.6470 	EXP 	stim: height = np.float64(0.05)
+10.6470 	EXP 	stim: text = 'brantle'
+10.6470 	EXP 	fix: autoDraw = True
+10.7815 	EXP 	Device response: <KeyPress from None: t=10.619400700001279, value=z, duration=0.15717489999951795>
+11.1475 	INFO 	Keyboard events cleared
+11.1473 	EXP 	fix: autoDraw = False
+11.1473 	EXP 	stim: autoDraw = True
+12.0543 	DATA 	Keypress: m
+12.0650 	EXP 	Device response: <KeyPress from None: t=12.050558099999762, value=m, duration=None>
+12.0654 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'stimulus': 'glenter', 'type': 'nonword', 'correct_key': 'm', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+12.0808 	EXP 	fix: autoDraw = False
+12.0808 	EXP 	stim: autoDraw = False
+12.0808 	EXP 	stim: height = np.float64(0.05)
+12.0808 	EXP 	stim: height = np.float64(0.05)
+12.0808 	EXP 	stim: height = np.float64(0.05)
+12.0808 	EXP 	stim: text = 'glenter'
+12.0808 	EXP 	fix: autoDraw = True
+12.1980 	EXP 	Device response: <KeyPress from None: t=12.050558099999762, value=m, duration=0.1455846000008023>
+12.5805 	INFO 	Keyboard events cleared
+12.5804 	EXP 	fix: autoDraw = False
+12.5804 	EXP 	stim: autoDraw = True
+13.3481 	EXP 	Device response: <KeyPress from None: t=13.33485600000131, value=m, duration=None>
+13.3487 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'stimulus': 'drent', 'type': 'nonword', 'correct_key': 'm', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+13.3540 	DATA 	Keypress: m
+13.3640 	EXP 	fix: autoDraw = False
+13.3640 	EXP 	stim: autoDraw = False
+13.3640 	EXP 	stim: height = np.float64(0.05)
+13.3640 	EXP 	stim: height = np.float64(0.05)
+13.3640 	EXP 	stim: height = np.float64(0.05)
+13.3640 	EXP 	stim: text = 'drent'
+13.3640 	EXP 	fix: autoDraw = True
+13.4978 	EXP 	Device response: <KeyPress from None: t=13.33485600000131, value=m, duration=0.1548161999999138>
+13.8644 	INFO 	Keyboard events cleared
+13.8642 	EXP 	fix: autoDraw = False
+13.8642 	EXP 	stim: autoDraw = True
+15.2475 	EXP 	Device response: <KeyPress from None: t=15.240253900001335, value=m, duration=None>
+15.2479 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'stimulus': 'pillow', 'type': 'word', 'correct_key': 'z', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+15.2559 	DATA 	Keypress: m
+15.2635 	EXP 	fix: autoDraw = False
+15.2635 	EXP 	stim: autoDraw = False
+15.2635 	EXP 	stim: height = np.float64(0.05)
+15.2635 	EXP 	stim: height = np.float64(0.05)
+15.2635 	EXP 	stim: height = np.float64(0.05)
+15.2635 	EXP 	stim: text = 'pillow'
+15.2635 	EXP 	fix: autoDraw = True
+15.3810 	EXP 	Device response: <KeyPress from None: t=15.240253900001335, value=m, duration=0.1266421000000264>
+15.7474 	INFO 	Keyboard events cleared
+15.7472 	EXP 	stim: autoDraw = True
+15.7638 	EXP 	fix: autoDraw = False
+16.4644 	EXP 	Device response: <KeyPress from None: t=16.462455200000477, value=z, duration=None>
+16.4648 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'stimulus': 'market', 'type': 'word', 'correct_key': 'z', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+16.4693 	DATA 	Keypress: z
+16.4807 	EXP 	fix: autoDraw = False
+16.4807 	EXP 	stim: autoDraw = False
+16.4807 	EXP 	stim: height = np.float64(0.05)
+16.4807 	EXP 	stim: height = np.float64(0.05)
+16.4807 	EXP 	stim: height = np.float64(0.05)
+16.4807 	EXP 	stim: text = 'market'
+16.4807 	EXP 	fix: autoDraw = True
+16.6480 	EXP 	Device response: <KeyPress from None: t=16.462455200000477, value=z, duration=0.1681016999991698>
+16.9641 	INFO 	Keyboard events cleared
+16.9639 	EXP 	stim: autoDraw = True
+16.9818 	EXP 	fix: autoDraw = False
+17.3978 	EXP 	Device response: <KeyPress from None: t=17.390739000000394, value=z, duration=None>
+17.3982 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'stimulus': 'clope', 'type': 'nonword', 'correct_key': 'm', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+17.4032 	DATA 	Keypress: z
+17.4142 	EXP 	fix: autoDraw = False
+17.4142 	EXP 	stim: autoDraw = False
+17.4142 	EXP 	stim: height = np.float64(0.05)
+17.4142 	EXP 	stim: height = np.float64(0.05)
+17.4142 	EXP 	stim: height = np.float64(0.05)
+17.4142 	EXP 	stim: text = 'clope'
+17.4142 	EXP 	fix: autoDraw = True
+17.5309 	EXP 	Device response: <KeyPress from None: t=17.390739000000394, value=z, duration=0.13791450000098848>
+17.9138 	INFO 	Keyboard events cleared
+17.9136 	EXP 	fix: autoDraw = False
+17.9136 	EXP 	stim: autoDraw = True
+19.2308 	EXP 	Device response: <KeyPress from None: t=19.227710900000602, value=z, duration=None>
+19.2313 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'stimulus': 'doctor', 'type': 'word', 'correct_key': 'z', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+19.2371 	DATA 	Keypress: z
+19.2470 	EXP 	fix: autoDraw = False
+19.2470 	EXP 	stim: autoDraw = False
+19.2470 	EXP 	stim: height = np.float64(0.05)
+19.2470 	EXP 	stim: height = np.float64(0.05)
+19.2470 	EXP 	stim: height = np.float64(0.05)
+19.2470 	EXP 	stim: text = 'doctor'
+19.2470 	EXP 	fix: autoDraw = True
+19.3804 	EXP 	Device response: <KeyPress from None: t=19.227710900000602, value=z, duration=0.14885169999979553>
+19.7308 	INFO 	Keyboard events cleared
+19.7305 	EXP 	stim: autoDraw = True
+19.7473 	EXP 	fix: autoDraw = False
+20.3647 	EXP 	Device response: <KeyPress from None: t=20.353593900001215, value=z, duration=None>
+20.3651 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'stimulus': 'trallip', 'type': 'nonword', 'correct_key': 'm', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+20.3702 	DATA 	Keypress: z
+20.3803 	EXP 	fix: autoDraw = False
+20.3803 	EXP 	stim: autoDraw = False
+20.3803 	EXP 	stim: height = np.float64(0.05)
+20.3803 	EXP 	stim: height = np.float64(0.05)
+20.3803 	EXP 	stim: height = np.float64(0.05)
+20.3803 	EXP 	stim: text = 'trallip'
+20.3803 	EXP 	fix: autoDraw = True
+20.4973 	EXP 	Device response: <KeyPress from None: t=20.353593900001215, value=z, duration=0.13409829999909562>
+20.8805 	INFO 	Keyboard events cleared
+20.8803 	EXP 	fix: autoDraw = False
+20.8803 	EXP 	stim: autoDraw = True
+21.7308 	EXP 	Device response: <KeyPress from None: t=21.725467199999912, value=m, duration=None>
+21.7312 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'stimulus': 'apple', 'type': 'word', 'correct_key': 'z', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+21.7371 	DATA 	Keypress: m
+21.7470 	EXP 	fix: autoDraw = False
+21.7470 	EXP 	stim: autoDraw = False
+21.7470 	EXP 	stim: height = np.float64(0.05)
+21.7470 	EXP 	stim: height = np.float64(0.05)
+21.7470 	EXP 	stim: height = np.float64(0.05)
+21.7470 	EXP 	stim: text = 'apple'
+21.7470 	EXP 	fix: autoDraw = True
+21.8980 	EXP 	Device response: <KeyPress from None: t=21.725467199999912, value=m, duration=0.1536580000010872>
+22.2304 	INFO 	Keyboard events cleared
+22.2302 	EXP 	stim: autoDraw = True
+22.2473 	EXP 	fix: autoDraw = False
+23.0467 	EXP 	Device response: <KeyPress from None: t=23.03824440000062, value=z, duration=None>
+23.0471 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'stimulus': 'window', 'type': 'word', 'correct_key': 'z', 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+23.0538 	DATA 	Keypress: z
+23.0629 	EXP 	fix: autoDraw = False
+23.0629 	EXP 	stim: autoDraw = False
+23.0629 	EXP 	stim: height = np.float64(0.05)
+23.0629 	EXP 	stim: height = np.float64(0.05)
+23.0629 	EXP 	stim: height = np.float64(0.05)
+23.0629 	EXP 	stim: text = 'window'
+23.0629 	EXP 	fix: autoDraw = True
+23.1633 	EXP 	Device response: <KeyPress from None: t=23.03824440000062, value=z, duration=0.11278379999930621>
+23.5467 	INFO 	Keyboard events cleared
+23.5465 	EXP 	stim: autoDraw = True
+23.5632 	EXP 	fix: autoDraw = False
+24.2305 	EXP 	Device response: <KeyPress from None: t=24.22295000000122, value=z, duration=None>
+24.2310 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'stimulus': 'yellow', 'type': 'word', 'correct_key': 'z', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+24.2369 	DATA 	Keypress: z
+24.2467 	EXP 	fix: autoDraw = False
+24.2467 	EXP 	stim: autoDraw = False
+24.2467 	EXP 	stim: height = np.float64(0.05)
+24.2467 	EXP 	stim: height = np.float64(0.05)
+24.2467 	EXP 	stim: height = np.float64(0.05)
+24.2467 	EXP 	stim: text = 'yellow'
+24.2467 	EXP 	fix: autoDraw = True
+24.3807 	EXP 	Device response: <KeyPress from None: t=24.22295000000122, value=z, duration=0.15577829999892856>
+24.7303 	INFO 	Keyboard events cleared
+24.7301 	EXP 	stim: autoDraw = True
+24.7470 	EXP 	fix: autoDraw = False
+25.4470 	EXP 	Device response: <KeyPress from None: t=25.43905640000048, value=z, duration=None>
+25.4474 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'stimulus': 'silver', 'type': 'word', 'correct_key': 'z', 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+25.4528 	DATA 	Keypress: z
+25.4632 	EXP 	fix: autoDraw = False
+25.4632 	EXP 	stim: autoDraw = False
+25.4632 	EXP 	stim: height = np.float64(0.05)
+25.4632 	EXP 	stim: height = np.float64(0.05)
+25.4632 	EXP 	stim: height = np.float64(0.05)
+25.4632 	EXP 	stim: text = 'silver'
+25.4632 	EXP 	fix: autoDraw = True
+25.5803 	EXP 	Device response: <KeyPress from None: t=25.43905640000048, value=z, duration=0.13040750000072876>
+25.9465 	INFO 	Keyboard events cleared
+25.9463 	EXP 	stim: autoDraw = True
+25.9629 	EXP 	fix: autoDraw = False
+26.4309 	EXP 	Device response: <KeyPress from None: t=26.420619600001373, value=z, duration=None>
+26.4313 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'stimulus': 'snarp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+26.4825 	DATA 	Keypress: z
+26.4848 	EXP 	fix: autoDraw = False
+26.4848 	EXP 	stim: autoDraw = False
+26.4848 	EXP 	stim: height = np.float64(0.05)
+26.4848 	EXP 	stim: height = np.float64(0.05)
+26.4848 	EXP 	stim: height = np.float64(0.05)
+26.4848 	EXP 	stim: text = 'snarp'
+26.4848 	EXP 	fix: autoDraw = True
+26.5808 	EXP 	Device response: <KeyPress from None: t=26.420619600001373, value=z, duration=0.14627399999881163>
+26.9469 	INFO 	Keyboard events cleared
+26.9466 	EXP 	stim: autoDraw = True
+26.9968 	EXP 	fix: autoDraw = False
+27.6001 	DATA 	Keypress: z
+27.6141 	EXP 	Device response: <KeyPress from None: t=27.59603750000133, value=z, duration=None>
+27.6146 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'stimulus': 'smode', 'type': 'nonword', 'correct_key': 'm', 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+27.6302 	EXP 	fix: autoDraw = False
+27.6302 	EXP 	stim: autoDraw = False
+27.6302 	EXP 	stim: height = np.float64(0.05)
+27.6302 	EXP 	stim: height = np.float64(0.05)
+27.6302 	EXP 	stim: height = np.float64(0.05)
+27.6302 	EXP 	stim: text = 'smode'
+27.6302 	EXP 	fix: autoDraw = True
+27.7637 	EXP 	Device response: <KeyPress from None: t=27.59603750000133, value=z, duration=0.15695549999873037>
+28.1131 	INFO 	Keyboard events cleared
+28.1129 	EXP 	stim: autoDraw = True
+28.1301 	EXP 	fix: autoDraw = False
+29.4310 	EXP 	Device response: <KeyPress from None: t=29.42197440000018, value=m, duration=None>
+29.4315 	EXP 	New trial (rep=1, index=0): <Trial 20 (0 in rep 1) data={'stimulus': 'smode', 'type': 'nonword', 'correct_key': 'm', 'thisN': 20, 'thisTrialN': 0, 'thisRepN': 1}>
+29.4331 	DATA 	Keypress: m
+29.4465 	EXP 	fix: autoDraw = False
+29.4465 	EXP 	stim: autoDraw = False
+29.4465 	EXP 	stim: text = 'smode'
+29.4465 	EXP 	fix: autoDraw = True
+29.5805 	EXP 	Device response: <KeyPress from None: t=29.42197440000018, value=m, duration=0.14945770000122138>
+29.9470 	INFO 	Keyboard events cleared
+29.9468 	EXP 	fix: autoDraw = False
+29.9468 	EXP 	stim: autoDraw = True
+31.5807 	EXP 	Device response: <KeyPress from None: t=31.5697282000001, value=m, duration=None>
+31.5817 	EXP 	New trial (rep=1, index=1): <Trial 21 (1 in rep 1) data={'stimulus': 'fradge', 'type': 'nonword', 'correct_key': 'm', 'thisN': 21, 'thisTrialN': 1, 'thisRepN': 1}>
+31.5871 	DATA 	Keypress: m
+31.5964 	EXP 	fix: autoDraw = False
+31.5964 	EXP 	stim: autoDraw = False
+31.5964 	EXP 	stim: height = np.float64(0.05)
+31.5964 	EXP 	stim: height = np.float64(0.05)
+31.5964 	EXP 	stim: height = np.float64(0.05)
+31.5964 	EXP 	stim: text = 'fradge'
+31.5964 	EXP 	fix: autoDraw = True
+31.7131 	EXP 	Device response: <KeyPress from None: t=31.5697282000001, value=m, duration=0.1362621999996918>
+32.0968 	INFO 	Keyboard events cleared
+32.0965 	EXP 	fix: autoDraw = False
+32.0965 	EXP 	stim: autoDraw = True
+33.4460 	EXP 	Device response: <KeyPress from None: t=33.4433482000004, value=m, duration=None>
+33.4463 	EXP 	New trial (rep=1, index=2): <Trial 22 (2 in rep 1) data={'stimulus': 'flirp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 22, 'thisTrialN': 2, 'thisRepN': 1}>
+33.4515 	DATA 	Keypress: m
+33.4625 	EXP 	fix: autoDraw = False
+33.4625 	EXP 	stim: autoDraw = False
+33.4625 	EXP 	stim: height = np.float64(0.05)
+33.4625 	EXP 	stim: height = np.float64(0.05)
+33.4625 	EXP 	stim: height = np.float64(0.05)
+33.4625 	EXP 	stim: text = 'flirp'
+33.4625 	EXP 	fix: autoDraw = True
+33.6300 	EXP 	Device response: <KeyPress from None: t=33.4433482000004, value=m, duration=0.1805531999998493>
+33.9463 	INFO 	Keyboard events cleared
+33.9461 	EXP 	stim: autoDraw = True
+33.9630 	EXP 	fix: autoDraw = False
+35.1306 	EXP 	Device response: <KeyPress from None: t=35.12208570000075, value=m, duration=None>
+35.1311 	EXP 	New trial (rep=1, index=3): <Trial 23 (3 in rep 1) data={'stimulus': 'snarp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 23, 'thisTrialN': 3, 'thisRepN': 1}>
+35.1359 	DATA 	Keypress: m
+35.1461 	EXP 	fix: autoDraw = False
+35.1461 	EXP 	stim: autoDraw = False
+35.1461 	EXP 	stim: height = np.float64(0.05)
+35.1461 	EXP 	stim: height = np.float64(0.05)
+35.1461 	EXP 	stim: height = np.float64(0.05)
+35.1461 	EXP 	stim: text = 'snarp'
+35.1461 	EXP 	fix: autoDraw = True
+35.3132 	EXP 	Device response: <KeyPress from None: t=35.12208570000075, value=m, duration=0.18296639999971376>
+35.6465 	INFO 	Keyboard events cleared
+35.6463 	EXP 	fix: autoDraw = False
+35.6463 	EXP 	stim: autoDraw = True
+37.4638 	EXP 	Device response: <KeyPress from None: t=37.45548840000083, value=z, duration=None>
+37.4644 	EXP 	New trial (rep=1, index=4): <Trial 24 (4 in rep 1) data={'stimulus': 'bottle', 'type': 'word', 'correct_key': 'z', 'thisN': 24, 'thisTrialN': 4, 'thisRepN': 1}>
+37.4688 	DATA 	Keypress: z
+37.4793 	EXP 	fix: autoDraw = False
+37.4793 	EXP 	stim: autoDraw = False
+37.4793 	EXP 	stim: height = np.float64(0.05)
+37.4793 	EXP 	stim: height = np.float64(0.05)
+37.4793 	EXP 	stim: height = np.float64(0.05)
+37.4793 	EXP 	stim: text = 'bottle'
+37.4793 	EXP 	fix: autoDraw = True
+37.6462 	EXP 	Device response: <KeyPress from None: t=37.45548840000083, value=z, duration=0.18482050000056915>
+37.9794 	INFO 	Keyboard events cleared
+37.9792 	EXP 	fix: autoDraw = False
+37.9792 	EXP 	stim: autoDraw = True
+38.6303 	EXP 	Device response: <KeyPress from None: t=38.62198189999981, value=z, duration=None>
+38.6310 	EXP 	New trial (rep=1, index=5): <Trial 25 (5 in rep 1) data={'stimulus': 'plome', 'type': 'nonword', 'correct_key': 'm', 'thisN': 25, 'thisTrialN': 5, 'thisRepN': 1}>
+38.6363 	DATA 	Keypress: z
+38.6460 	EXP 	fix: autoDraw = False
+38.6460 	EXP 	stim: autoDraw = False
+38.6460 	EXP 	stim: height = np.float64(0.05)
+38.6460 	EXP 	stim: height = np.float64(0.05)
+38.6460 	EXP 	stim: height = np.float64(0.05)
+38.6460 	EXP 	stim: text = 'plome'
+38.6460 	EXP 	fix: autoDraw = True
+38.7964 	EXP 	Device response: <KeyPress from None: t=38.62198189999981, value=z, duration=0.16239480000149342>
+39.1464 	INFO 	Keyboard events cleared
+39.1461 	EXP 	fix: autoDraw = False
+39.1461 	EXP 	stim: autoDraw = True
+42.2463 	EXP 	Device response: <KeyPress from None: t=42.238107400000445, value=z, duration=None>
+42.2468 	EXP 	New trial (rep=1, index=6): <Trial 26 (6 in rep 1) data={'stimulus': 'glenter', 'type': 'nonword', 'correct_key': 'm', 'thisN': 26, 'thisTrialN': 6, 'thisRepN': 1}>
+42.2525 	DATA 	Keypress: z
+42.2626 	EXP 	fix: autoDraw = False
+42.2626 	EXP 	stim: autoDraw = False
+42.2626 	EXP 	stim: height = np.float64(0.05)
+42.2626 	EXP 	stim: height = np.float64(0.05)
+42.2626 	EXP 	stim: height = np.float64(0.05)
+42.2626 	EXP 	stim: text = 'glenter'
+42.2626 	EXP 	fix: autoDraw = True
+42.4132 	EXP 	Device response: <KeyPress from None: t=42.238107400000445, value=z, duration=0.16287779999947816>
+42.7464 	INFO 	Keyboard events cleared
+42.7461 	EXP 	stim: autoDraw = True
+42.7627 	EXP 	fix: autoDraw = False
+44.5128 	EXP 	Device response: <KeyPress from None: t=44.50499730000047, value=m, duration=None>
+44.5132 	EXP 	New trial (rep=1, index=7): <Trial 27 (7 in rep 1) data={'stimulus': 'market', 'type': 'word', 'correct_key': 'z', 'thisN': 27, 'thisTrialN': 7, 'thisRepN': 1}>
+44.5187 	DATA 	Keypress: m
+44.5290 	EXP 	fix: autoDraw = False
+44.5290 	EXP 	stim: autoDraw = False
+44.5290 	EXP 	stim: height = np.float64(0.05)
+44.5290 	EXP 	stim: height = np.float64(0.05)
+44.5290 	EXP 	stim: height = np.float64(0.05)
+44.5290 	EXP 	stim: text = 'market'
+44.5290 	EXP 	fix: autoDraw = True
+44.6461 	EXP 	Device response: <KeyPress from None: t=44.50499730000047, value=m, duration=0.13279549999970186>
+45.0292 	INFO 	Keyboard events cleared
+45.0290 	EXP 	fix: autoDraw = False
+45.0290 	EXP 	stim: autoDraw = True
+45.7977 	DATA 	Keypress: z
+45.8124 	EXP 	Device response: <KeyPress from None: t=45.796653700001116, value=z, duration=None>
+45.8125 	EXP 	New trial (rep=1, index=8): <Trial 28 (8 in rep 1) data={'stimulus': 'clope', 'type': 'nonword', 'correct_key': 'm', 'thisN': 28, 'thisTrialN': 8, 'thisRepN': 1}>
+45.8287 	EXP 	fix: autoDraw = False
+45.8287 	EXP 	stim: autoDraw = False
+45.8287 	EXP 	stim: height = np.float64(0.05)
+45.8287 	EXP 	stim: height = np.float64(0.05)
+45.8287 	EXP 	stim: height = np.float64(0.05)
+45.8287 	EXP 	stim: text = 'clope'
+45.8287 	EXP 	fix: autoDraw = True
+45.9292 	EXP 	Device response: <KeyPress from None: t=45.796653700001116, value=z, duration=0.12155100000018138>
+46.3125 	INFO 	Keyboard events cleared
+46.3122 	EXP 	stim: autoDraw = True
+46.3289 	EXP 	fix: autoDraw = False
+48.3127 	EXP 	Device response: <KeyPress from None: t=48.29885430000104, value=z, duration=None>
+48.3131 	EXP 	New trial (rep=1, index=9): <Trial 29 (9 in rep 1) data={'stimulus': 'apple', 'type': 'word', 'correct_key': 'z', 'thisN': 29, 'thisTrialN': 9, 'thisRepN': 1}>
+48.3181 	DATA 	Keypress: z
+48.3286 	EXP 	fix: autoDraw = False
+48.3286 	EXP 	stim: autoDraw = False
+48.3286 	EXP 	stim: height = np.float64(0.05)
+48.3286 	EXP 	stim: height = np.float64(0.05)
+48.3286 	EXP 	stim: height = np.float64(0.05)
+48.3286 	EXP 	stim: text = 'apple'
+48.3286 	EXP 	fix: autoDraw = True
+48.4623 	EXP 	Device response: <KeyPress from None: t=48.29885430000104, value=z, duration=0.15472479999880306>
+48.8289 	INFO 	Keyboard events cleared
+48.8287 	EXP 	fix: autoDraw = False
+48.8287 	EXP 	stim: autoDraw = True
+49.4331 	DATA 	Keypress: z
+49.4452 	EXP 	Device response: <KeyPress from None: t=49.430446700000175, value=z, duration=None>
+49.4454 	EXP 	New trial (rep=1, index=10): <Trial 30 (10 in rep 1) data={'stimulus': 'garden', 'type': 'word', 'correct_key': 'z', 'thisN': 30, 'thisTrialN': 10, 'thisRepN': 1}>
+49.4617 	EXP 	fix: autoDraw = False
+49.4617 	EXP 	stim: autoDraw = False
+49.4617 	EXP 	stim: height = np.float64(0.05)
+49.4617 	EXP 	stim: height = np.float64(0.05)
+49.4617 	EXP 	stim: height = np.float64(0.05)
+49.4617 	EXP 	stim: text = 'garden'
+49.4617 	EXP 	fix: autoDraw = True
+49.5785 	EXP 	Device response: <KeyPress from None: t=49.430446700000175, value=z, duration=0.14496710000094026>
+49.9450 	INFO 	Keyboard events cleared
+49.9449 	EXP 	stim: autoDraw = True
+49.9617 	EXP 	fix: autoDraw = False
+50.5125 	EXP 	Device response: <KeyPress from None: t=50.50064480000037, value=z, duration=None>
+50.5127 	EXP 	New trial (rep=1, index=11): <Trial 31 (11 in rep 1) data={'stimulus': 'pillow', 'type': 'word', 'correct_key': 'z', 'thisN': 31, 'thisTrialN': 11, 'thisRepN': 1}>
+50.5151 	DATA 	Keypress: z
+50.5281 	EXP 	fix: autoDraw = False
+50.5281 	EXP 	stim: autoDraw = False
+50.5281 	EXP 	stim: height = np.float64(0.05)
+50.5281 	EXP 	stim: height = np.float64(0.05)
+50.5281 	EXP 	stim: height = np.float64(0.05)
+50.5281 	EXP 	stim: text = 'pillow'
+50.5281 	EXP 	fix: autoDraw = True
+50.6619 	EXP 	Device response: <KeyPress from None: t=50.50064480000037, value=z, duration=0.1440729999994801>
+51.0285 	INFO 	Keyboard events cleared
+51.0284 	EXP 	fix: autoDraw = False
+51.0284 	EXP 	stim: autoDraw = True
+51.5286 	EXP 	Device response: <KeyPress from None: t=51.525175200000376, value=z, duration=None>
+51.5289 	EXP 	New trial (rep=1, index=12): <Trial 32 (12 in rep 1) data={'stimulus': 'silver', 'type': 'word', 'correct_key': 'z', 'thisN': 32, 'thisTrialN': 12, 'thisRepN': 1}>
+51.5332 	DATA 	Keypress: z
+51.5451 	EXP 	fix: autoDraw = False
+51.5451 	EXP 	stim: autoDraw = False
+51.5451 	EXP 	stim: height = np.float64(0.05)
+51.5451 	EXP 	stim: height = np.float64(0.05)
+51.5451 	EXP 	stim: height = np.float64(0.05)
+51.5451 	EXP 	stim: text = 'silver'
+51.5451 	EXP 	fix: autoDraw = True
+51.6953 	EXP 	Device response: <KeyPress from None: t=51.525175200000376, value=z, duration=0.16440429999966>
+52.0284 	INFO 	Keyboard events cleared
+52.0282 	EXP 	stim: autoDraw = True
+52.0449 	EXP 	fix: autoDraw = False
+52.4792 	EXP 	Device response: <KeyPress from None: t=52.473257300000114, value=z, duration=None>
+52.4796 	EXP 	New trial (rep=1, index=13): <Trial 33 (13 in rep 1) data={'stimulus': 'trallip', 'type': 'nonword', 'correct_key': 'm', 'thisN': 33, 'thisTrialN': 13, 'thisRepN': 1}>
+52.4832 	DATA 	Keypress: z
+52.4948 	EXP 	fix: autoDraw = False
+52.4948 	EXP 	stim: autoDraw = False
+52.4948 	EXP 	stim: height = np.float64(0.05)
+52.4948 	EXP 	stim: height = np.float64(0.05)
+52.4948 	EXP 	stim: height = np.float64(0.05)
+52.4948 	EXP 	stim: text = 'trallip'
+52.4948 	EXP 	fix: autoDraw = True
+52.6625 	EXP 	Device response: <KeyPress from None: t=52.473257300000114, value=z, duration=0.17135770000095363>
+52.9791 	INFO 	Keyboard events cleared
+52.9789 	EXP 	stim: autoDraw = True
+52.9954 	EXP 	fix: autoDraw = False
+53.4627 	EXP 	Device response: <KeyPress from None: t=53.451194100000066, value=z, duration=None>
+53.4631 	EXP 	New trial (rep=1, index=14): <Trial 34 (14 in rep 1) data={'stimulus': 'window', 'type': 'word', 'correct_key': 'z', 'thisN': 34, 'thisTrialN': 14, 'thisRepN': 1}>
+53.4679 	DATA 	Keypress: z
+53.4786 	EXP 	fix: autoDraw = False
+53.4786 	EXP 	stim: autoDraw = False
+53.4786 	EXP 	stim: height = np.float64(0.05)
+53.4786 	EXP 	stim: height = np.float64(0.05)
+53.4786 	EXP 	stim: height = np.float64(0.05)
+53.4786 	EXP 	stim: text = 'window'
+53.4786 	EXP 	fix: autoDraw = True
+53.6120 	EXP 	Device response: <KeyPress from None: t=53.451194100000066, value=z, duration=0.15714870000010706>
+53.9628 	INFO 	Keyboard events cleared
+53.9625 	EXP 	stim: autoDraw = True
+53.9785 	EXP 	fix: autoDraw = False
+54.5788 	EXP 	Device response: <KeyPress from None: t=54.56719189999967, value=z, duration=None>
+54.5792 	EXP 	New trial (rep=1, index=15): <Trial 35 (15 in rep 1) data={'stimulus': 'yellow', 'type': 'word', 'correct_key': 'z', 'thisN': 35, 'thisTrialN': 15, 'thisRepN': 1}>
+54.5847 	DATA 	Keypress: z
+54.5947 	EXP 	fix: autoDraw = False
+54.5947 	EXP 	stim: autoDraw = False
+54.5947 	EXP 	stim: height = np.float64(0.05)
+54.5947 	EXP 	stim: height = np.float64(0.05)
+54.5947 	EXP 	stim: height = np.float64(0.05)
+54.5947 	EXP 	stim: text = 'yellow'
+54.5947 	EXP 	fix: autoDraw = True
+54.7292 	EXP 	Device response: <KeyPress from None: t=54.56719189999967, value=z, duration=0.1471592000016244>
+55.0789 	INFO 	Keyboard events cleared
+55.0787 	EXP 	stim: autoDraw = True
+55.0953 	EXP 	fix: autoDraw = False
+55.6811 	DATA 	Keypress: z
+55.6961 	EXP 	Device response: <KeyPress from None: t=55.67916479999985, value=z, duration=None>
+55.6966 	EXP 	New trial (rep=1, index=16): <Trial 36 (16 in rep 1) data={'stimulus': 'brantle', 'type': 'nonword', 'correct_key': 'm', 'thisN': 36, 'thisTrialN': 16, 'thisRepN': 1}>
+55.7119 	EXP 	fix: autoDraw = False
+55.7119 	EXP 	stim: autoDraw = False
+55.7119 	EXP 	stim: height = np.float64(0.05)
+55.7119 	EXP 	stim: height = np.float64(0.05)
+55.7119 	EXP 	stim: height = np.float64(0.05)
+55.7119 	EXP 	stim: text = 'brantle'
+55.7119 	EXP 	fix: autoDraw = True
+55.7953 	EXP 	Device response: <KeyPress from None: t=55.67916479999985, value=z, duration=0.11483820000103151>
+56.2126 	INFO 	Keyboard events cleared
+56.2123 	EXP 	fix: autoDraw = False
+56.2123 	EXP 	stim: autoDraw = True
+57.0001 	DATA 	Keypress: m
+57.0127 	EXP 	Device response: <KeyPress from None: t=56.997601200000645, value=m, duration=None>
+57.0131 	EXP 	New trial (rep=1, index=17): <Trial 37 (17 in rep 1) data={'stimulus': 'drent', 'type': 'nonword', 'correct_key': 'm', 'thisN': 37, 'thisTrialN': 17, 'thisRepN': 1}>
+57.0282 	EXP 	fix: autoDraw = False
+57.0282 	EXP 	stim: autoDraw = False
+57.0282 	EXP 	stim: height = np.float64(0.05)
+57.0282 	EXP 	stim: height = np.float64(0.05)
+57.0282 	EXP 	stim: height = np.float64(0.05)
+57.0282 	EXP 	stim: text = 'drent'
+57.0282 	EXP 	fix: autoDraw = True
+57.1457 	EXP 	Device response: <KeyPress from None: t=56.997601200000645, value=m, duration=0.13789229999929375>
+57.5289 	INFO 	Keyboard events cleared
+57.5286 	EXP 	fix: autoDraw = False
+57.5286 	EXP 	stim: autoDraw = True
+58.1792 	EXP 	Device response: <KeyPress from None: t=58.17287860000033, value=m, duration=None>
+58.1797 	EXP 	New trial (rep=1, index=18): <Trial 38 (18 in rep 1) data={'stimulus': 'river', 'type': 'word', 'correct_key': 'z', 'thisN': 38, 'thisTrialN': 18, 'thisRepN': 1}>
+58.1845 	DATA 	Keypress: m
+58.1945 	EXP 	fix: autoDraw = False
+58.1945 	EXP 	stim: autoDraw = False
+58.1945 	EXP 	stim: height = np.float64(0.05)
+58.1945 	EXP 	stim: height = np.float64(0.05)
+58.1945 	EXP 	stim: height = np.float64(0.05)
+58.1945 	EXP 	stim: text = 'river'
+58.1945 	EXP 	fix: autoDraw = True
+58.2957 	EXP 	Device response: <KeyPress from None: t=58.17287860000033, value=m, duration=0.10960940000040864>
+58.6948 	INFO 	Keyboard events cleared
+58.6946 	EXP 	fix: autoDraw = False
+58.6946 	EXP 	stim: autoDraw = True
+59.3624 	EXP 	Device response: <KeyPress from None: t=59.35852110000087, value=z, duration=None>
+59.3629 	EXP 	New trial (rep=1, index=19): <Trial 39 (19 in rep 1) data={'stimulus': 'doctor', 'type': 'word', 'correct_key': 'z', 'thisN': 39, 'thisTrialN': 19, 'thisRepN': 1}>
+59.3676 	DATA 	Keypress: z
+59.3788 	EXP 	fix: autoDraw = False
+59.3788 	EXP 	stim: autoDraw = False
+59.3788 	EXP 	stim: height = np.float64(0.05)
+59.3788 	EXP 	stim: height = np.float64(0.05)
+59.3788 	EXP 	stim: height = np.float64(0.05)
+59.3788 	EXP 	stim: text = 'doctor'
+59.3788 	EXP 	fix: autoDraw = True
+59.5295 	EXP 	Device response: <KeyPress from None: t=59.35852110000087, value=z, duration=0.1617874000003212>
+59.8618 	INFO 	Keyboard events cleared
+59.8616 	EXP 	stim: autoDraw = True
+59.8781 	EXP 	fix: autoDraw = False
+60.4514 	DATA 	Keypress: z
+60.4628 	EXP 	Device response: <KeyPress from None: t=60.44741000000067, value=z, duration=None>
+60.4634 	EXP 	New trial (rep=2, index=0): <Trial 40 (0 in rep 2) data={'stimulus': 'river', 'type': 'word', 'correct_key': 'z', 'thisN': 40, 'thisTrialN': 0, 'thisRepN': 2}>
+60.4783 	EXP 	fix: autoDraw = False
+60.4783 	EXP 	stim: autoDraw = False
+60.4783 	EXP 	stim: height = np.float64(0.05)
+60.4783 	EXP 	stim: height = np.float64(0.05)
+60.4783 	EXP 	stim: height = np.float64(0.05)
+60.4783 	EXP 	stim: text = 'river'
+60.4783 	EXP 	fix: autoDraw = True
+60.5790 	EXP 	Device response: <KeyPress from None: t=60.44741000000067, value=z, duration=0.11618499999894993>
+60.9783 	INFO 	Keyboard events cleared
+60.9781 	EXP 	fix: autoDraw = False
+60.9781 	EXP 	stim: autoDraw = True
+61.4828 	DATA 	Keypress: z
+61.4957 	EXP 	Device response: <KeyPress from None: t=61.48074050000105, value=z, duration=None>
+61.4963 	EXP 	New trial (rep=2, index=1): <Trial 41 (1 in rep 2) data={'stimulus': 'snarp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 41, 'thisTrialN': 1, 'thisRepN': 2}>
+61.5114 	EXP 	fix: autoDraw = False
+61.5114 	EXP 	stim: autoDraw = False
+61.5114 	EXP 	stim: height = np.float64(0.05)
+61.5114 	EXP 	stim: height = np.float64(0.05)
+61.5114 	EXP 	stim: height = np.float64(0.05)
+61.5114 	EXP 	stim: text = 'snarp'
+61.5114 	EXP 	fix: autoDraw = True
+61.6627 	EXP 	Device response: <KeyPress from None: t=61.48074050000105, value=z, duration=0.16793739999957324>
+62.0116 	INFO 	Keyboard events cleared
+62.0114 	EXP 	fix: autoDraw = False
+62.0114 	EXP 	stim: autoDraw = True
+63.5626 	EXP 	Device response: <KeyPress from None: t=63.55073260000063, value=m, duration=None>
+63.5631 	EXP 	New trial (rep=2, index=2): <Trial 42 (2 in rep 2) data={'stimulus': 'flirp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 42, 'thisTrialN': 2, 'thisRepN': 2}>
+63.5682 	DATA 	Keypress: m
+63.5780 	EXP 	fix: autoDraw = False
+63.5780 	EXP 	stim: autoDraw = False
+63.5780 	EXP 	stim: height = np.float64(0.05)
+63.5780 	EXP 	stim: height = np.float64(0.05)
+63.5780 	EXP 	stim: height = np.float64(0.05)
+63.5780 	EXP 	stim: text = 'flirp'
+63.5780 	EXP 	fix: autoDraw = True
+63.7287 	EXP 	Device response: <KeyPress from None: t=63.55073260000063, value=m, duration=0.16824559999986377>
+64.0780 	INFO 	Keyboard events cleared
+64.0778 	EXP 	fix: autoDraw = False
+64.0778 	EXP 	stim: autoDraw = True
+64.9286 	EXP 	Device response: <KeyPress from None: t=64.9155068, value=z, duration=None>
+64.9292 	EXP 	New trial (rep=2, index=3): <Trial 43 (3 in rep 2) data={'stimulus': 'apple', 'type': 'word', 'correct_key': 'z', 'thisN': 43, 'thisTrialN': 3, 'thisRepN': 2}>
+64.9345 	DATA 	Keypress: z
+64.9444 	EXP 	fix: autoDraw = False
+64.9444 	EXP 	stim: autoDraw = False
+64.9444 	EXP 	stim: height = np.float64(0.05)
+64.9444 	EXP 	stim: height = np.float64(0.05)
+64.9444 	EXP 	stim: height = np.float64(0.05)
+64.9444 	EXP 	stim: text = 'apple'
+64.9444 	EXP 	fix: autoDraw = True
+65.0622 	EXP 	Device response: <KeyPress from None: t=64.9155068, value=z, duration=0.13135540000075707>
+65.4452 	INFO 	Keyboard events cleared
+65.4450 	EXP 	fix: autoDraw = False
+65.4450 	EXP 	stim: autoDraw = True
+66.4793 	DATA 	Keypress: z
+66.4951 	EXP 	Device response: <KeyPress from None: t=66.47738820000086, value=z, duration=None>
+66.4954 	EXP 	New trial (rep=2, index=4): <Trial 44 (4 in rep 2) data={'stimulus': 'bottle', 'type': 'word', 'correct_key': 'z', 'thisN': 44, 'thisTrialN': 4, 'thisRepN': 2}>
+66.5110 	EXP 	fix: autoDraw = False
+66.5110 	EXP 	stim: autoDraw = False
+66.5110 	EXP 	stim: height = np.float64(0.05)
+66.5110 	EXP 	stim: height = np.float64(0.05)
+66.5110 	EXP 	stim: height = np.float64(0.05)
+66.5110 	EXP 	stim: text = 'bottle'
+66.5110 	EXP 	fix: autoDraw = True
+66.6111 	EXP 	Device response: <KeyPress from None: t=66.47738820000086, value=z, duration=0.12090030000035767>
+66.9944 	INFO 	Keyboard events cleared
+66.9942 	EXP 	stim: autoDraw = True
+67.0109 	EXP 	fix: autoDraw = False
+67.7965 	DATA 	Keypress: z
+67.8112 	EXP 	Device response: <KeyPress from None: t=67.7953835999997, value=z, duration=None>
+67.8115 	EXP 	New trial (rep=2, index=5): <Trial 45 (5 in rep 2) data={'stimulus': 'brantle', 'type': 'nonword', 'correct_key': 'm', 'thisN': 45, 'thisTrialN': 5, 'thisRepN': 2}>
+67.8276 	EXP 	fix: autoDraw = False
+67.8276 	EXP 	stim: autoDraw = False
+67.8276 	EXP 	stim: height = np.float64(0.05)
+67.8276 	EXP 	stim: height = np.float64(0.05)
+67.8276 	EXP 	stim: height = np.float64(0.05)
+67.8276 	EXP 	stim: text = 'brantle'
+67.8276 	EXP 	fix: autoDraw = True
+67.9281 	EXP 	Device response: <KeyPress from None: t=67.7953835999997, value=z, duration=0.12252030000126979>
+68.3110 	INFO 	Keyboard events cleared
+68.3108 	EXP 	stim: autoDraw = True
+68.3274 	EXP 	fix: autoDraw = False
+72.2285 	EXP 	Device response: <KeyPress from None: t=72.21909039999991, value=m, duration=None>
+72.2289 	EXP 	New trial (rep=2, index=6): <Trial 46 (6 in rep 2) data={'stimulus': 'market', 'type': 'word', 'correct_key': 'z', 'thisN': 46, 'thisTrialN': 6, 'thisRepN': 2}>
+72.2331 	DATA 	Keypress: m
+72.2442 	EXP 	fix: autoDraw = False
+72.2442 	EXP 	stim: autoDraw = False
+72.2442 	EXP 	stim: height = np.float64(0.05)
+72.2442 	EXP 	stim: height = np.float64(0.05)
+72.2442 	EXP 	stim: height = np.float64(0.05)
+72.2442 	EXP 	stim: text = 'market'
+72.2442 	EXP 	fix: autoDraw = True
+72.3617 	EXP 	Device response: <KeyPress from None: t=72.21909039999991, value=m, duration=0.13800090000040655>
+72.7284 	INFO 	Keyboard events cleared
+72.7281 	EXP 	stim: autoDraw = True
+72.7443 	EXP 	fix: autoDraw = False
+74.1966 	DATA 	Keypress: z
+74.2121 	EXP 	Device response: <KeyPress from None: t=74.19362309999997, value=z, duration=None>
+74.2127 	EXP 	New trial (rep=2, index=7): <Trial 47 (7 in rep 2) data={'stimulus': 'smode', 'type': 'nonword', 'correct_key': 'm', 'thisN': 47, 'thisTrialN': 7, 'thisRepN': 2}>
+74.2276 	EXP 	fix: autoDraw = False
+74.2276 	EXP 	stim: autoDraw = False
+74.2276 	EXP 	stim: height = np.float64(0.05)
+74.2276 	EXP 	stim: height = np.float64(0.05)
+74.2276 	EXP 	stim: height = np.float64(0.05)
+74.2276 	EXP 	stim: text = 'smode'
+74.2276 	EXP 	fix: autoDraw = True
+74.3446 	EXP 	Device response: <KeyPress from None: t=74.19362309999997, value=z, duration=0.13773670000045968>
+74.7112 	INFO 	Keyboard events cleared
+74.7109 	EXP 	stim: autoDraw = True
+74.7275 	EXP 	fix: autoDraw = False
+76.9117 	EXP 	Device response: <KeyPress from None: t=76.90578280000045, value=m, duration=None>
+76.9124 	EXP 	New trial (rep=2, index=8): <Trial 48 (8 in rep 2) data={'stimulus': 'window', 'type': 'word', 'correct_key': 'z', 'thisN': 48, 'thisTrialN': 8, 'thisRepN': 2}>
+76.9175 	DATA 	Keypress: m
+76.9276 	EXP 	fix: autoDraw = False
+76.9276 	EXP 	stim: autoDraw = False
+76.9276 	EXP 	stim: height = np.float64(0.05)
+76.9276 	EXP 	stim: height = np.float64(0.05)
+76.9276 	EXP 	stim: height = np.float64(0.05)
+76.9276 	EXP 	stim: text = 'window'
+76.9276 	EXP 	fix: autoDraw = True
+77.0445 	EXP 	Device response: <KeyPress from None: t=76.90578280000045, value=m, duration=0.12546760000077484>
+77.4272 	INFO 	Keyboard events cleared
+77.4271 	EXP 	fix: autoDraw = False
+77.4271 	EXP 	stim: autoDraw = True
+77.9617 	EXP 	Device response: <KeyPress from None: t=77.94817270000021, value=z, duration=None>
+77.9623 	EXP 	New trial (rep=2, index=9): <Trial 49 (9 in rep 2) data={'stimulus': 'garden', 'type': 'word', 'correct_key': 'z', 'thisN': 49, 'thisTrialN': 9, 'thisRepN': 2}>
+77.9681 	DATA 	Keypress: z
+77.9775 	EXP 	fix: autoDraw = False
+77.9775 	EXP 	stim: autoDraw = False
+77.9775 	EXP 	stim: height = np.float64(0.05)
+77.9775 	EXP 	stim: height = np.float64(0.05)
+77.9775 	EXP 	stim: height = np.float64(0.05)
+77.9775 	EXP 	stim: text = 'garden'
+77.9775 	EXP 	fix: autoDraw = True
+78.0952 	EXP 	Device response: <KeyPress from None: t=77.94817270000021, value=z, duration=0.1329170000008162>
+78.4781 	INFO 	Keyboard events cleared
+78.4778 	EXP 	fix: autoDraw = False
+78.4778 	EXP 	stim: autoDraw = True
+79.2613 	EXP 	Device response: <KeyPress from None: t=79.25273940000079, value=z, duration=None>
+79.2617 	EXP 	New trial (rep=2, index=10): <Trial 50 (10 in rep 2) data={'stimulus': 'glenter', 'type': 'nonword', 'correct_key': 'm', 'thisN': 50, 'thisTrialN': 10, 'thisRepN': 2}>
+79.2672 	DATA 	Keypress: z
+79.2771 	EXP 	fix: autoDraw = False
+79.2771 	EXP 	stim: autoDraw = False
+79.2771 	EXP 	stim: height = np.float64(0.05)
+79.2771 	EXP 	stim: height = np.float64(0.05)
+79.2771 	EXP 	stim: height = np.float64(0.05)
+79.2771 	EXP 	stim: text = 'glenter'
+79.2771 	EXP 	fix: autoDraw = True
+79.4275 	EXP 	Device response: <KeyPress from None: t=79.25273940000079, value=z, duration=0.16028340000048047>
+79.7611 	INFO 	Keyboard events cleared
+79.7609 	EXP 	stim: autoDraw = True
+79.7776 	EXP 	fix: autoDraw = False
+80.9801 	DATA 	Keypress: m
+80.9943 	EXP 	Device response: <KeyPress from None: t=80.97766330000013, value=m, duration=None>
+80.9947 	EXP 	New trial (rep=2, index=11): <Trial 51 (11 in rep 2) data={'stimulus': 'drent', 'type': 'nonword', 'correct_key': 'm', 'thisN': 51, 'thisTrialN': 11, 'thisRepN': 2}>
+81.0103 	EXP 	fix: autoDraw = False
+81.0103 	EXP 	stim: autoDraw = False
+81.0103 	EXP 	stim: height = np.float64(0.05)
+81.0103 	EXP 	stim: height = np.float64(0.05)
+81.0103 	EXP 	stim: height = np.float64(0.05)
+81.0103 	EXP 	stim: text = 'drent'
+81.0103 	EXP 	fix: autoDraw = True
+81.1448 	EXP 	Device response: <KeyPress from None: t=80.97766330000013, value=m, duration=0.1580668999995396>
+81.4936 	INFO 	Keyboard events cleared
+81.4934 	EXP 	stim: autoDraw = True
+81.5105 	EXP 	fix: autoDraw = False
+83.0437 	EXP 	Device response: <KeyPress from None: t=83.03805869999997, value=m, duration=None>
+83.0440 	EXP 	New trial (rep=2, index=12): <Trial 52 (12 in rep 2) data={'stimulus': 'trallip', 'type': 'nonword', 'correct_key': 'm', 'thisN': 52, 'thisTrialN': 12, 'thisRepN': 2}>
+83.0487 	DATA 	Keypress: m
+83.0605 	EXP 	fix: autoDraw = False
+83.0605 	EXP 	stim: autoDraw = False
+83.0605 	EXP 	stim: height = np.float64(0.05)
+83.0605 	EXP 	stim: height = np.float64(0.05)
+83.0605 	EXP 	stim: height = np.float64(0.05)
+83.0605 	EXP 	stim: text = 'trallip'
+83.0605 	EXP 	fix: autoDraw = True
+83.1782 	EXP 	Device response: <KeyPress from None: t=83.03805869999997, value=m, duration=0.12821210000038263>
+83.5435 	INFO 	Keyboard events cleared
+83.5434 	EXP 	stim: autoDraw = True
+83.5602 	EXP 	fix: autoDraw = False
+86.0610 	EXP 	Device response: <KeyPress from None: t=86.05097970000134, value=m, duration=None>
+86.0614 	EXP 	New trial (rep=2, index=13): <Trial 53 (13 in rep 2) data={'stimulus': 'clope', 'type': 'nonword', 'correct_key': 'm', 'thisN': 53, 'thisTrialN': 13, 'thisRepN': 2}>
+86.0674 	DATA 	Keypress: m
+86.0772 	EXP 	fix: autoDraw = False
+86.0772 	EXP 	stim: autoDraw = False
+86.0772 	EXP 	stim: height = np.float64(0.05)
+86.0772 	EXP 	stim: height = np.float64(0.05)
+86.0772 	EXP 	stim: height = np.float64(0.05)
+86.0772 	EXP 	stim: text = 'clope'
+86.0772 	EXP 	fix: autoDraw = True
+86.2114 	EXP 	Device response: <KeyPress from None: t=86.05097970000134, value=m, duration=0.15223619999960647>
+86.5606 	INFO 	Keyboard events cleared
+86.5604 	EXP 	stim: autoDraw = True
+86.5773 	EXP 	fix: autoDraw = False
+88.3324 	DATA 	Keypress: z
+88.3440 	EXP 	Device response: <KeyPress from None: t=88.33015520000117, value=z, duration=None>
+88.3445 	EXP 	New trial (rep=2, index=14): <Trial 54 (14 in rep 2) data={'stimulus': 'yellow', 'type': 'word', 'correct_key': 'z', 'thisN': 54, 'thisTrialN': 14, 'thisRepN': 2}>
+88.3603 	EXP 	fix: autoDraw = False
+88.3603 	EXP 	stim: autoDraw = False
+88.3603 	EXP 	stim: height = np.float64(0.05)
+88.3603 	EXP 	stim: height = np.float64(0.05)
+88.3603 	EXP 	stim: height = np.float64(0.05)
+88.3603 	EXP 	stim: text = 'yellow'
+88.3603 	EXP 	fix: autoDraw = True
+88.4937 	EXP 	Device response: <KeyPress from None: t=88.33015520000117, value=z, duration=0.1534801999987394>
+88.8439 	INFO 	Keyboard events cleared
+88.8437 	EXP 	stim: autoDraw = True
+88.8605 	EXP 	fix: autoDraw = False
+90.6635 	DATA 	Keypress: z
+90.6780 	EXP 	Device response: <KeyPress from None: t=90.65999900000133, value=z, duration=None>
+90.6784 	EXP 	New trial (rep=2, index=15): <Trial 55 (15 in rep 2) data={'stimulus': 'fradge', 'type': 'nonword', 'correct_key': 'm', 'thisN': 55, 'thisTrialN': 15, 'thisRepN': 2}>
+90.6938 	EXP 	fix: autoDraw = False
+90.6938 	EXP 	stim: autoDraw = False
+90.6938 	EXP 	stim: height = np.float64(0.05)
+90.6938 	EXP 	stim: height = np.float64(0.05)
+90.6938 	EXP 	stim: height = np.float64(0.05)
+90.6938 	EXP 	stim: text = 'fradge'
+90.6938 	EXP 	fix: autoDraw = True
+90.8112 	EXP 	Device response: <KeyPress from None: t=90.65999900000133, value=z, duration=0.1439667999984522>
+91.1941 	INFO 	Keyboard events cleared
+91.1936 	EXP 	fix: autoDraw = False
+91.1936 	EXP 	stim: autoDraw = True
+92.3109 	EXP 	Device response: <KeyPress from None: t=92.30897800000093, value=m, duration=None>
+92.3113 	EXP 	New trial (rep=2, index=16): <Trial 56 (16 in rep 2) data={'stimulus': 'plome', 'type': 'nonword', 'correct_key': 'm', 'thisN': 56, 'thisTrialN': 16, 'thisRepN': 2}>
+92.3169 	DATA 	Keypress: m
+92.3268 	EXP 	fix: autoDraw = False
+92.3268 	EXP 	stim: autoDraw = False
+92.3268 	EXP 	stim: height = np.float64(0.05)
+92.3268 	EXP 	stim: height = np.float64(0.05)
+92.3268 	EXP 	stim: height = np.float64(0.05)
+92.3268 	EXP 	stim: text = 'plome'
+92.3268 	EXP 	fix: autoDraw = True
+92.4606 	EXP 	Device response: <KeyPress from None: t=92.30897800000093, value=m, duration=0.15039529999921797>
+92.8266 	INFO 	Keyboard events cleared
+92.8264 	EXP 	fix: autoDraw = False
+92.8264 	EXP 	stim: autoDraw = True
+94.2766 	EXP 	Device response: <KeyPress from None: t=94.27240880000136, value=m, duration=None>
+94.2769 	EXP 	New trial (rep=2, index=17): <Trial 57 (17 in rep 2) data={'stimulus': 'silver', 'type': 'word', 'correct_key': 'z', 'thisN': 57, 'thisTrialN': 17, 'thisRepN': 2}>
+94.2814 	DATA 	Keypress: m
+94.2930 	EXP 	fix: autoDraw = False
+94.2930 	EXP 	stim: autoDraw = False
+94.2930 	EXP 	stim: height = np.float64(0.05)
+94.2930 	EXP 	stim: height = np.float64(0.05)
+94.2930 	EXP 	stim: height = np.float64(0.05)
+94.2930 	EXP 	stim: text = 'silver'
+94.2930 	EXP 	fix: autoDraw = True
+94.4439 	EXP 	Device response: <KeyPress from None: t=94.27240880000136, value=m, duration=0.158851299998787>
+94.7774 	INFO 	Keyboard events cleared
+94.7771 	EXP 	stim: autoDraw = True
+94.7932 	EXP 	fix: autoDraw = False
+95.2796 	DATA 	Keypress: z
+95.2941 	EXP 	Device response: <KeyPress from None: t=95.27636170000005, value=z, duration=None>
+95.2945 	EXP 	New trial (rep=2, index=18): <Trial 58 (18 in rep 2) data={'stimulus': 'doctor', 'type': 'word', 'correct_key': 'z', 'thisN': 58, 'thisTrialN': 18, 'thisRepN': 2}>
+95.3099 	EXP 	fix: autoDraw = False
+95.3099 	EXP 	stim: autoDraw = False
+95.3099 	EXP 	stim: height = np.float64(0.05)
+95.3099 	EXP 	stim: height = np.float64(0.05)
+95.3099 	EXP 	stim: height = np.float64(0.05)
+95.3099 	EXP 	stim: text = 'doctor'
+95.3099 	EXP 	fix: autoDraw = True
+95.4443 	EXP 	Device response: <KeyPress from None: t=95.27636170000005, value=z, duration=0.15943239999978687>
+95.7932 	INFO 	Keyboard events cleared
+95.7929 	EXP 	stim: autoDraw = True
+95.8098 	EXP 	fix: autoDraw = False
+96.6601 	EXP 	Device response: <KeyPress from None: t=96.65650460000143, value=z, duration=None>
+96.6605 	EXP 	New trial (rep=2, index=19): <Trial 59 (19 in rep 2) data={'stimulus': 'pillow', 'type': 'word', 'correct_key': 'z', 'thisN': 59, 'thisTrialN': 19, 'thisRepN': 2}>
+96.6659 	DATA 	Keypress: z
+96.6765 	EXP 	fix: autoDraw = False
+96.6765 	EXP 	stim: autoDraw = False
+96.6765 	EXP 	stim: height = np.float64(0.05)
+96.6765 	EXP 	stim: height = np.float64(0.05)
+96.6765 	EXP 	stim: height = np.float64(0.05)
+96.6765 	EXP 	stim: text = 'pillow'
+96.6765 	EXP 	fix: autoDraw = True
+96.8275 	EXP 	Device response: <KeyPress from None: t=96.65650460000143, value=z, duration=0.16201559999899473>
+97.1601 	INFO 	Keyboard events cleared
+97.1598 	EXP 	stim: autoDraw = True
+97.1769 	EXP 	fix: autoDraw = False
+99.4936 	EXP 	Device response: <KeyPress from None: t=99.47884970000086, value=z, duration=None>
+99.4940 	EXP 	New trial (rep=3, index=0): <Trial 60 (0 in rep 3) data={'stimulus': 'market', 'type': 'word', 'correct_key': 'z', 'thisN': 60, 'thisTrialN': 0, 'thisRepN': 3}>
+99.4987 	DATA 	Keypress: z
+99.5097 	EXP 	fix: autoDraw = False
+99.5097 	EXP 	stim: autoDraw = False
+99.5097 	EXP 	stim: height = np.float64(0.05)
+99.5097 	EXP 	stim: height = np.float64(0.05)
+99.5097 	EXP 	stim: height = np.float64(0.05)
+99.5097 	EXP 	stim: text = 'market'
+99.5097 	EXP 	fix: autoDraw = True
+99.6267 	EXP 	Device response: <KeyPress from None: t=99.47884970000086, value=z, duration=0.1414294999995036>
+99.9933 	INFO 	Keyboard events cleared
+99.9930 	EXP 	stim: autoDraw = True
+100.0095 	EXP 	fix: autoDraw = False
+101.1621 	DATA 	Keypress: z
+101.1771 	EXP 	Device response: <KeyPress from None: t=101.15878909999992, value=z, duration=None>
+101.1776 	EXP 	New trial (rep=3, index=1): <Trial 61 (1 in rep 3) data={'stimulus': 'silver', 'type': 'word', 'correct_key': 'z', 'thisN': 61, 'thisTrialN': 1, 'thisRepN': 3}>
+101.1929 	EXP 	fix: autoDraw = False
+101.1929 	EXP 	stim: autoDraw = False
+101.1929 	EXP 	stim: height = np.float64(0.05)
+101.1929 	EXP 	stim: height = np.float64(0.05)
+101.1929 	EXP 	stim: height = np.float64(0.05)
+101.1929 	EXP 	stim: text = 'silver'
+101.1929 	EXP 	fix: autoDraw = True
+101.3099 	EXP 	Device response: <KeyPress from None: t=101.15878909999992, value=z, duration=0.14575300000069547>
+101.6770 	INFO 	Keyboard events cleared
+101.6768 	EXP 	stim: autoDraw = True
+101.6929 	EXP 	fix: autoDraw = False
+102.7933 	EXP 	Device response: <KeyPress from None: t=102.78553640000064, value=z, duration=None>
+102.7937 	EXP 	New trial (rep=3, index=2): <Trial 62 (2 in rep 3) data={'stimulus': 'brantle', 'type': 'nonword', 'correct_key': 'm', 'thisN': 62, 'thisTrialN': 2, 'thisRepN': 3}>
+102.7991 	DATA 	Keypress: z
+102.8098 	EXP 	fix: autoDraw = False
+102.8098 	EXP 	stim: autoDraw = False
+102.8098 	EXP 	stim: height = np.float64(0.05)
+102.8098 	EXP 	stim: height = np.float64(0.05)
+102.8098 	EXP 	stim: height = np.float64(0.05)
+102.8098 	EXP 	stim: text = 'brantle'
+102.8098 	EXP 	fix: autoDraw = True
+102.9261 	EXP 	Device response: <KeyPress from None: t=102.78553640000064, value=z, duration=0.1337124000001495>
+103.2932 	INFO 	Keyboard events cleared
+103.2930 	EXP 	stim: autoDraw = True
+103.3096 	EXP 	fix: autoDraw = False
+104.3604 	EXP 	Device response: <KeyPress from None: t=104.35223170000063, value=m, duration=None>
+104.3609 	EXP 	New trial (rep=3, index=3): <Trial 63 (3 in rep 3) data={'stimulus': 'snarp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 63, 'thisTrialN': 3, 'thisRepN': 3}>
+104.3658 	DATA 	Keypress: m
+104.3765 	EXP 	fix: autoDraw = False
+104.3765 	EXP 	stim: autoDraw = False
+104.3765 	EXP 	stim: height = np.float64(0.05)
+104.3765 	EXP 	stim: height = np.float64(0.05)
+104.3765 	EXP 	stim: height = np.float64(0.05)
+104.3765 	EXP 	stim: text = 'snarp'
+104.3765 	EXP 	fix: autoDraw = True
+104.5271 	EXP 	Device response: <KeyPress from None: t=104.35223170000063, value=m, duration=0.16427029999977094>
+104.8766 	INFO 	Keyboard events cleared
+104.8763 	EXP 	fix: autoDraw = False
+104.8763 	EXP 	stim: autoDraw = True
+109.3768 	EXP 	Device response: <KeyPress from None: t=109.36803289999989, value=z, duration=None>
+109.3773 	EXP 	New trial (rep=3, index=4): <Trial 64 (4 in rep 3) data={'stimulus': 'trallip', 'type': 'nonword', 'correct_key': 'm', 'thisN': 64, 'thisTrialN': 4, 'thisRepN': 3}>
+109.3835 	DATA 	Keypress: z
+109.3924 	EXP 	fix: autoDraw = False
+109.3924 	EXP 	stim: autoDraw = False
+109.3924 	EXP 	stim: height = np.float64(0.05)
+109.3924 	EXP 	stim: height = np.float64(0.05)
+109.3924 	EXP 	stim: height = np.float64(0.05)
+109.3924 	EXP 	stim: text = 'trallip'
+109.3924 	EXP 	fix: autoDraw = True
+109.5093 	EXP 	Device response: <KeyPress from None: t=109.36803289999989, value=z, duration=0.13952590000008058>
+109.8927 	INFO 	Keyboard events cleared
+109.8925 	EXP 	fix: autoDraw = False
+109.8925 	EXP 	stim: autoDraw = True
+111.0447 	DATA 	Keypress: m
+111.0599 	EXP 	Device response: <KeyPress from None: t=111.04220619999978, value=m, duration=None>
+111.0605 	EXP 	New trial (rep=3, index=5): <Trial 65 (5 in rep 3) data={'stimulus': 'fradge', 'type': 'nonword', 'correct_key': 'm', 'thisN': 65, 'thisTrialN': 5, 'thisRepN': 3}>
+111.0760 	EXP 	fix: autoDraw = False
+111.0760 	EXP 	stim: autoDraw = False
+111.0760 	EXP 	stim: height = np.float64(0.05)
+111.0760 	EXP 	stim: height = np.float64(0.05)
+111.0760 	EXP 	stim: height = np.float64(0.05)
+111.0760 	EXP 	stim: text = 'fradge'
+111.0760 	EXP 	fix: autoDraw = True
+111.1920 	EXP 	Device response: <KeyPress from None: t=111.04220619999978, value=m, duration=0.14612330000090878>
+111.5763 	INFO 	Keyboard events cleared
+111.5760 	EXP 	fix: autoDraw = False
+111.5760 	EXP 	stim: autoDraw = True
+114.0098 	EXP 	Device response: <KeyPress from None: t=114.00740419999966, value=m, duration=None>
+114.0103 	EXP 	New trial (rep=3, index=6): <Trial 66 (6 in rep 3) data={'stimulus': 'doctor', 'type': 'word', 'correct_key': 'z', 'thisN': 66, 'thisTrialN': 6, 'thisRepN': 3}>
+114.0157 	DATA 	Keypress: m
+114.0257 	EXP 	fix: autoDraw = False
+114.0257 	EXP 	stim: autoDraw = False
+114.0257 	EXP 	stim: height = np.float64(0.05)
+114.0257 	EXP 	stim: height = np.float64(0.05)
+114.0257 	EXP 	stim: height = np.float64(0.05)
+114.0257 	EXP 	stim: text = 'doctor'
+114.0257 	EXP 	fix: autoDraw = True
+114.1602 	EXP 	Device response: <KeyPress from None: t=114.00740419999966, value=m, duration=0.13317280000046594>
+114.5258 	INFO 	Keyboard events cleared
+114.5256 	EXP 	fix: autoDraw = False
+114.5256 	EXP 	stim: autoDraw = True
+115.5261 	EXP 	Device response: <KeyPress from None: t=115.51335520000066, value=z, duration=None>
+115.5265 	EXP 	New trial (rep=3, index=7): <Trial 67 (7 in rep 3) data={'stimulus': 'glenter', 'type': 'nonword', 'correct_key': 'm', 'thisN': 67, 'thisTrialN': 7, 'thisRepN': 3}>
+115.5315 	DATA 	Keypress: z
+115.5420 	EXP 	fix: autoDraw = False
+115.5420 	EXP 	stim: autoDraw = False
+115.5420 	EXP 	stim: height = np.float64(0.05)
+115.5420 	EXP 	stim: height = np.float64(0.05)
+115.5420 	EXP 	stim: height = np.float64(0.05)
+115.5420 	EXP 	stim: text = 'glenter'
+115.5420 	EXP 	fix: autoDraw = True
+115.6765 	EXP 	Device response: <KeyPress from None: t=115.51335520000066, value=z, duration=0.14991190000000643>
+116.0258 	INFO 	Keyboard events cleared
+116.0255 	EXP 	stim: autoDraw = True
+116.0420 	EXP 	fix: autoDraw = False
+117.5263 	EXP 	Device response: <KeyPress from None: t=117.51288790000035, value=m, duration=None>
+117.5267 	EXP 	New trial (rep=3, index=8): <Trial 68 (8 in rep 3) data={'stimulus': 'drent', 'type': 'nonword', 'correct_key': 'm', 'thisN': 68, 'thisTrialN': 8, 'thisRepN': 3}>
+117.5325 	DATA 	Keypress: m
+117.5417 	EXP 	fix: autoDraw = False
+117.5417 	EXP 	stim: autoDraw = False
+117.5417 	EXP 	stim: height = np.float64(0.05)
+117.5417 	EXP 	stim: height = np.float64(0.05)
+117.5417 	EXP 	stim: height = np.float64(0.05)
+117.5417 	EXP 	stim: text = 'drent'
+117.5417 	EXP 	fix: autoDraw = True
+117.6930 	EXP 	Device response: <KeyPress from None: t=117.51288790000035, value=m, duration=0.1618201000001136>
+118.0424 	INFO 	Keyboard events cleared
+118.0421 	EXP 	fix: autoDraw = False
+118.0421 	EXP 	stim: autoDraw = True
+119.7930 	EXP 	Device response: <KeyPress from None: t=119.77998720000141, value=m, duration=None>
+119.7935 	EXP 	New trial (rep=3, index=9): <Trial 69 (9 in rep 3) data={'stimulus': 'bottle', 'type': 'word', 'correct_key': 'z', 'thisN': 69, 'thisTrialN': 9, 'thisRepN': 3}>
+119.7992 	DATA 	Keypress: m
+119.8087 	EXP 	fix: autoDraw = False
+119.8087 	EXP 	stim: autoDraw = False
+119.8087 	EXP 	stim: height = np.float64(0.05)
+119.8087 	EXP 	stim: height = np.float64(0.05)
+119.8087 	EXP 	stim: height = np.float64(0.05)
+119.8087 	EXP 	stim: text = 'bottle'
+119.8087 	EXP 	fix: autoDraw = True
+119.9759 	EXP 	Device response: <KeyPress from None: t=119.77998720000141, value=m, duration=0.19158429999879445>
+120.3091 	INFO 	Keyboard events cleared
+120.3088 	EXP 	fix: autoDraw = False
+120.3088 	EXP 	stim: autoDraw = True
+121.6942 	DATA 	Keypress: z
+121.7093 	EXP 	Device response: <KeyPress from None: t=121.6913655999997, value=z, duration=None>
+121.7097 	EXP 	New trial (rep=3, index=10): <Trial 70 (10 in rep 3) data={'stimulus': 'window', 'type': 'word', 'correct_key': 'z', 'thisN': 70, 'thisTrialN': 10, 'thisRepN': 3}>
+121.7251 	EXP 	fix: autoDraw = False
+121.7251 	EXP 	stim: autoDraw = False
+121.7251 	EXP 	stim: height = np.float64(0.05)
+121.7251 	EXP 	stim: height = np.float64(0.05)
+121.7251 	EXP 	stim: height = np.float64(0.05)
+121.7251 	EXP 	stim: text = 'window'
+121.7251 	EXP 	fix: autoDraw = True
+121.8428 	EXP 	Device response: <KeyPress from None: t=121.6913655999997, value=z, duration=0.14988150000135647>
+122.2254 	INFO 	Keyboard events cleared
+122.2251 	EXP 	fix: autoDraw = False
+122.2251 	EXP 	stim: autoDraw = True
+123.2415 	EXP 	Device response: <KeyPress from None: t=123.23922940000011, value=z, duration=None>
+123.2418 	EXP 	New trial (rep=3, index=11): <Trial 71 (11 in rep 3) data={'stimulus': 'flirp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 71, 'thisTrialN': 11, 'thisRepN': 3}>
+123.2468 	DATA 	Keypress: z
+123.2583 	EXP 	fix: autoDraw = False
+123.2583 	EXP 	stim: autoDraw = False
+123.2583 	EXP 	stim: height = np.float64(0.05)
+123.2583 	EXP 	stim: height = np.float64(0.05)
+123.2583 	EXP 	stim: height = np.float64(0.05)
+123.2583 	EXP 	stim: text = 'flirp'
+123.2583 	EXP 	fix: autoDraw = True
+123.3586 	EXP 	Device response: <KeyPress from None: t=123.23922940000011, value=z, duration=0.11089080000056128>
+123.7415 	INFO 	Keyboard events cleared
+123.7413 	EXP 	stim: autoDraw = True
+123.7580 	EXP 	fix: autoDraw = False
+124.7443 	DATA 	Keypress: m
+124.7594 	EXP 	Device response: <KeyPress from None: t=124.74217640000097, value=m, duration=None>
+124.7599 	EXP 	New trial (rep=3, index=12): <Trial 72 (12 in rep 3) data={'stimulus': 'yellow', 'type': 'word', 'correct_key': 'z', 'thisN': 72, 'thisTrialN': 12, 'thisRepN': 3}>
+124.7749 	EXP 	fix: autoDraw = False
+124.7749 	EXP 	stim: autoDraw = False
+124.7749 	EXP 	stim: height = np.float64(0.05)
+124.7749 	EXP 	stim: height = np.float64(0.05)
+124.7749 	EXP 	stim: height = np.float64(0.05)
+124.7749 	EXP 	stim: text = 'yellow'
+124.7749 	EXP 	fix: autoDraw = True
+124.9086 	EXP 	Device response: <KeyPress from None: t=124.74217640000097, value=m, duration=0.15610999999989872>
+125.2757 	INFO 	Keyboard events cleared
+125.2755 	EXP 	fix: autoDraw = False
+125.2755 	EXP 	stim: autoDraw = True
+126.0759 	EXP 	Device response: <KeyPress from None: t=126.06646970000111, value=z, duration=None>
+126.0764 	EXP 	New trial (rep=3, index=13): <Trial 73 (13 in rep 3) data={'stimulus': 'garden', 'type': 'word', 'correct_key': 'z', 'thisN': 73, 'thisTrialN': 13, 'thisRepN': 3}>
+126.0818 	DATA 	Keypress: z
+126.0915 	EXP 	fix: autoDraw = False
+126.0915 	EXP 	stim: autoDraw = False
+126.0915 	EXP 	stim: height = np.float64(0.05)
+126.0915 	EXP 	stim: height = np.float64(0.05)
+126.0915 	EXP 	stim: height = np.float64(0.05)
+126.0915 	EXP 	stim: text = 'garden'
+126.0915 	EXP 	fix: autoDraw = True
+126.1758 	EXP 	Device response: <KeyPress from None: t=126.06646970000111, value=z, duration=0.10621989999890502>
+126.5920 	INFO 	Keyboard events cleared
+126.5917 	EXP 	fix: autoDraw = False
+126.5917 	EXP 	stim: autoDraw = True
+128.4609 	DATA 	Keypress: z
+128.4760 	EXP 	Device response: <KeyPress from None: t=128.45754090000082, value=z, duration=None>
+128.4766 	EXP 	New trial (rep=3, index=14): <Trial 74 (14 in rep 3) data={'stimulus': 'smode', 'type': 'nonword', 'correct_key': 'm', 'thisN': 74, 'thisTrialN': 14, 'thisRepN': 3}>
+128.4915 	EXP 	fix: autoDraw = False
+128.4915 	EXP 	stim: autoDraw = False
+128.4915 	EXP 	stim: height = np.float64(0.05)
+128.4915 	EXP 	stim: height = np.float64(0.05)
+128.4915 	EXP 	stim: height = np.float64(0.05)
+128.4915 	EXP 	stim: text = 'smode'
+128.4915 	EXP 	fix: autoDraw = True
+128.6256 	EXP 	Device response: <KeyPress from None: t=128.45754090000082, value=z, duration=0.1507378999995126>
+128.9919 	INFO 	Keyboard events cleared
+128.9916 	EXP 	fix: autoDraw = False
+128.9916 	EXP 	stim: autoDraw = True
+129.6754 	EXP 	Device response: <KeyPress from None: t=129.66287510000075, value=z, duration=None>
+129.6758 	EXP 	New trial (rep=3, index=15): <Trial 75 (15 in rep 3) data={'stimulus': 'river', 'type': 'word', 'correct_key': 'z', 'thisN': 75, 'thisTrialN': 15, 'thisRepN': 3}>
+129.6807 	DATA 	Keypress: z
+129.6913 	EXP 	fix: autoDraw = False
+129.6913 	EXP 	stim: autoDraw = False
+129.6913 	EXP 	stim: height = np.float64(0.05)
+129.6913 	EXP 	stim: height = np.float64(0.05)
+129.6913 	EXP 	stim: height = np.float64(0.05)
+129.6913 	EXP 	stim: text = 'river'
+129.6913 	EXP 	fix: autoDraw = True
+129.8084 	EXP 	Device response: <KeyPress from None: t=129.66287510000075, value=z, duration=0.13551379999989877>
+130.1754 	INFO 	Keyboard events cleared
+130.1751 	EXP 	stim: autoDraw = True
+130.1920 	EXP 	fix: autoDraw = False
+130.6755 	EXP 	Device response: <KeyPress from None: t=130.6688677000002, value=z, duration=None>
+130.6761 	EXP 	New trial (rep=3, index=16): <Trial 76 (16 in rep 3) data={'stimulus': 'clope', 'type': 'nonword', 'correct_key': 'm', 'thisN': 76, 'thisTrialN': 16, 'thisRepN': 3}>
+130.6814 	DATA 	Keypress: z
+130.6911 	EXP 	fix: autoDraw = False
+130.6911 	EXP 	stim: autoDraw = False
+130.6911 	EXP 	stim: height = np.float64(0.05)
+130.6911 	EXP 	stim: height = np.float64(0.05)
+130.6911 	EXP 	stim: height = np.float64(0.05)
+130.6911 	EXP 	stim: text = 'clope'
+130.6911 	EXP 	fix: autoDraw = True
+130.8089 	EXP 	Device response: <KeyPress from None: t=130.6688677000002, value=z, duration=0.12438420000034967>
+131.1919 	INFO 	Keyboard events cleared
+131.1917 	EXP 	fix: autoDraw = False
+131.1917 	EXP 	stim: autoDraw = True
+131.8834 	DATA 	Keypress: z
+131.8920 	EXP 	Device response: <KeyPress from None: t=131.879399200001, value=z, duration=None>
+131.8925 	EXP 	New trial (rep=3, index=17): <Trial 77 (17 in rep 3) data={'stimulus': 'apple', 'type': 'word', 'correct_key': 'z', 'thisN': 77, 'thisTrialN': 17, 'thisRepN': 3}>
+131.9081 	EXP 	fix: autoDraw = False
+131.9081 	EXP 	stim: autoDraw = False
+131.9081 	EXP 	stim: height = np.float64(0.05)
+131.9081 	EXP 	stim: height = np.float64(0.05)
+131.9081 	EXP 	stim: height = np.float64(0.05)
+131.9081 	EXP 	stim: text = 'apple'
+131.9081 	EXP 	fix: autoDraw = True
+132.0594 	EXP 	Device response: <KeyPress from None: t=131.879399200001, value=z, duration=0.17029739999998128>
+132.3916 	INFO 	Keyboard events cleared
+132.3914 	EXP 	stim: autoDraw = True
+132.4081 	EXP 	fix: autoDraw = False
+132.9088 	EXP 	Device response: <KeyPress from None: t=132.89601829999992, value=z, duration=None>
+132.9093 	EXP 	New trial (rep=3, index=18): <Trial 78 (18 in rep 3) data={'stimulus': 'plome', 'type': 'nonword', 'correct_key': 'm', 'thisN': 78, 'thisTrialN': 18, 'thisRepN': 3}>
+132.9146 	DATA 	Keypress: z
+132.9246 	EXP 	fix: autoDraw = False
+132.9246 	EXP 	stim: autoDraw = False
+132.9246 	EXP 	stim: height = np.float64(0.05)
+132.9246 	EXP 	stim: height = np.float64(0.05)
+132.9246 	EXP 	stim: height = np.float64(0.05)
+132.9246 	EXP 	stim: text = 'plome'
+132.9246 	EXP 	fix: autoDraw = True
+133.0591 	EXP 	Device response: <KeyPress from None: t=132.89601829999992, value=z, duration=0.15120180000121763>
+133.4250 	INFO 	Keyboard events cleared
+133.4247 	EXP 	fix: autoDraw = False
+133.4247 	EXP 	stim: autoDraw = True
+133.9777 	DATA 	Keypress: z
+133.9916 	EXP 	Device response: <KeyPress from None: t=133.97501710000142, value=z, duration=None>
+133.9919 	EXP 	New trial (rep=3, index=19): <Trial 79 (19 in rep 3) data={'stimulus': 'pillow', 'type': 'word', 'correct_key': 'z', 'thisN': 79, 'thisTrialN': 19, 'thisRepN': 3}>
+134.0081 	EXP 	fix: autoDraw = False
+134.0081 	EXP 	stim: autoDraw = False
+134.0081 	EXP 	stim: height = np.float64(0.05)
+134.0081 	EXP 	stim: height = np.float64(0.05)
+134.0081 	EXP 	stim: height = np.float64(0.05)
+134.0081 	EXP 	stim: text = 'pillow'
+134.0081 	EXP 	fix: autoDraw = True
+134.1419 	EXP 	Device response: <KeyPress from None: t=133.97501710000142, value=z, duration=0.15999959999862767>
+134.4915 	INFO 	Keyboard events cleared
+134.4914 	EXP 	stim: autoDraw = True
+134.5077 	EXP 	fix: autoDraw = False
+135.0919 	EXP 	Device response: <KeyPress from None: t=135.09029440000086, value=z, duration=None>
+135.0923 	EXP 	New trial (rep=4, index=0): <Trial 80 (0 in rep 4) data={'stimulus': 'yellow', 'type': 'word', 'correct_key': 'z', 'thisN': 80, 'thisTrialN': 0, 'thisRepN': 4}>
+135.0975 	DATA 	Keypress: z
+135.1079 	EXP 	fix: autoDraw = False
+135.1079 	EXP 	stim: autoDraw = False
+135.1079 	EXP 	stim: height = np.float64(0.05)
+135.1079 	EXP 	stim: height = np.float64(0.05)
+135.1079 	EXP 	stim: height = np.float64(0.05)
+135.1079 	EXP 	stim: text = 'yellow'
+135.1079 	EXP 	fix: autoDraw = True
+135.2413 	EXP 	Device response: <KeyPress from None: t=135.09029440000086, value=z, duration=0.13904600000023493>
+135.6085 	INFO 	Keyboard events cleared
+135.6082 	EXP 	fix: autoDraw = False
+135.6082 	EXP 	stim: autoDraw = True
+136.1255 	EXP 	Device response: <KeyPress from None: t=136.11925950000114, value=z, duration=None>
+136.1260 	EXP 	New trial (rep=4, index=1): <Trial 81 (1 in rep 4) data={'stimulus': 'smode', 'type': 'nonword', 'correct_key': 'm', 'thisN': 81, 'thisTrialN': 1, 'thisRepN': 4}>
+136.1314 	DATA 	Keypress: z
+136.1411 	EXP 	fix: autoDraw = False
+136.1411 	EXP 	stim: autoDraw = False
+136.1411 	EXP 	stim: height = np.float64(0.05)
+136.1411 	EXP 	stim: height = np.float64(0.05)
+136.1411 	EXP 	stim: height = np.float64(0.05)
+136.1411 	EXP 	stim: text = 'smode'
+136.1411 	EXP 	fix: autoDraw = True
+136.2913 	EXP 	Device response: <KeyPress from None: t=136.11925950000114, value=z, duration=0.16733659999954398>
+136.6250 	INFO 	Keyboard events cleared
+136.6248 	EXP 	stim: autoDraw = True
+136.6411 	EXP 	fix: autoDraw = False
+137.7616 	DATA 	Keypress: m
+137.7751 	EXP 	Device response: <KeyPress from None: t=137.7578298999997, value=m, duration=None>
+137.7755 	EXP 	New trial (rep=4, index=2): <Trial 82 (2 in rep 4) data={'stimulus': 'river', 'type': 'word', 'correct_key': 'z', 'thisN': 82, 'thisTrialN': 2, 'thisRepN': 4}>
+137.7911 	EXP 	fix: autoDraw = False
+137.7911 	EXP 	stim: autoDraw = False
+137.7911 	EXP 	stim: height = np.float64(0.05)
+137.7911 	EXP 	stim: height = np.float64(0.05)
+137.7911 	EXP 	stim: height = np.float64(0.05)
+137.7911 	EXP 	stim: text = 'river'
+137.7911 	EXP 	fix: autoDraw = True
+137.9417 	EXP 	Device response: <KeyPress from None: t=137.7578298999997, value=m, duration=0.1726516000017>
+138.2744 	INFO 	Keyboard events cleared
+138.2742 	EXP 	stim: autoDraw = True
+138.2908 	EXP 	fix: autoDraw = False
+138.8959 	DATA 	Keypress: z
+138.9087 	EXP 	Device response: <KeyPress from None: t=138.8936537999998, value=z, duration=None>
+138.9093 	EXP 	New trial (rep=4, index=3): <Trial 83 (3 in rep 4) data={'stimulus': 'pillow', 'type': 'word', 'correct_key': 'z', 'thisN': 83, 'thisTrialN': 3, 'thisRepN': 4}>
+138.9249 	EXP 	fix: autoDraw = False
+138.9249 	EXP 	stim: autoDraw = False
+138.9249 	EXP 	stim: height = np.float64(0.05)
+138.9249 	EXP 	stim: height = np.float64(0.05)
+138.9249 	EXP 	stim: height = np.float64(0.05)
+138.9249 	EXP 	stim: text = 'pillow'
+138.9249 	EXP 	fix: autoDraw = True
+139.0420 	EXP 	Device response: <KeyPress from None: t=138.8936537999998, value=z, duration=0.1391120000007504>
+139.4244 	INFO 	Keyboard events cleared
+139.4242 	EXP 	fix: autoDraw = False
+139.4242 	EXP 	stim: autoDraw = True
+140.1578 	EXP 	Device response: <KeyPress from None: t=140.1499014000001, value=z, duration=None>
+140.1582 	EXP 	New trial (rep=4, index=4): <Trial 84 (4 in rep 4) data={'stimulus': 'flirp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 84, 'thisTrialN': 4, 'thisRepN': 4}>
+140.1626 	DATA 	Keypress: z
+140.1742 	EXP 	fix: autoDraw = False
+140.1742 	EXP 	stim: autoDraw = False
+140.1742 	EXP 	stim: height = np.float64(0.05)
+140.1742 	EXP 	stim: height = np.float64(0.05)
+140.1742 	EXP 	stim: height = np.float64(0.05)
+140.1742 	EXP 	stim: text = 'flirp'
+140.1742 	EXP 	fix: autoDraw = True
+140.3581 	EXP 	Device response: <KeyPress from None: t=140.1499014000001, value=z, duration=0.19934079999984533>
+140.6581 	INFO 	Keyboard events cleared
+140.6578 	EXP 	stim: autoDraw = True
+140.6745 	EXP 	fix: autoDraw = False
+141.1413 	EXP 	Device response: <KeyPress from None: t=141.12828160000026, value=z, duration=None>
+141.1416 	EXP 	New trial (rep=4, index=5): <Trial 85 (5 in rep 4) data={'stimulus': 'doctor', 'type': 'word', 'correct_key': 'z', 'thisN': 85, 'thisTrialN': 5, 'thisRepN': 4}>
+141.1468 	DATA 	Keypress: z
+141.1574 	EXP 	fix: autoDraw = False
+141.1574 	EXP 	stim: autoDraw = False
+141.1574 	EXP 	stim: height = np.float64(0.05)
+141.1574 	EXP 	stim: height = np.float64(0.05)
+141.1574 	EXP 	stim: height = np.float64(0.05)
+141.1574 	EXP 	stim: text = 'doctor'
+141.1574 	EXP 	fix: autoDraw = True
+141.2414 	EXP 	Device response: <KeyPress from None: t=141.12828160000026, value=z, duration=0.10912339999958931>
+141.6414 	INFO 	Keyboard events cleared
+141.6412 	EXP 	stim: autoDraw = True
+141.6579 	EXP 	fix: autoDraw = False
+142.1913 	EXP 	Device response: <KeyPress from None: t=142.18812310000067, value=z, duration=None>
+142.1918 	EXP 	New trial (rep=4, index=6): <Trial 86 (6 in rep 4) data={'stimulus': 'trallip', 'type': 'nonword', 'correct_key': 'm', 'thisN': 86, 'thisTrialN': 6, 'thisRepN': 4}>
+142.1970 	DATA 	Keypress: z
+142.2073 	EXP 	fix: autoDraw = False
+142.2073 	EXP 	stim: autoDraw = False
+142.2073 	EXP 	stim: height = np.float64(0.05)
+142.2073 	EXP 	stim: height = np.float64(0.05)
+142.2073 	EXP 	stim: height = np.float64(0.05)
+142.2073 	EXP 	stim: text = 'trallip'
+142.2073 	EXP 	fix: autoDraw = True
+142.3750 	EXP 	Device response: <KeyPress from None: t=142.18812310000067, value=z, duration=0.1686296999996557>
+142.6911 	INFO 	Keyboard events cleared
+142.6908 	EXP 	stim: autoDraw = True
+142.7073 	EXP 	fix: autoDraw = False
+143.7418 	EXP 	Device response: <KeyPress from None: t=143.72794020000038, value=m, duration=None>
+143.7424 	EXP 	New trial (rep=4, index=7): <Trial 87 (7 in rep 4) data={'stimulus': 'plome', 'type': 'nonword', 'correct_key': 'm', 'thisN': 87, 'thisTrialN': 7, 'thisRepN': 4}>
+143.7476 	DATA 	Keypress: m
+143.7577 	EXP 	fix: autoDraw = False
+143.7577 	EXP 	stim: autoDraw = False
+143.7577 	EXP 	stim: height = np.float64(0.05)
+143.7577 	EXP 	stim: height = np.float64(0.05)
+143.7577 	EXP 	stim: height = np.float64(0.05)
+143.7577 	EXP 	stim: text = 'plome'
+143.7577 	EXP 	fix: autoDraw = True
+143.9080 	EXP 	Device response: <KeyPress from None: t=143.72794020000038, value=m, duration=0.16565799999989395>
+144.2578 	INFO 	Keyboard events cleared
+144.2575 	EXP 	fix: autoDraw = False
+144.2575 	EXP 	stim: autoDraw = True
+144.7742 	EXP 	Device response: <KeyPress from None: t=144.76577700000053, value=z, duration=None>
+144.7746 	EXP 	New trial (rep=4, index=8): <Trial 88 (8 in rep 4) data={'stimulus': 'market', 'type': 'word', 'correct_key': 'z', 'thisN': 88, 'thisTrialN': 8, 'thisRepN': 4}>
+144.7786 	DATA 	Keypress: z
+144.7903 	EXP 	fix: autoDraw = False
+144.7903 	EXP 	stim: autoDraw = False
+144.7903 	EXP 	stim: height = np.float64(0.05)
+144.7903 	EXP 	stim: height = np.float64(0.05)
+144.7903 	EXP 	stim: height = np.float64(0.05)
+144.7903 	EXP 	stim: text = 'market'
+144.7903 	EXP 	fix: autoDraw = True
+144.9405 	EXP 	Device response: <KeyPress from None: t=144.76577700000053, value=z, duration=0.16197079999983544>
+145.2747 	INFO 	Keyboard events cleared
+145.2744 	EXP 	stim: autoDraw = True
+145.2907 	EXP 	fix: autoDraw = False
+146.4081 	EXP 	Device response: <KeyPress from None: t=146.4058660999999, value=z, duration=None>
+146.4085 	EXP 	New trial (rep=4, index=9): <Trial 89 (9 in rep 4) data={'stimulus': 'apple', 'type': 'word', 'correct_key': 'z', 'thisN': 89, 'thisTrialN': 9, 'thisRepN': 4}>
+146.4148 	DATA 	Keypress: z
+146.4238 	EXP 	fix: autoDraw = False
+146.4238 	EXP 	stim: autoDraw = False
+146.4238 	EXP 	stim: height = np.float64(0.05)
+146.4238 	EXP 	stim: height = np.float64(0.05)
+146.4238 	EXP 	stim: height = np.float64(0.05)
+146.4238 	EXP 	stim: text = 'apple'
+146.4238 	EXP 	fix: autoDraw = True
+146.5916 	EXP 	Device response: <KeyPress from None: t=146.4058660999999, value=z, duration=0.17069590000028256>
+146.9244 	INFO 	Keyboard events cleared
+146.9242 	EXP 	fix: autoDraw = False
+146.9242 	EXP 	stim: autoDraw = True
+147.6909 	EXP 	Device response: <KeyPress from None: t=147.6818714000001, value=z, duration=None>
+147.6912 	EXP 	New trial (rep=4, index=10): <Trial 90 (10 in rep 4) data={'stimulus': 'drent', 'type': 'nonword', 'correct_key': 'm', 'thisN': 90, 'thisTrialN': 10, 'thisRepN': 4}>
+147.6958 	DATA 	Keypress: z
+147.7072 	EXP 	fix: autoDraw = False
+147.7072 	EXP 	stim: autoDraw = False
+147.7072 	EXP 	stim: height = np.float64(0.05)
+147.7072 	EXP 	stim: height = np.float64(0.05)
+147.7072 	EXP 	stim: height = np.float64(0.05)
+147.7072 	EXP 	stim: text = 'drent'
+147.7072 	EXP 	fix: autoDraw = True
+147.8244 	EXP 	Device response: <KeyPress from None: t=147.6818714000001, value=z, duration=0.13291449999996985>
+148.1908 	INFO 	Keyboard events cleared
+148.1906 	EXP 	stim: autoDraw = True
+148.2071 	EXP 	fix: autoDraw = False
+149.5954 	DATA 	Keypress: m
+149.6081 	EXP 	Device response: <KeyPress from None: t=149.59329940000134, value=m, duration=None>
+149.6087 	EXP 	New trial (rep=4, index=11): <Trial 91 (11 in rep 4) data={'stimulus': 'silver', 'type': 'word', 'correct_key': 'z', 'thisN': 91, 'thisTrialN': 11, 'thisRepN': 4}>
+149.6237 	EXP 	fix: autoDraw = False
+149.6237 	EXP 	stim: autoDraw = False
+149.6237 	EXP 	stim: height = np.float64(0.05)
+149.6237 	EXP 	stim: height = np.float64(0.05)
+149.6237 	EXP 	stim: height = np.float64(0.05)
+149.6237 	EXP 	stim: text = 'silver'
+149.6237 	EXP 	fix: autoDraw = True
+149.7574 	EXP 	Device response: <KeyPress from None: t=149.59329940000134, value=m, duration=0.16271369999958551>
+150.1240 	INFO 	Keyboard events cleared
+150.1238 	EXP 	fix: autoDraw = False
+150.1238 	EXP 	stim: autoDraw = True
+152.0076 	EXP 	Device response: <KeyPress from None: t=152.0022071000003, value=z, duration=None>
+152.0080 	EXP 	New trial (rep=4, index=12): <Trial 92 (12 in rep 4) data={'stimulus': 'glenter', 'type': 'nonword', 'correct_key': 'm', 'thisN': 92, 'thisTrialN': 12, 'thisRepN': 4}>
+152.0136 	DATA 	Keypress: z
+152.0237 	EXP 	fix: autoDraw = False
+152.0237 	EXP 	stim: autoDraw = False
+152.0237 	EXP 	stim: height = np.float64(0.05)
+152.0237 	EXP 	stim: height = np.float64(0.05)
+152.0237 	EXP 	stim: height = np.float64(0.05)
+152.0237 	EXP 	stim: text = 'glenter'
+152.0237 	EXP 	fix: autoDraw = True
+152.1579 	EXP 	Device response: <KeyPress from None: t=152.0022071000003, value=z, duration=0.1414521999995486>
+152.5077 	INFO 	Keyboard events cleared
+152.5075 	EXP 	stim: autoDraw = True
+152.5237 	EXP 	fix: autoDraw = False
+153.8571 	EXP 	Device response: <KeyPress from None: t=153.85374109999975, value=m, duration=None>
+153.8574 	EXP 	New trial (rep=4, index=13): <Trial 93 (13 in rep 4) data={'stimulus': 'brantle', 'type': 'nonword', 'correct_key': 'm', 'thisN': 93, 'thisTrialN': 13, 'thisRepN': 4}>
+153.8630 	DATA 	Keypress: m
+153.8732 	EXP 	fix: autoDraw = False
+153.8732 	EXP 	stim: autoDraw = False
+153.8732 	EXP 	stim: height = np.float64(0.05)
+153.8732 	EXP 	stim: height = np.float64(0.05)
+153.8732 	EXP 	stim: height = np.float64(0.05)
+153.8732 	EXP 	stim: text = 'brantle'
+153.8732 	EXP 	fix: autoDraw = True
+154.0244 	EXP 	Device response: <KeyPress from None: t=153.85374109999975, value=m, duration=0.15387230000123964>
+154.3573 	INFO 	Keyboard events cleared
+154.3570 	EXP 	stim: autoDraw = True
+154.3734 	EXP 	fix: autoDraw = False
+155.0740 	EXP 	Device response: <KeyPress from None: t=155.067974900001, value=z, duration=None>
+155.0743 	EXP 	New trial (rep=4, index=14): <Trial 94 (14 in rep 4) data={'stimulus': 'clope', 'type': 'nonword', 'correct_key': 'm', 'thisN': 94, 'thisTrialN': 14, 'thisRepN': 4}>
+155.0791 	DATA 	Keypress: z
+155.0901 	EXP 	fix: autoDraw = False
+155.0901 	EXP 	stim: autoDraw = False
+155.0901 	EXP 	stim: height = np.float64(0.05)
+155.0901 	EXP 	stim: height = np.float64(0.05)
+155.0901 	EXP 	stim: height = np.float64(0.05)
+155.0901 	EXP 	stim: text = 'clope'
+155.0901 	EXP 	fix: autoDraw = True
+155.2742 	EXP 	Device response: <KeyPress from None: t=155.067974900001, value=z, duration=0.19174539999949047>
+155.5739 	INFO 	Keyboard events cleared
+155.5736 	EXP 	stim: autoDraw = True
+155.5903 	EXP 	fix: autoDraw = False
+156.7744 	EXP 	Device response: <KeyPress from None: t=156.76368600000023, value=z, duration=None>
+156.7748 	EXP 	New trial (rep=4, index=15): <Trial 95 (15 in rep 4) data={'stimulus': 'fradge', 'type': 'nonword', 'correct_key': 'm', 'thisN': 95, 'thisTrialN': 15, 'thisRepN': 4}>
+156.7803 	DATA 	Keypress: z
+156.7899 	EXP 	fix: autoDraw = False
+156.7899 	EXP 	stim: autoDraw = False
+156.7899 	EXP 	stim: height = np.float64(0.05)
+156.7899 	EXP 	stim: height = np.float64(0.05)
+156.7899 	EXP 	stim: height = np.float64(0.05)
+156.7899 	EXP 	stim: text = 'fradge'
+156.7899 	EXP 	fix: autoDraw = True
+156.9245 	EXP 	Device response: <KeyPress from None: t=156.76368600000023, value=z, duration=0.15130330000101821>
+157.2904 	INFO 	Keyboard events cleared
+157.2901 	EXP 	fix: autoDraw = False
+157.2901 	EXP 	stim: autoDraw = True
+159.2575 	EXP 	Device response: <KeyPress from None: t=159.25335590000032, value=m, duration=None>
+159.2579 	EXP 	New trial (rep=4, index=16): <Trial 96 (16 in rep 4) data={'stimulus': 'garden', 'type': 'word', 'correct_key': 'z', 'thisN': 96, 'thisTrialN': 16, 'thisRepN': 4}>
+159.2630 	DATA 	Keypress: m
+159.2734 	EXP 	fix: autoDraw = False
+159.2734 	EXP 	stim: autoDraw = False
+159.2734 	EXP 	stim: height = np.float64(0.05)
+159.2734 	EXP 	stim: height = np.float64(0.05)
+159.2734 	EXP 	stim: height = np.float64(0.05)
+159.2734 	EXP 	stim: text = 'garden'
+159.2734 	EXP 	fix: autoDraw = True
+159.4077 	EXP 	Device response: <KeyPress from None: t=159.25335590000032, value=m, duration=0.14028520000101707>
+159.7735 	INFO 	Keyboard events cleared
+159.7732 	EXP 	fix: autoDraw = False
+159.7732 	EXP 	stim: autoDraw = True
+160.6756 	DATA 	Keypress: z
+160.6904 	EXP 	Device response: <KeyPress from None: t=160.67299690000073, value=z, duration=None>
+160.6908 	EXP 	New trial (rep=4, index=17): <Trial 97 (17 in rep 4) data={'stimulus': 'bottle', 'type': 'word', 'correct_key': 'z', 'thisN': 97, 'thisTrialN': 17, 'thisRepN': 4}>
+160.7066 	EXP 	fix: autoDraw = False
+160.7066 	EXP 	stim: autoDraw = False
+160.7066 	EXP 	stim: height = np.float64(0.05)
+160.7066 	EXP 	stim: height = np.float64(0.05)
+160.7066 	EXP 	stim: height = np.float64(0.05)
+160.7066 	EXP 	stim: text = 'bottle'
+160.7066 	EXP 	fix: autoDraw = True
+160.8744 	EXP 	Device response: <KeyPress from None: t=160.67299690000073, value=z, duration=0.1862424999999348>
+161.1898 	INFO 	Keyboard events cleared
+161.1896 	EXP 	stim: autoDraw = True
+161.2067 	EXP 	fix: autoDraw = False
+164.0246 	EXP 	Device response: <KeyPress from None: t=164.01333300000078, value=z, duration=None>
+164.0257 	EXP 	New trial (rep=4, index=18): <Trial 98 (18 in rep 4) data={'stimulus': 'window', 'type': 'word', 'correct_key': 'z', 'thisN': 98, 'thisTrialN': 18, 'thisRepN': 4}>
+164.0317 	DATA 	Keypress: z
+164.0395 	EXP 	fix: autoDraw = False
+164.0395 	EXP 	stim: autoDraw = False
+164.0395 	EXP 	stim: height = np.float64(0.05)
+164.0395 	EXP 	stim: height = np.float64(0.05)
+164.0395 	EXP 	stim: height = np.float64(0.05)
+164.0395 	EXP 	stim: text = 'window'
+164.0395 	EXP 	fix: autoDraw = True
+164.1734 	EXP 	Device response: <KeyPress from None: t=164.01333300000078, value=z, duration=0.14803670000037528>
+164.5399 	INFO 	Keyboard events cleared
+164.5397 	EXP 	fix: autoDraw = False
+164.5397 	EXP 	stim: autoDraw = True
+165.1567 	EXP 	Device response: <KeyPress from None: t=165.1547026999997, value=z, duration=None>
+165.1570 	EXP 	New trial (rep=4, index=19): <Trial 99 (19 in rep 4) data={'stimulus': 'snarp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 99, 'thisTrialN': 19, 'thisRepN': 4}>
+165.1640 	DATA 	Keypress: z
+165.1729 	EXP 	fix: autoDraw = False
+165.1729 	EXP 	stim: autoDraw = False
+165.1729 	EXP 	stim: height = np.float64(0.05)
+165.1729 	EXP 	stim: height = np.float64(0.05)
+165.1729 	EXP 	stim: height = np.float64(0.05)
+165.1729 	EXP 	stim: text = 'snarp'
+165.1729 	EXP 	fix: autoDraw = True
+165.3408 	EXP 	Device response: <KeyPress from None: t=165.1547026999997, value=z, duration=0.17400480000105745>
+165.6730 	INFO 	Keyboard events cleared
+165.6728 	EXP 	fix: autoDraw = False
+165.6728 	EXP 	stim: autoDraw = True
+166.7898 	EXP 	Device response: <KeyPress from None: t=166.78053660000114, value=z, duration=None>
+166.7903 	EXP 	New trial (rep=5, index=0): <Trial 100 (0 in rep 5) data={'stimulus': 'flirp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 100, 'thisTrialN': 0, 'thisRepN': 5}>
+166.7957 	DATA 	Keypress: z
+166.8060 	EXP 	fix: autoDraw = False
+166.8060 	EXP 	stim: autoDraw = False
+166.8060 	EXP 	stim: height = np.float64(0.05)
+166.8060 	EXP 	stim: height = np.float64(0.05)
+166.8060 	EXP 	stim: height = np.float64(0.05)
+166.8060 	EXP 	stim: text = 'flirp'
+166.8060 	EXP 	fix: autoDraw = True
+166.8903 	EXP 	Device response: <KeyPress from None: t=166.78053660000114, value=z, duration=0.09900049999851035>
+167.2900 	INFO 	Keyboard events cleared
+167.2897 	EXP 	stim: autoDraw = True
+167.3063 	EXP 	fix: autoDraw = False
+168.1569 	EXP 	Device response: <KeyPress from None: t=168.14352500000132, value=m, duration=None>
+168.1573 	EXP 	New trial (rep=5, index=1): <Trial 101 (1 in rep 5) data={'stimulus': 'doctor', 'type': 'word', 'correct_key': 'z', 'thisN': 101, 'thisTrialN': 1, 'thisRepN': 5}>
+168.1629 	DATA 	Keypress: m
+168.1730 	EXP 	fix: autoDraw = False
+168.1730 	EXP 	stim: autoDraw = False
+168.1730 	EXP 	stim: height = np.float64(0.05)
+168.1730 	EXP 	stim: height = np.float64(0.05)
+168.1730 	EXP 	stim: height = np.float64(0.05)
+168.1730 	EXP 	stim: text = 'doctor'
+168.1730 	EXP 	fix: autoDraw = True
+168.2903 	EXP 	Device response: <KeyPress from None: t=168.14352500000132, value=m, duration=0.12874749999900814>
+168.6566 	INFO 	Keyboard events cleared
+168.6564 	EXP 	stim: autoDraw = True
+168.6731 	EXP 	fix: autoDraw = False
+170.3899 	EXP 	Device response: <KeyPress from None: t=170.37622160000137, value=z, duration=None>
+170.3903 	EXP 	New trial (rep=5, index=2): <Trial 102 (2 in rep 5) data={'stimulus': 'silver', 'type': 'word', 'correct_key': 'z', 'thisN': 102, 'thisTrialN': 2, 'thisRepN': 5}>
+170.3962 	DATA 	Keypress: z
+170.4058 	EXP 	fix: autoDraw = False
+170.4058 	EXP 	stim: autoDraw = False
+170.4058 	EXP 	stim: height = np.float64(0.05)
+170.4058 	EXP 	stim: height = np.float64(0.05)
+170.4058 	EXP 	stim: height = np.float64(0.05)
+170.4058 	EXP 	stim: text = 'silver'
+170.4058 	EXP 	fix: autoDraw = True
+170.5565 	EXP 	Device response: <KeyPress from None: t=170.37622160000137, value=z, duration=0.17314939999960188>
+170.8897 	INFO 	Keyboard events cleared
+170.8895 	EXP 	stim: autoDraw = True
+170.9059 	EXP 	fix: autoDraw = False
+171.6735 	EXP 	Device response: <KeyPress from None: t=171.67111450000084, value=z, duration=None>
+171.6740 	EXP 	New trial (rep=5, index=3): <Trial 103 (3 in rep 5) data={'stimulus': 'bottle', 'type': 'word', 'correct_key': 'z', 'thisN': 103, 'thisTrialN': 3, 'thisRepN': 5}>
+171.6790 	DATA 	Keypress: z
+171.6896 	EXP 	fix: autoDraw = False
+171.6896 	EXP 	stim: autoDraw = False
+171.6896 	EXP 	stim: height = np.float64(0.05)
+171.6896 	EXP 	stim: height = np.float64(0.05)
+171.6896 	EXP 	stim: height = np.float64(0.05)
+171.6896 	EXP 	stim: text = 'bottle'
+171.6896 	EXP 	fix: autoDraw = True
+171.8233 	EXP 	Device response: <KeyPress from None: t=171.67111450000084, value=z, duration=0.1498078999993595>
+172.1730 	INFO 	Keyboard events cleared
+172.1727 	EXP 	stim: autoDraw = True
+172.1889 	EXP 	fix: autoDraw = False
+172.7566 	EXP 	Device response: <KeyPress from None: t=172.74696089999998, value=z, duration=None>
+172.7570 	EXP 	New trial (rep=5, index=4): <Trial 104 (4 in rep 5) data={'stimulus': 'trallip', 'type': 'nonword', 'correct_key': 'm', 'thisN': 104, 'thisTrialN': 4, 'thisRepN': 5}>
+172.7627 	DATA 	Keypress: z
+172.7727 	EXP 	fix: autoDraw = False
+172.7727 	EXP 	stim: autoDraw = False
+172.7727 	EXP 	stim: height = np.float64(0.05)
+172.7727 	EXP 	stim: height = np.float64(0.05)
+172.7727 	EXP 	stim: height = np.float64(0.05)
+172.7727 	EXP 	stim: text = 'trallip'
+172.7727 	EXP 	fix: autoDraw = True
+172.9071 	EXP 	Device response: <KeyPress from None: t=172.74696089999998, value=z, duration=0.1559584000005998>
+173.2729 	INFO 	Keyboard events cleared
+173.2727 	EXP 	fix: autoDraw = False
+173.2727 	EXP 	stim: autoDraw = True
+175.9896 	EXP 	Device response: <KeyPress from None: t=175.98611840000012, value=m, duration=None>
+175.9900 	EXP 	New trial (rep=5, index=5): <Trial 105 (5 in rep 5) data={'stimulus': 'market', 'type': 'word', 'correct_key': 'z', 'thisN': 105, 'thisTrialN': 5, 'thisRepN': 5}>
+175.9948 	DATA 	Keypress: m
+176.0062 	EXP 	fix: autoDraw = False
+176.0062 	EXP 	stim: autoDraw = False
+176.0062 	EXP 	stim: height = np.float64(0.05)
+176.0062 	EXP 	stim: height = np.float64(0.05)
+176.0062 	EXP 	stim: height = np.float64(0.05)
+176.0062 	EXP 	stim: text = 'market'
+176.0062 	EXP 	fix: autoDraw = True
+176.1900 	EXP 	Device response: <KeyPress from None: t=175.98611840000012, value=m, duration=0.19504010000127892>
+176.4888 	INFO 	Keyboard events cleared
+176.4887 	EXP 	stim: autoDraw = True
+176.5062 	EXP 	fix: autoDraw = False
+177.8565 	EXP 	Device response: <KeyPress from None: t=177.8514668000007, value=z, duration=None>
+177.8569 	EXP 	New trial (rep=5, index=6): <Trial 106 (6 in rep 5) data={'stimulus': 'snarp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 106, 'thisTrialN': 6, 'thisRepN': 5}>
+177.8622 	DATA 	Keypress: z
+177.8725 	EXP 	fix: autoDraw = False
+177.8725 	EXP 	stim: autoDraw = False
+177.8725 	EXP 	stim: height = np.float64(0.05)
+177.8725 	EXP 	stim: height = np.float64(0.05)
+177.8725 	EXP 	stim: height = np.float64(0.05)
+177.8725 	EXP 	stim: text = 'snarp'
+177.8725 	EXP 	fix: autoDraw = True
+178.0563 	EXP 	Device response: <KeyPress from None: t=177.8514668000007, value=z, duration=0.20096489999923506>
+178.3560 	INFO 	Keyboard events cleared
+178.3558 	EXP 	stim: autoDraw = True
+178.3729 	EXP 	fix: autoDraw = False
+180.2250 	DATA 	Keypress: z
+180.2399 	EXP 	Device response: <KeyPress from None: t=180.22275439999976, value=z, duration=None>
+180.2404 	EXP 	New trial (rep=5, index=7): <Trial 107 (7 in rep 5) data={'stimulus': 'brantle', 'type': 'nonword', 'correct_key': 'm', 'thisN': 107, 'thisTrialN': 7, 'thisRepN': 5}>
+180.2556 	EXP 	fix: autoDraw = False
+180.2556 	EXP 	stim: autoDraw = False
+180.2556 	EXP 	stim: height = np.float64(0.05)
+180.2556 	EXP 	stim: height = np.float64(0.05)
+180.2556 	EXP 	stim: height = np.float64(0.05)
+180.2556 	EXP 	stim: text = 'brantle'
+180.2556 	EXP 	fix: autoDraw = True
+180.3898 	EXP 	Device response: <KeyPress from None: t=180.22275439999976, value=z, duration=0.15419850000034785>
+180.7554 	INFO 	Keyboard events cleared
+180.7553 	EXP 	fix: autoDraw = False
+180.7553 	EXP 	stim: autoDraw = True
+182.1447 	DATA 	Keypress: m
+182.1569 	EXP 	Device response: <KeyPress from None: t=182.14244750000034, value=m, duration=None>
+182.1574 	EXP 	New trial (rep=5, index=8): <Trial 108 (8 in rep 5) data={'stimulus': 'fradge', 'type': 'nonword', 'correct_key': 'm', 'thisN': 108, 'thisTrialN': 8, 'thisRepN': 5}>
+182.1724 	EXP 	fix: autoDraw = False
+182.1724 	EXP 	stim: autoDraw = False
+182.1724 	EXP 	stim: height = np.float64(0.05)
+182.1724 	EXP 	stim: height = np.float64(0.05)
+182.1724 	EXP 	stim: height = np.float64(0.05)
+182.1724 	EXP 	stim: text = 'fradge'
+182.1724 	EXP 	fix: autoDraw = True
+182.3392 	EXP 	Device response: <KeyPress from None: t=182.14244750000034, value=m, duration=0.18281500000011874>
+182.6730 	INFO 	Keyboard events cleared
+182.6728 	EXP 	fix: autoDraw = False
+182.6728 	EXP 	stim: autoDraw = True
+186.1555 	EXP 	Device response: <KeyPress from None: t=186.14945400000033, value=m, duration=None>
+186.1559 	EXP 	New trial (rep=5, index=9): <Trial 109 (9 in rep 5) data={'stimulus': 'window', 'type': 'word', 'correct_key': 'z', 'thisN': 109, 'thisTrialN': 9, 'thisRepN': 5}>
+186.1613 	DATA 	Keypress: m
+186.1717 	EXP 	fix: autoDraw = False
+186.1717 	EXP 	stim: autoDraw = False
+186.1717 	EXP 	stim: height = np.float64(0.05)
+186.1717 	EXP 	stim: height = np.float64(0.05)
+186.1717 	EXP 	stim: height = np.float64(0.05)
+186.1717 	EXP 	stim: text = 'window'
+186.1717 	EXP 	fix: autoDraw = True
+186.3728 	EXP 	Device response: <KeyPress from None: t=186.14945400000033, value=m, duration=0.21225070000036794>
+186.6557 	INFO 	Keyboard events cleared
+186.6554 	EXP 	stim: autoDraw = True
+186.6720 	EXP 	fix: autoDraw = False
+187.9407 	DATA 	Keypress: z
+187.9565 	EXP 	Device response: <KeyPress from None: t=187.938710800001, value=z, duration=None>
+187.9570 	EXP 	New trial (rep=5, index=10): <Trial 110 (10 in rep 5) data={'stimulus': 'garden', 'type': 'word', 'correct_key': 'z', 'thisN': 110, 'thisTrialN': 10, 'thisRepN': 5}>
+187.9718 	EXP 	fix: autoDraw = False
+187.9718 	EXP 	stim: autoDraw = False
+187.9718 	EXP 	stim: height = np.float64(0.05)
+187.9718 	EXP 	stim: height = np.float64(0.05)
+187.9718 	EXP 	stim: height = np.float64(0.05)
+187.9718 	EXP 	stim: text = 'garden'
+187.9718 	EXP 	fix: autoDraw = True
+188.0725 	EXP 	Device response: <KeyPress from None: t=187.938710800001, value=z, duration=0.1287752999996883>
+188.4722 	INFO 	Keyboard events cleared
+188.4719 	EXP 	fix: autoDraw = False
+188.4719 	EXP 	stim: autoDraw = True
+190.1062 	EXP 	Device response: <KeyPress from None: t=190.09165870000106, value=z, duration=None>
+190.1066 	EXP 	New trial (rep=5, index=11): <Trial 111 (11 in rep 5) data={'stimulus': 'drent', 'type': 'nonword', 'correct_key': 'm', 'thisN': 111, 'thisTrialN': 11, 'thisRepN': 5}>
+190.1113 	DATA 	Keypress: z
+190.1221 	EXP 	fix: autoDraw = False
+190.1221 	EXP 	stim: autoDraw = False
+190.1221 	EXP 	stim: height = np.float64(0.05)
+190.1221 	EXP 	stim: height = np.float64(0.05)
+190.1221 	EXP 	stim: height = np.float64(0.05)
+190.1221 	EXP 	stim: text = 'drent'
+190.1221 	EXP 	fix: autoDraw = True
+190.2557 	EXP 	Device response: <KeyPress from None: t=190.09165870000106, value=z, duration=0.15234319999945>
+190.6223 	INFO 	Keyboard events cleared
+190.6220 	EXP 	fix: autoDraw = False
+190.6220 	EXP 	stim: autoDraw = True
+191.6896 	EXP 	Device response: <KeyPress from None: t=191.67888889999995, value=m, duration=None>
+191.6901 	EXP 	New trial (rep=5, index=12): <Trial 112 (12 in rep 5) data={'stimulus': 'clope', 'type': 'nonword', 'correct_key': 'm', 'thisN': 112, 'thisTrialN': 12, 'thisRepN': 5}>
+191.6957 	DATA 	Keypress: m
+191.7050 	EXP 	fix: autoDraw = False
+191.7050 	EXP 	stim: autoDraw = False
+191.7050 	EXP 	stim: height = np.float64(0.05)
+191.7050 	EXP 	stim: height = np.float64(0.05)
+191.7050 	EXP 	stim: height = np.float64(0.05)
+191.7050 	EXP 	stim: text = 'clope'
+191.7050 	EXP 	fix: autoDraw = True
+191.8723 	EXP 	Device response: <KeyPress from None: t=191.67888889999995, value=m, duration=0.17620920000081242>
+192.2054 	INFO 	Keyboard events cleared
+192.2052 	EXP 	fix: autoDraw = False
+192.2052 	EXP 	stim: autoDraw = True
+194.4953 	DATA 	Keypress: m
+194.5054 	EXP 	Device response: <KeyPress from None: t=194.49117070000102, value=m, duration=None>
+194.5058 	EXP 	New trial (rep=5, index=13): <Trial 113 (13 in rep 5) data={'stimulus': 'plome', 'type': 'nonword', 'correct_key': 'm', 'thisN': 113, 'thisTrialN': 13, 'thisRepN': 5}>
+194.5218 	EXP 	fix: autoDraw = False
+194.5218 	EXP 	stim: autoDraw = False
+194.5218 	EXP 	stim: height = np.float64(0.05)
+194.5218 	EXP 	stim: height = np.float64(0.05)
+194.5218 	EXP 	stim: height = np.float64(0.05)
+194.5218 	EXP 	stim: text = 'plome'
+194.5218 	EXP 	fix: autoDraw = True
+194.6725 	EXP 	Device response: <KeyPress from None: t=194.49117070000102, value=m, duration=0.18017179999878863>
+195.0052 	INFO 	Keyboard events cleared
+195.0050 	EXP 	stim: autoDraw = True
+195.0221 	EXP 	fix: autoDraw = False
+195.9220 	EXP 	Device response: <KeyPress from None: t=195.91525860000002, value=m, duration=None>
+195.9226 	EXP 	New trial (rep=5, index=14): <Trial 114 (14 in rep 5) data={'stimulus': 'yellow', 'type': 'word', 'correct_key': 'z', 'thisN': 114, 'thisTrialN': 14, 'thisRepN': 5}>
+195.9279 	DATA 	Keypress: m
+195.9381 	EXP 	fix: autoDraw = False
+195.9381 	EXP 	stim: autoDraw = False
+195.9381 	EXP 	stim: height = np.float64(0.05)
+195.9381 	EXP 	stim: height = np.float64(0.05)
+195.9381 	EXP 	stim: height = np.float64(0.05)
+195.9381 	EXP 	stim: text = 'yellow'
+195.9381 	EXP 	fix: autoDraw = True
+196.0891 	EXP 	Device response: <KeyPress from None: t=195.91525860000002, value=m, duration=0.15651600000092003>
+196.4385 	INFO 	Keyboard events cleared
+196.4383 	EXP 	fix: autoDraw = False
+196.4383 	EXP 	stim: autoDraw = True
+197.4380 	EXP 	Device response: <KeyPress from None: t=197.4296153000014, value=z, duration=None>
+197.4384 	EXP 	New trial (rep=5, index=15): <Trial 115 (15 in rep 5) data={'stimulus': 'glenter', 'type': 'nonword', 'correct_key': 'm', 'thisN': 115, 'thisTrialN': 15, 'thisRepN': 5}>
+197.4435 	DATA 	Keypress: z
+197.4545 	EXP 	fix: autoDraw = False
+197.4545 	EXP 	stim: autoDraw = False
+197.4545 	EXP 	stim: height = np.float64(0.05)
+197.4545 	EXP 	stim: height = np.float64(0.05)
+197.4545 	EXP 	stim: height = np.float64(0.05)
+197.4545 	EXP 	stim: text = 'glenter'
+197.4545 	EXP 	fix: autoDraw = True
+197.5892 	EXP 	Device response: <KeyPress from None: t=197.4296153000014, value=z, duration=0.14970439999888185>
+197.9383 	INFO 	Keyboard events cleared
+197.9381 	EXP 	stim: autoDraw = True
+197.9548 	EXP 	fix: autoDraw = False
+199.0051 	EXP 	Device response: <KeyPress from None: t=199.00003560000005, value=m, duration=None>
+199.0056 	EXP 	New trial (rep=5, index=16): <Trial 116 (16 in rep 5) data={'stimulus': 'smode', 'type': 'nonword', 'correct_key': 'm', 'thisN': 116, 'thisTrialN': 16, 'thisRepN': 5}>
+199.0110 	DATA 	Keypress: m
+199.0214 	EXP 	fix: autoDraw = False
+199.0214 	EXP 	stim: autoDraw = False
+199.0214 	EXP 	stim: height = np.float64(0.05)
+199.0214 	EXP 	stim: height = np.float64(0.05)
+199.0214 	EXP 	stim: height = np.float64(0.05)
+199.0214 	EXP 	stim: text = 'smode'
+199.0214 	EXP 	fix: autoDraw = True
+199.1552 	EXP 	Device response: <KeyPress from None: t=199.00003560000005, value=m, duration=0.14491260000067996>
+199.5046 	INFO 	Keyboard events cleared
+199.5044 	EXP 	stim: autoDraw = True
+199.5214 	EXP 	fix: autoDraw = False
+200.6222 	EXP 	Device response: <KeyPress from None: t=200.61769490000006, value=m, duration=None>
+200.6227 	EXP 	New trial (rep=5, index=17): <Trial 117 (17 in rep 5) data={'stimulus': 'pillow', 'type': 'word', 'correct_key': 'z', 'thisN': 117, 'thisTrialN': 17, 'thisRepN': 5}>
+200.6281 	DATA 	Keypress: m
+200.6372 	EXP 	fix: autoDraw = False
+200.6372 	EXP 	stim: autoDraw = False
+200.6372 	EXP 	stim: height = np.float64(0.05)
+200.6372 	EXP 	stim: height = np.float64(0.05)
+200.6372 	EXP 	stim: height = np.float64(0.05)
+200.6372 	EXP 	stim: text = 'pillow'
+200.6372 	EXP 	fix: autoDraw = True
+200.7890 	EXP 	Device response: <KeyPress from None: t=200.61769490000006, value=m, duration=0.15919580000081623>
+201.1382 	INFO 	Keyboard events cleared
+201.1380 	EXP 	fix: autoDraw = False
+201.1380 	EXP 	stim: autoDraw = True
+203.4546 	EXP 	Device response: <KeyPress from None: t=203.44082880000133, value=z, duration=None>
+203.4549 	EXP 	New trial (rep=5, index=18): <Trial 118 (18 in rep 5) data={'stimulus': 'river', 'type': 'word', 'correct_key': 'z', 'thisN': 118, 'thisTrialN': 18, 'thisRepN': 5}>
+203.4601 	DATA 	Keypress: z
+203.4707 	EXP 	fix: autoDraw = False
+203.4707 	EXP 	stim: autoDraw = False
+203.4707 	EXP 	stim: height = np.float64(0.05)
+203.4707 	EXP 	stim: height = np.float64(0.05)
+203.4707 	EXP 	stim: height = np.float64(0.05)
+203.4707 	EXP 	stim: text = 'river'
+203.4707 	EXP 	fix: autoDraw = True
+203.6051 	EXP 	Device response: <KeyPress from None: t=203.44082880000133, value=z, duration=0.148942599998918>
+203.9545 	INFO 	Keyboard events cleared
+203.9543 	EXP 	stim: autoDraw = True
+203.9710 	EXP 	fix: autoDraw = False
+204.5056 	EXP 	Device response: <KeyPress from None: t=204.49087690000124, value=z, duration=None>
+204.5062 	EXP 	New trial (rep=5, index=19): <Trial 119 (19 in rep 5) data={'stimulus': 'apple', 'type': 'word', 'correct_key': 'z', 'thisN': 119, 'thisTrialN': 19, 'thisRepN': 5}>
+204.5126 	DATA 	Keypress: z
+204.5214 	EXP 	fix: autoDraw = False
+204.5214 	EXP 	stim: autoDraw = False
+204.5214 	EXP 	stim: height = np.float64(0.05)
+204.5214 	EXP 	stim: height = np.float64(0.05)
+204.5214 	EXP 	stim: height = np.float64(0.05)
+204.5214 	EXP 	stim: text = 'apple'
+204.5214 	EXP 	fix: autoDraw = True
+204.6548 	EXP 	Device response: <KeyPress from None: t=204.49087690000124, value=z, duration=0.15360689999943133>
+205.0212 	INFO 	Keyboard events cleared
+205.0210 	EXP 	fix: autoDraw = False
+205.0210 	EXP 	stim: autoDraw = True
+205.4883 	EXP 	Device response: <KeyPress from None: t=205.47608290000062, value=z, duration=None>
+205.4887 	EXP 	New trial (rep=6, index=0): <Trial 120 (0 in rep 6) data={'stimulus': 'garden', 'type': 'word', 'correct_key': 'z', 'thisN': 120, 'thisTrialN': 0, 'thisRepN': 6}>
+205.4936 	DATA 	Keypress: z
+205.5042 	EXP 	fix: autoDraw = False
+205.5042 	EXP 	stim: autoDraw = False
+205.5042 	EXP 	stim: height = np.float64(0.05)
+205.5042 	EXP 	stim: height = np.float64(0.05)
+205.5042 	EXP 	stim: height = np.float64(0.05)
+205.5042 	EXP 	stim: text = 'garden'
+205.5042 	EXP 	fix: autoDraw = True
+205.6219 	EXP 	Device response: <KeyPress from None: t=205.47608290000062, value=z, duration=0.13263890000052925>
+205.9880 	INFO 	Keyboard events cleared
+205.9877 	EXP 	stim: autoDraw = True
+206.0043 	EXP 	fix: autoDraw = False
+206.5240 	DATA 	Keypress: z
+206.5385 	EXP 	Device response: <KeyPress from None: t=206.52062950000072, value=z, duration=None>
+206.5389 	EXP 	New trial (rep=6, index=1): <Trial 121 (1 in rep 6) data={'stimulus': 'window', 'type': 'word', 'correct_key': 'z', 'thisN': 121, 'thisTrialN': 1, 'thisRepN': 6}>
+206.5545 	EXP 	fix: autoDraw = False
+206.5545 	EXP 	stim: autoDraw = False
+206.5545 	EXP 	stim: height = np.float64(0.05)
+206.5545 	EXP 	stim: height = np.float64(0.05)
+206.5545 	EXP 	stim: height = np.float64(0.05)
+206.5545 	EXP 	stim: text = 'window'
+206.5545 	EXP 	fix: autoDraw = True
+206.6888 	EXP 	Device response: <KeyPress from None: t=206.52062950000072, value=z, duration=0.15639589999955206>
+207.0545 	INFO 	Keyboard events cleared
+207.0543 	EXP 	fix: autoDraw = False
+207.0543 	EXP 	stim: autoDraw = True
+207.5388 	EXP 	Device response: <KeyPress from None: t=207.52990330000102, value=z, duration=None>
+207.5393 	EXP 	New trial (rep=6, index=2): <Trial 122 (2 in rep 6) data={'stimulus': 'glenter', 'type': 'nonword', 'correct_key': 'm', 'thisN': 122, 'thisTrialN': 2, 'thisRepN': 6}>
+207.5454 	DATA 	Keypress: z
+207.5539 	EXP 	fix: autoDraw = False
+207.5539 	EXP 	stim: autoDraw = False
+207.5539 	EXP 	stim: height = np.float64(0.05)
+207.5539 	EXP 	stim: height = np.float64(0.05)
+207.5539 	EXP 	stim: height = np.float64(0.05)
+207.5539 	EXP 	stim: text = 'glenter'
+207.5539 	EXP 	fix: autoDraw = True
+207.7217 	EXP 	Device response: <KeyPress from None: t=207.52990330000102, value=z, duration=0.19021710000015446>
+208.0545 	INFO 	Keyboard events cleared
+208.0543 	EXP 	fix: autoDraw = False
+208.0543 	EXP 	stim: autoDraw = True
+208.5049 	EXP 	Device response: <KeyPress from None: t=208.49638140000025, value=z, duration=None>
+208.5053 	EXP 	New trial (rep=6, index=3): <Trial 123 (3 in rep 6) data={'stimulus': 'brantle', 'type': 'nonword', 'correct_key': 'm', 'thisN': 123, 'thisTrialN': 3, 'thisRepN': 6}>
+208.5105 	DATA 	Keypress: z
+208.5210 	EXP 	fix: autoDraw = False
+208.5210 	EXP 	stim: autoDraw = False
+208.5210 	EXP 	stim: height = np.float64(0.05)
+208.5210 	EXP 	stim: height = np.float64(0.05)
+208.5210 	EXP 	stim: height = np.float64(0.05)
+208.5210 	EXP 	stim: text = 'brantle'
+208.5210 	EXP 	fix: autoDraw = True
+208.6714 	EXP 	Device response: <KeyPress from None: t=208.49638140000025, value=z, duration=0.16655320000063512>
+209.0213 	INFO 	Keyboard events cleared
+209.0211 	EXP 	fix: autoDraw = False
+209.0211 	EXP 	stim: autoDraw = True
+210.1048 	EXP 	Device response: <KeyPress from None: t=210.09461069999998, value=m, duration=None>
+210.1053 	EXP 	New trial (rep=6, index=4): <Trial 124 (4 in rep 6) data={'stimulus': 'river', 'type': 'word', 'correct_key': 'z', 'thisN': 124, 'thisTrialN': 4, 'thisRepN': 6}>
+210.1109 	DATA 	Keypress: m
+210.1210 	EXP 	fix: autoDraw = False
+210.1210 	EXP 	stim: autoDraw = False
+210.1210 	EXP 	stim: height = np.float64(0.05)
+210.1210 	EXP 	stim: height = np.float64(0.05)
+210.1210 	EXP 	stim: height = np.float64(0.05)
+210.1210 	EXP 	stim: text = 'river'
+210.1210 	EXP 	fix: autoDraw = True
+210.2718 	EXP 	Device response: <KeyPress from None: t=210.09461069999998, value=m, duration=0.16580040000008012>
+210.6046 	INFO 	Keyboard events cleared
+210.6044 	EXP 	stim: autoDraw = True
+210.6209 	EXP 	fix: autoDraw = False
+211.2551 	EXP 	Device response: <KeyPress from None: t=211.2471733000002, value=z, duration=None>
+211.2556 	EXP 	New trial (rep=6, index=5): <Trial 125 (5 in rep 6) data={'stimulus': 'market', 'type': 'word', 'correct_key': 'z', 'thisN': 125, 'thisTrialN': 5, 'thisRepN': 6}>
+211.2614 	DATA 	Keypress: z
+211.2709 	EXP 	fix: autoDraw = False
+211.2709 	EXP 	stim: autoDraw = False
+211.2709 	EXP 	stim: height = np.float64(0.05)
+211.2709 	EXP 	stim: height = np.float64(0.05)
+211.2709 	EXP 	stim: height = np.float64(0.05)
+211.2709 	EXP 	stim: text = 'market'
+211.2709 	EXP 	fix: autoDraw = True
+211.4379 	EXP 	Device response: <KeyPress from None: t=211.2471733000002, value=z, duration=0.1728701000010915>
+211.7707 	INFO 	Keyboard events cleared
+211.7705 	EXP 	fix: autoDraw = False
+211.7705 	EXP 	stim: autoDraw = True
+212.8380 	EXP 	Device response: <KeyPress from None: t=212.8266077999997, value=z, duration=None>
+212.8384 	EXP 	New trial (rep=6, index=6): <Trial 126 (6 in rep 6) data={'stimulus': 'snarp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 126, 'thisTrialN': 6, 'thisRepN': 6}>
+212.8430 	DATA 	Keypress: z
+212.8540 	EXP 	fix: autoDraw = False
+212.8540 	EXP 	stim: autoDraw = False
+212.8540 	EXP 	stim: height = np.float64(0.05)
+212.8540 	EXP 	stim: height = np.float64(0.05)
+212.8540 	EXP 	stim: height = np.float64(0.05)
+212.8540 	EXP 	stim: text = 'snarp'
+212.8540 	EXP 	fix: autoDraw = True
+212.9716 	EXP 	Device response: <KeyPress from None: t=212.8266077999997, value=z, duration=0.1348323000001983>
+213.3546 	INFO 	Keyboard events cleared
+213.3544 	EXP 	fix: autoDraw = False
+213.3544 	EXP 	stim: autoDraw = True
+215.2581 	DATA 	Keypress: m
+215.2710 	EXP 	Device response: <KeyPress from None: t=215.25596140000016, value=m, duration=None>
+215.2714 	EXP 	New trial (rep=6, index=7): <Trial 127 (7 in rep 6) data={'stimulus': 'apple', 'type': 'word', 'correct_key': 'z', 'thisN': 127, 'thisTrialN': 7, 'thisRepN': 6}>
+215.2872 	EXP 	fix: autoDraw = False
+215.2872 	EXP 	stim: autoDraw = False
+215.2872 	EXP 	stim: height = np.float64(0.05)
+215.2872 	EXP 	stim: height = np.float64(0.05)
+215.2872 	EXP 	stim: height = np.float64(0.05)
+215.2872 	EXP 	stim: text = 'apple'
+215.2872 	EXP 	fix: autoDraw = True
+215.4548 	EXP 	Device response: <KeyPress from None: t=215.25596140000016, value=m, duration=0.1849558000012621>
+215.7707 	INFO 	Keyboard events cleared
+215.7705 	EXP 	stim: autoDraw = True
+215.7869 	EXP 	fix: autoDraw = False
+216.4068 	DATA 	Keypress: z
+216.4214 	EXP 	Device response: <KeyPress from None: t=216.40372469999966, value=z, duration=None>
+216.4219 	EXP 	New trial (rep=6, index=8): <Trial 128 (8 in rep 6) data={'stimulus': 'pillow', 'type': 'word', 'correct_key': 'z', 'thisN': 128, 'thisTrialN': 8, 'thisRepN': 6}>
+216.4373 	EXP 	fix: autoDraw = False
+216.4373 	EXP 	stim: autoDraw = False
+216.4373 	EXP 	stim: height = np.float64(0.05)
+216.4373 	EXP 	stim: height = np.float64(0.05)
+216.4373 	EXP 	stim: height = np.float64(0.05)
+216.4373 	EXP 	stim: text = 'pillow'
+216.4373 	EXP 	fix: autoDraw = True
+216.5380 	EXP 	Device response: <KeyPress from None: t=216.40372469999966, value=z, duration=0.13213270000051125>
+216.9373 	INFO 	Keyboard events cleared
+216.9371 	EXP 	fix: autoDraw = False
+216.9371 	EXP 	stim: autoDraw = True
+217.5083 	DATA 	Keypress: z
+217.5216 	EXP 	Device response: <KeyPress from None: t=217.50594840000122, value=z, duration=None>
+217.5220 	EXP 	New trial (rep=6, index=9): <Trial 129 (9 in rep 6) data={'stimulus': 'flirp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 129, 'thisTrialN': 9, 'thisRepN': 6}>
+217.5367 	EXP 	fix: autoDraw = False
+217.5367 	EXP 	stim: autoDraw = False
+217.5367 	EXP 	stim: height = np.float64(0.05)
+217.5367 	EXP 	stim: height = np.float64(0.05)
+217.5367 	EXP 	stim: height = np.float64(0.05)
+217.5367 	EXP 	stim: text = 'flirp'
+217.5367 	EXP 	fix: autoDraw = True
+217.6709 	EXP 	Device response: <KeyPress from None: t=217.50594840000122, value=z, duration=0.16228549999868846>
+218.0368 	INFO 	Keyboard events cleared
+218.0366 	EXP 	fix: autoDraw = False
+218.0366 	EXP 	stim: autoDraw = True
+219.1875 	EXP 	Device response: <KeyPress from None: t=219.18251039999996, value=m, duration=None>
+219.1879 	EXP 	New trial (rep=6, index=10): <Trial 130 (10 in rep 6) data={'stimulus': 'drent', 'type': 'nonword', 'correct_key': 'm', 'thisN': 130, 'thisTrialN': 10, 'thisRepN': 6}>
+219.1927 	DATA 	Keypress: m
+219.2039 	EXP 	fix: autoDraw = False
+219.2039 	EXP 	stim: autoDraw = False
+219.2039 	EXP 	stim: height = np.float64(0.05)
+219.2039 	EXP 	stim: height = np.float64(0.05)
+219.2039 	EXP 	stim: height = np.float64(0.05)
+219.2039 	EXP 	stim: text = 'drent'
+219.2039 	EXP 	fix: autoDraw = True
+219.3209 	EXP 	Device response: <KeyPress from None: t=219.18251039999996, value=m, duration=0.13015500000074098>
+219.7043 	INFO 	Keyboard events cleared
+219.7040 	EXP 	fix: autoDraw = False
+219.7040 	EXP 	stim: autoDraw = True
+220.4043 	EXP 	Device response: <KeyPress from None: t=220.39489219999996, value=m, duration=None>
+220.4048 	EXP 	New trial (rep=6, index=11): <Trial 131 (11 in rep 6) data={'stimulus': 'silver', 'type': 'word', 'correct_key': 'z', 'thisN': 131, 'thisTrialN': 11, 'thisRepN': 6}>
+220.4109 	DATA 	Keypress: m
+220.4203 	EXP 	fix: autoDraw = False
+220.4203 	EXP 	stim: autoDraw = False
+220.4203 	EXP 	stim: height = np.float64(0.05)
+220.4203 	EXP 	stim: height = np.float64(0.05)
+220.4203 	EXP 	stim: height = np.float64(0.05)
+220.4203 	EXP 	stim: text = 'silver'
+220.4203 	EXP 	fix: autoDraw = True
+220.5542 	EXP 	Device response: <KeyPress from None: t=220.39489219999996, value=m, duration=0.1519602999997005>
+220.9204 	INFO 	Keyboard events cleared
+220.9202 	EXP 	fix: autoDraw = False
+220.9202 	EXP 	stim: autoDraw = True
+221.5040 	EXP 	Device response: <KeyPress from None: t=221.50093920000108, value=z, duration=None>
+221.5044 	EXP 	New trial (rep=6, index=12): <Trial 132 (12 in rep 6) data={'stimulus': 'plome', 'type': 'nonword', 'correct_key': 'm', 'thisN': 132, 'thisTrialN': 12, 'thisRepN': 6}>
+221.5092 	DATA 	Keypress: z
+221.5202 	EXP 	fix: autoDraw = False
+221.5202 	EXP 	stim: autoDraw = False
+221.5202 	EXP 	stim: height = np.float64(0.05)
+221.5202 	EXP 	stim: height = np.float64(0.05)
+221.5202 	EXP 	stim: height = np.float64(0.05)
+221.5202 	EXP 	stim: text = 'plome'
+221.5202 	EXP 	fix: autoDraw = True
+221.6710 	EXP 	Device response: <KeyPress from None: t=221.50093920000108, value=z, duration=0.15802350000012666>
+222.0040 	INFO 	Keyboard events cleared
+222.0037 	EXP 	stim: autoDraw = True
+222.0204 	EXP 	fix: autoDraw = False
+223.7709 	EXP 	Device response: <KeyPress from None: t=223.76422470000034, value=z, duration=None>
+223.7714 	EXP 	New trial (rep=6, index=13): <Trial 133 (13 in rep 6) data={'stimulus': 'clope', 'type': 'nonword', 'correct_key': 'm', 'thisN': 133, 'thisTrialN': 13, 'thisRepN': 6}>
+223.7765 	DATA 	Keypress: z
+223.7870 	EXP 	fix: autoDraw = False
+223.7870 	EXP 	stim: autoDraw = False
+223.7870 	EXP 	stim: height = np.float64(0.05)
+223.7870 	EXP 	stim: height = np.float64(0.05)
+223.7870 	EXP 	stim: height = np.float64(0.05)
+223.7870 	EXP 	stim: text = 'clope'
+223.7870 	EXP 	fix: autoDraw = True
+223.9366 	EXP 	Device response: <KeyPress from None: t=223.76422470000034, value=z, duration=0.16305409999949916>
+224.2870 	INFO 	Keyboard events cleared
+224.2868 	EXP 	fix: autoDraw = False
+224.2868 	EXP 	stim: autoDraw = True
+225.3207 	EXP 	Device response: <KeyPress from None: t=225.313402400001, value=z, duration=None>
+225.3211 	EXP 	New trial (rep=6, index=14): <Trial 134 (14 in rep 6) data={'stimulus': 'doctor', 'type': 'word', 'correct_key': 'z', 'thisN': 134, 'thisTrialN': 14, 'thisRepN': 6}>
+225.3270 	DATA 	Keypress: z
+225.3367 	EXP 	fix: autoDraw = False
+225.3367 	EXP 	stim: autoDraw = False
+225.3367 	EXP 	stim: height = np.float64(0.05)
+225.3367 	EXP 	stim: height = np.float64(0.05)
+225.3367 	EXP 	stim: height = np.float64(0.05)
+225.3367 	EXP 	stim: text = 'doctor'
+225.3367 	EXP 	fix: autoDraw = True
+225.4543 	EXP 	Device response: <KeyPress from None: t=225.313402400001, value=z, duration=0.13443410000036238>
+225.8203 	INFO 	Keyboard events cleared
+225.8200 	EXP 	stim: autoDraw = True
+225.8367 	EXP 	fix: autoDraw = False
+227.3580 	DATA 	Keypress: z
+227.3707 	EXP 	Device response: <KeyPress from None: t=227.355704900001, value=z, duration=None>
+227.3713 	EXP 	New trial (rep=6, index=15): <Trial 135 (15 in rep 6) data={'stimulus': 'smode', 'type': 'nonword', 'correct_key': 'm', 'thisN': 135, 'thisTrialN': 15, 'thisRepN': 6}>
+227.3863 	EXP 	fix: autoDraw = False
+227.3863 	EXP 	stim: autoDraw = False
+227.3863 	EXP 	stim: height = np.float64(0.05)
+227.3863 	EXP 	stim: height = np.float64(0.05)
+227.3863 	EXP 	stim: height = np.float64(0.05)
+227.3863 	EXP 	stim: text = 'smode'
+227.3863 	EXP 	fix: autoDraw = True
+227.5369 	EXP 	Device response: <KeyPress from None: t=227.355704900001, value=z, duration=0.1661573999990651>
+227.8870 	INFO 	Keyboard events cleared
+227.8868 	EXP 	fix: autoDraw = False
+227.8868 	EXP 	stim: autoDraw = True
+229.2375 	EXP 	Device response: <KeyPress from None: t=229.23003120000067, value=m, duration=None>
+229.2381 	EXP 	New trial (rep=6, index=16): <Trial 136 (16 in rep 6) data={'stimulus': 'trallip', 'type': 'nonword', 'correct_key': 'm', 'thisN': 136, 'thisTrialN': 16, 'thisRepN': 6}>
+229.2446 	DATA 	Keypress: m
+229.2530 	EXP 	fix: autoDraw = False
+229.2530 	EXP 	stim: autoDraw = False
+229.2530 	EXP 	stim: height = np.float64(0.05)
+229.2530 	EXP 	stim: height = np.float64(0.05)
+229.2530 	EXP 	stim: height = np.float64(0.05)
+229.2530 	EXP 	stim: text = 'trallip'
+229.2530 	EXP 	fix: autoDraw = True
+229.4209 	EXP 	Device response: <KeyPress from None: t=229.23003120000067, value=m, duration=0.1846967000001314>
+229.7531 	INFO 	Keyboard events cleared
+229.7529 	EXP 	fix: autoDraw = False
+229.7529 	EXP 	stim: autoDraw = True
+230.4029 	EXP 	Device response: <KeyPress from None: t=230.4013259000003, value=m, duration=None>
+230.4032 	EXP 	New trial (rep=6, index=17): <Trial 137 (17 in rep 6) data={'stimulus': 'yellow', 'type': 'word', 'correct_key': 'z', 'thisN': 137, 'thisTrialN': 17, 'thisRepN': 6}>
+230.4083 	DATA 	Keypress: m
+230.4195 	EXP 	fix: autoDraw = False
+230.4195 	EXP 	stim: autoDraw = False
+230.4195 	EXP 	stim: height = np.float64(0.05)
+230.4195 	EXP 	stim: height = np.float64(0.05)
+230.4195 	EXP 	stim: height = np.float64(0.05)
+230.4195 	EXP 	stim: text = 'yellow'
+230.4195 	EXP 	fix: autoDraw = True
+230.5713 	EXP 	Device response: <KeyPress from None: t=230.4013259000003, value=m, duration=0.15453350000097998>
+230.9032 	INFO 	Keyboard events cleared
+230.9030 	EXP 	stim: autoDraw = True
+230.9197 	EXP 	fix: autoDraw = False
+231.5205 	EXP 	Device response: <KeyPress from None: t=231.50601880000067, value=z, duration=None>
+231.5211 	EXP 	New trial (rep=6, index=18): <Trial 138 (18 in rep 6) data={'stimulus': 'bottle', 'type': 'word', 'correct_key': 'z', 'thisN': 138, 'thisTrialN': 18, 'thisRepN': 6}>
+231.5272 	DATA 	Keypress: z
+231.5363 	EXP 	fix: autoDraw = False
+231.5363 	EXP 	stim: autoDraw = False
+231.5363 	EXP 	stim: height = np.float64(0.05)
+231.5363 	EXP 	stim: height = np.float64(0.05)
+231.5363 	EXP 	stim: height = np.float64(0.05)
+231.5363 	EXP 	stim: text = 'bottle'
+231.5363 	EXP 	fix: autoDraw = True
+231.6371 	EXP 	Device response: <KeyPress from None: t=231.50601880000067, value=z, duration=0.12381719999939378>
+232.0366 	INFO 	Keyboard events cleared
+232.0363 	EXP 	fix: autoDraw = False
+232.0363 	EXP 	stim: autoDraw = True
+232.8371 	EXP 	Device response: <KeyPress from None: t=232.82543319999968, value=z, duration=None>
+232.8375 	EXP 	New trial (rep=6, index=19): <Trial 139 (19 in rep 6) data={'stimulus': 'fradge', 'type': 'nonword', 'correct_key': 'm', 'thisN': 139, 'thisTrialN': 19, 'thisRepN': 6}>
+232.8425 	DATA 	Keypress: z
+232.8532 	EXP 	fix: autoDraw = False
+232.8532 	EXP 	stim: autoDraw = False
+232.8532 	EXP 	stim: height = np.float64(0.05)
+232.8532 	EXP 	stim: height = np.float64(0.05)
+232.8532 	EXP 	stim: height = np.float64(0.05)
+232.8532 	EXP 	stim: text = 'fradge'
+232.8532 	EXP 	fix: autoDraw = True
+233.0033 	EXP 	Device response: <KeyPress from None: t=232.82543319999968, value=z, duration=0.16422980000061216>
+233.3366 	INFO 	Keyboard events cleared
+233.3364 	EXP 	stim: autoDraw = True
+233.3535 	EXP 	fix: autoDraw = False
+234.6534 	EXP 	Device response: <KeyPress from None: t=234.65189590000045, value=m, duration=None>
+234.6538 	EXP 	New trial (rep=7, index=0): <Trial 140 (0 in rep 7) data={'stimulus': 'smode', 'type': 'nonword', 'correct_key': 'm', 'thisN': 140, 'thisTrialN': 0, 'thisRepN': 7}>
+234.6592 	DATA 	Keypress: m
+234.6693 	EXP 	fix: autoDraw = False
+234.6693 	EXP 	stim: autoDraw = False
+234.6693 	EXP 	stim: height = np.float64(0.05)
+234.6693 	EXP 	stim: height = np.float64(0.05)
+234.6693 	EXP 	stim: height = np.float64(0.05)
+234.6693 	EXP 	stim: text = 'smode'
+234.6693 	EXP 	fix: autoDraw = True
+234.8201 	EXP 	Device response: <KeyPress from None: t=234.65189590000045, value=m, duration=0.160121099999742>
+235.1700 	INFO 	Keyboard events cleared
+235.1697 	EXP 	fix: autoDraw = False
+235.1697 	EXP 	stim: autoDraw = True
+236.0704 	EXP 	Device response: <KeyPress from None: t=236.05894079999962, value=m, duration=None>
+236.0709 	EXP 	New trial (rep=7, index=1): <Trial 141 (1 in rep 7) data={'stimulus': 'brantle', 'type': 'nonword', 'correct_key': 'm', 'thisN': 141, 'thisTrialN': 1, 'thisRepN': 7}>
+236.0763 	DATA 	Keypress: m
+236.0861 	EXP 	fix: autoDraw = False
+236.0861 	EXP 	stim: autoDraw = False
+236.0861 	EXP 	stim: height = np.float64(0.05)
+236.0861 	EXP 	stim: height = np.float64(0.05)
+236.0861 	EXP 	stim: height = np.float64(0.05)
+236.0861 	EXP 	stim: text = 'brantle'
+236.0861 	EXP 	fix: autoDraw = True
+236.2535 	EXP 	Device response: <KeyPress from None: t=236.05894079999962, value=m, duration=0.18189820000043255>
+236.5858 	INFO 	Keyboard events cleared
+236.5856 	EXP 	fix: autoDraw = False
+236.5856 	EXP 	stim: autoDraw = True
+237.2032 	EXP 	Device response: <KeyPress from None: t=237.19726160000027, value=z, duration=None>
+237.2037 	EXP 	New trial (rep=7, index=2): <Trial 142 (2 in rep 7) data={'stimulus': 'glenter', 'type': 'nonword', 'correct_key': 'm', 'thisN': 142, 'thisTrialN': 2, 'thisRepN': 7}>
+237.2091 	DATA 	Keypress: z
+237.2196 	EXP 	fix: autoDraw = False
+237.2196 	EXP 	stim: autoDraw = False
+237.2196 	EXP 	stim: height = np.float64(0.05)
+237.2196 	EXP 	stim: height = np.float64(0.05)
+237.2196 	EXP 	stim: height = np.float64(0.05)
+237.2196 	EXP 	stim: text = 'glenter'
+237.2196 	EXP 	fix: autoDraw = True
+237.3535 	EXP 	Device response: <KeyPress from None: t=237.19726160000027, value=z, duration=0.14382760000080452>
+237.7029 	INFO 	Keyboard events cleared
+237.7027 	EXP 	stim: autoDraw = True
+237.7193 	EXP 	fix: autoDraw = False
+238.8365 	EXP 	Device response: <KeyPress from None: t=238.8229123000001, value=m, duration=None>
+238.8369 	EXP 	New trial (rep=7, index=3): <Trial 143 (3 in rep 7) data={'stimulus': 'yellow', 'type': 'word', 'correct_key': 'z', 'thisN': 143, 'thisTrialN': 3, 'thisRepN': 7}>
+238.8428 	DATA 	Keypress: m
+238.8526 	EXP 	fix: autoDraw = False
+238.8526 	EXP 	stim: autoDraw = False
+238.8526 	EXP 	stim: height = np.float64(0.05)
+238.8526 	EXP 	stim: height = np.float64(0.05)
+238.8526 	EXP 	stim: height = np.float64(0.05)
+238.8526 	EXP 	stim: text = 'yellow'
+238.8526 	EXP 	fix: autoDraw = True
+238.9703 	EXP 	Device response: <KeyPress from None: t=238.8229123000001, value=m, duration=0.1324573000001692>
+239.3361 	INFO 	Keyboard events cleared
+239.3358 	EXP 	stim: autoDraw = True
+239.3529 	EXP 	fix: autoDraw = False
+239.9366 	EXP 	Device response: <KeyPress from None: t=239.93170550000104, value=z, duration=None>
+239.9370 	EXP 	New trial (rep=7, index=4): <Trial 144 (4 in rep 7) data={'stimulus': 'apple', 'type': 'word', 'correct_key': 'z', 'thisN': 144, 'thisTrialN': 4, 'thisRepN': 7}>
+239.9423 	DATA 	Keypress: z
+239.9526 	EXP 	fix: autoDraw = False
+239.9526 	EXP 	stim: autoDraw = False
+239.9526 	EXP 	stim: height = np.float64(0.05)
+239.9526 	EXP 	stim: height = np.float64(0.05)
+239.9526 	EXP 	stim: height = np.float64(0.05)
+239.9526 	EXP 	stim: text = 'apple'
+239.9526 	EXP 	fix: autoDraw = True
+240.0861 	EXP 	Device response: <KeyPress from None: t=239.93170550000104, value=z, duration=0.14216189999933704>
+240.4530 	INFO 	Keyboard events cleared
+240.4527 	EXP 	fix: autoDraw = False
+240.4527 	EXP 	stim: autoDraw = True
+241.9363 	EXP 	Device response: <KeyPress from None: t=241.92632050000066, value=z, duration=None>
+241.9368 	EXP 	New trial (rep=7, index=5): <Trial 145 (5 in rep 7) data={'stimulus': 'plome', 'type': 'nonword', 'correct_key': 'm', 'thisN': 145, 'thisTrialN': 5, 'thisRepN': 7}>
+241.9424 	DATA 	Keypress: z
+241.9523 	EXP 	fix: autoDraw = False
+241.9523 	EXP 	stim: autoDraw = False
+241.9523 	EXP 	stim: height = np.float64(0.05)
+241.9523 	EXP 	stim: height = np.float64(0.05)
+241.9523 	EXP 	stim: height = np.float64(0.05)
+241.9523 	EXP 	stim: text = 'plome'
+241.9523 	EXP 	fix: autoDraw = True
+242.1037 	EXP 	Device response: <KeyPress from None: t=241.92632050000066, value=z, duration=0.1631139000000985>
+242.4360 	INFO 	Keyboard events cleared
+242.4358 	EXP 	stim: autoDraw = True
+242.4525 	EXP 	fix: autoDraw = False
+243.4535 	EXP 	Device response: <KeyPress from None: t=243.44266190000053, value=m, duration=None>
+243.4541 	EXP 	New trial (rep=7, index=6): <Trial 146 (6 in rep 7) data={'stimulus': 'clope', 'type': 'nonword', 'correct_key': 'm', 'thisN': 146, 'thisTrialN': 6, 'thisRepN': 7}>
+243.4604 	DATA 	Keypress: m
+243.4692 	EXP 	fix: autoDraw = False
+243.4692 	EXP 	stim: autoDraw = False
+243.4692 	EXP 	stim: height = np.float64(0.05)
+243.4692 	EXP 	stim: height = np.float64(0.05)
+243.4692 	EXP 	stim: height = np.float64(0.05)
+243.4692 	EXP 	stim: text = 'clope'
+243.4692 	EXP 	fix: autoDraw = True
+243.5863 	EXP 	Device response: <KeyPress from None: t=243.44266190000053, value=m, duration=0.13331280000056722>
+243.9691 	INFO 	Keyboard events cleared
+243.9689 	EXP 	fix: autoDraw = False
+243.9689 	EXP 	stim: autoDraw = True
+246.0733 	DATA 	Keypress: m
+246.0867 	EXP 	Device response: <KeyPress from None: t=246.07150470000124, value=m, duration=None>
+246.0872 	EXP 	New trial (rep=7, index=7): <Trial 147 (7 in rep 7) data={'stimulus': 'window', 'type': 'word', 'correct_key': 'z', 'thisN': 147, 'thisTrialN': 7, 'thisRepN': 7}>
+246.1025 	EXP 	fix: autoDraw = False
+246.1025 	EXP 	stim: autoDraw = False
+246.1025 	EXP 	stim: height = np.float64(0.05)
+246.1025 	EXP 	stim: height = np.float64(0.05)
+246.1025 	EXP 	stim: height = np.float64(0.05)
+246.1025 	EXP 	stim: text = 'window'
+246.1025 	EXP 	fix: autoDraw = True
+246.2360 	EXP 	Device response: <KeyPress from None: t=246.07150470000124, value=m, duration=0.15015949999906297>
+246.6023 	INFO 	Keyboard events cleared
+246.6021 	EXP 	fix: autoDraw = False
+246.6021 	EXP 	stim: autoDraw = True
+247.0553 	DATA 	Keypress: z
+247.0700 	EXP 	Device response: <KeyPress from None: t=247.05173260000083, value=z, duration=None>
+247.0706 	EXP 	New trial (rep=7, index=8): <Trial 148 (8 in rep 7) data={'stimulus': 'pillow', 'type': 'word', 'correct_key': 'z', 'thisN': 148, 'thisTrialN': 8, 'thisRepN': 7}>
+247.0853 	EXP 	fix: autoDraw = False
+247.0853 	EXP 	stim: autoDraw = False
+247.0853 	EXP 	stim: height = np.float64(0.05)
+247.0853 	EXP 	stim: height = np.float64(0.05)
+247.0853 	EXP 	stim: height = np.float64(0.05)
+247.0853 	EXP 	stim: text = 'pillow'
+247.0853 	EXP 	fix: autoDraw = True
+247.2200 	EXP 	Device response: <KeyPress from None: t=247.05173260000083, value=z, duration=0.15338399999927788>
+247.5856 	INFO 	Keyboard events cleared
+247.5854 	EXP 	fix: autoDraw = False
+247.5854 	EXP 	stim: autoDraw = True
+248.1392 	DATA 	Keypress: z
+248.1531 	EXP 	Device response: <KeyPress from None: t=248.1351477999997, value=z, duration=None>
+248.1535 	EXP 	New trial (rep=7, index=9): <Trial 149 (9 in rep 7) data={'stimulus': 'drent', 'type': 'nonword', 'correct_key': 'm', 'thisN': 149, 'thisTrialN': 9, 'thisRepN': 7}>
+248.1689 	EXP 	fix: autoDraw = False
+248.1689 	EXP 	stim: autoDraw = False
+248.1689 	EXP 	stim: height = np.float64(0.05)
+248.1689 	EXP 	stim: height = np.float64(0.05)
+248.1689 	EXP 	stim: height = np.float64(0.05)
+248.1689 	EXP 	stim: text = 'drent'
+248.1689 	EXP 	fix: autoDraw = True
+248.2860 	EXP 	Device response: <KeyPress from None: t=248.1351477999997, value=z, duration=0.14928250000048138>
+248.6529 	INFO 	Keyboard events cleared
+248.6526 	EXP 	stim: autoDraw = True
+248.6689 	EXP 	fix: autoDraw = False
+250.6026 	EXP 	Device response: <KeyPress from None: t=250.59779640000124, value=m, duration=None>
+250.6031 	EXP 	New trial (rep=7, index=10): <Trial 150 (10 in rep 7) data={'stimulus': 'snarp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 150, 'thisTrialN': 10, 'thisRepN': 7}>
+250.6087 	DATA 	Keypress: m
+250.6187 	EXP 	fix: autoDraw = False
+250.6187 	EXP 	stim: autoDraw = False
+250.6187 	EXP 	stim: height = np.float64(0.05)
+250.6187 	EXP 	stim: height = np.float64(0.05)
+250.6187 	EXP 	stim: height = np.float64(0.05)
+250.6187 	EXP 	stim: text = 'snarp'
+250.6187 	EXP 	fix: autoDraw = True
+250.7526 	EXP 	Device response: <KeyPress from None: t=250.59779640000124, value=m, duration=0.1402548999994906>
+251.1023 	INFO 	Keyboard events cleared
+251.1021 	EXP 	stim: autoDraw = True
+251.1186 	EXP 	fix: autoDraw = False
+252.1696 	EXP 	Device response: <KeyPress from None: t=252.1670105000012, value=z, duration=None>
+252.1702 	EXP 	New trial (rep=7, index=11): <Trial 151 (11 in rep 7) data={'stimulus': 'garden', 'type': 'word', 'correct_key': 'z', 'thisN': 151, 'thisTrialN': 11, 'thisRepN': 7}>
+252.1758 	DATA 	Keypress: z
+252.1855 	EXP 	fix: autoDraw = False
+252.1855 	EXP 	stim: autoDraw = False
+252.1855 	EXP 	stim: height = np.float64(0.05)
+252.1855 	EXP 	stim: height = np.float64(0.05)
+252.1855 	EXP 	stim: height = np.float64(0.05)
+252.1855 	EXP 	stim: text = 'garden'
+252.1855 	EXP 	fix: autoDraw = True
+252.3694 	EXP 	Device response: <KeyPress from None: t=252.1670105000012, value=z, duration=0.1867339999989781>
+252.6692 	INFO 	Keyboard events cleared
+252.6690 	EXP 	stim: autoDraw = True
+252.6855 	EXP 	fix: autoDraw = False
+254.0697 	EXP 	Device response: <KeyPress from None: t=254.05476480000107, value=z, duration=None>
+254.0701 	EXP 	New trial (rep=7, index=12): <Trial 152 (12 in rep 7) data={'stimulus': 'bottle', 'type': 'word', 'correct_key': 'z', 'thisN': 152, 'thisTrialN': 12, 'thisRepN': 7}>
+254.0753 	DATA 	Keypress: z
+254.0848 	EXP 	fix: autoDraw = False
+254.0848 	EXP 	stim: autoDraw = False
+254.0848 	EXP 	stim: height = np.float64(0.05)
+254.0848 	EXP 	stim: height = np.float64(0.05)
+254.0848 	EXP 	stim: height = np.float64(0.05)
+254.0848 	EXP 	stim: text = 'bottle'
+254.0848 	EXP 	fix: autoDraw = True
+254.2024 	EXP 	Device response: <KeyPress from None: t=254.05476480000107, value=z, duration=0.1438159999997879>
+254.5856 	INFO 	Keyboard events cleared
+254.5853 	EXP 	fix: autoDraw = False
+254.5853 	EXP 	stim: autoDraw = True
+255.0862 	EXP 	Device response: <KeyPress from None: t=255.0752446000006, value=z, duration=None>
+255.0867 	EXP 	New trial (rep=7, index=13): <Trial 153 (13 in rep 7) data={'stimulus': 'river', 'type': 'word', 'correct_key': 'z', 'thisN': 153, 'thisTrialN': 13, 'thisRepN': 7}>
+255.0926 	DATA 	Keypress: z
+255.1020 	EXP 	fix: autoDraw = False
+255.1020 	EXP 	stim: autoDraw = False
+255.1020 	EXP 	stim: height = np.float64(0.05)
+255.1020 	EXP 	stim: height = np.float64(0.05)
+255.1020 	EXP 	stim: height = np.float64(0.05)
+255.1020 	EXP 	stim: text = 'river'
+255.1020 	EXP 	fix: autoDraw = True
+255.2359 	EXP 	Device response: <KeyPress from None: t=255.0752446000006, value=z, duration=0.1425122000000556>
+255.6024 	INFO 	Keyboard events cleared
+255.6022 	EXP 	fix: autoDraw = False
+255.6022 	EXP 	stim: autoDraw = True
+256.0070 	DATA 	Keypress: z
+256.0186 	EXP 	Device response: <KeyPress from None: t=256.0050183000003, value=z, duration=None>
+256.0189 	EXP 	New trial (rep=7, index=14): <Trial 154 (14 in rep 7) data={'stimulus': 'flirp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 154, 'thisTrialN': 14, 'thisRepN': 7}>
+256.0353 	EXP 	fix: autoDraw = False
+256.0353 	EXP 	stim: autoDraw = False
+256.0353 	EXP 	stim: height = np.float64(0.05)
+256.0353 	EXP 	stim: height = np.float64(0.05)
+256.0353 	EXP 	stim: height = np.float64(0.05)
+256.0353 	EXP 	stim: text = 'flirp'
+256.0353 	EXP 	fix: autoDraw = True
+256.1359 	EXP 	Device response: <KeyPress from None: t=256.0050183000003, value=z, duration=0.11334259999966889>
+256.5190 	INFO 	Keyboard events cleared
+256.5188 	EXP 	stim: autoDraw = True
+256.5350 	EXP 	fix: autoDraw = False
+257.6023 	EXP 	Device response: <KeyPress from None: t=257.5975345000006, value=m, duration=None>
+257.6027 	EXP 	New trial (rep=7, index=15): <Trial 155 (15 in rep 7) data={'stimulus': 'market', 'type': 'word', 'correct_key': 'z', 'thisN': 155, 'thisTrialN': 15, 'thisRepN': 7}>
+257.6073 	DATA 	Keypress: m
+257.6185 	EXP 	fix: autoDraw = False
+257.6185 	EXP 	stim: autoDraw = False
+257.6185 	EXP 	stim: height = np.float64(0.05)
+257.6185 	EXP 	stim: height = np.float64(0.05)
+257.6185 	EXP 	stim: height = np.float64(0.05)
+257.6185 	EXP 	stim: text = 'market'
+257.6185 	EXP 	fix: autoDraw = True
+257.7522 	EXP 	Device response: <KeyPress from None: t=257.5975345000006, value=m, duration=0.13941800000065996>
+258.1017 	INFO 	Keyboard events cleared
+258.1015 	EXP 	stim: autoDraw = True
+258.1181 	EXP 	fix: autoDraw = False
+258.6857 	EXP 	Device response: <KeyPress from None: t=258.67932219999966, value=z, duration=None>
+258.6862 	EXP 	New trial (rep=7, index=16): <Trial 156 (16 in rep 7) data={'stimulus': 'doctor', 'type': 'word', 'correct_key': 'z', 'thisN': 156, 'thisTrialN': 16, 'thisRepN': 7}>
+258.6916 	DATA 	Keypress: z
+258.7019 	EXP 	fix: autoDraw = False
+258.7019 	EXP 	stim: autoDraw = False
+258.7019 	EXP 	stim: height = np.float64(0.05)
+258.7019 	EXP 	stim: height = np.float64(0.05)
+258.7019 	EXP 	stim: height = np.float64(0.05)
+258.7019 	EXP 	stim: text = 'doctor'
+258.7019 	EXP 	fix: autoDraw = True
+258.8350 	EXP 	Device response: <KeyPress from None: t=258.67932219999966, value=z, duration=0.1493402000014612>
+259.1853 	INFO 	Keyboard events cleared
+259.1851 	EXP 	stim: autoDraw = True
+259.2018 	EXP 	fix: autoDraw = False
+259.9353 	EXP 	Device response: <KeyPress from None: t=259.93239859999994, value=z, duration=None>
+259.9358 	EXP 	New trial (rep=7, index=17): <Trial 157 (17 in rep 7) data={'stimulus': 'fradge', 'type': 'nonword', 'correct_key': 'm', 'thisN': 157, 'thisTrialN': 17, 'thisRepN': 7}>
+259.9411 	DATA 	Keypress: z
+259.9515 	EXP 	fix: autoDraw = False
+259.9515 	EXP 	stim: autoDraw = False
+259.9515 	EXP 	stim: height = np.float64(0.05)
+259.9515 	EXP 	stim: height = np.float64(0.05)
+259.9515 	EXP 	stim: height = np.float64(0.05)
+259.9515 	EXP 	stim: text = 'fradge'
+259.9515 	EXP 	fix: autoDraw = True
+260.0859 	EXP 	Device response: <KeyPress from None: t=259.93239859999994, value=z, duration=0.14716500000031374>
+260.4353 	INFO 	Keyboard events cleared
+260.4351 	EXP 	stim: autoDraw = True
+260.4517 	EXP 	fix: autoDraw = False
+261.0521 	EXP 	Device response: <KeyPress from None: t=261.04524330000095, value=m, duration=None>
+261.0525 	EXP 	New trial (rep=7, index=18): <Trial 158 (18 in rep 7) data={'stimulus': 'silver', 'type': 'word', 'correct_key': 'z', 'thisN': 158, 'thisTrialN': 18, 'thisRepN': 7}>
+261.0579 	DATA 	Keypress: m
+261.0681 	EXP 	fix: autoDraw = False
+261.0681 	EXP 	stim: autoDraw = False
+261.0681 	EXP 	stim: height = np.float64(0.05)
+261.0681 	EXP 	stim: height = np.float64(0.05)
+261.0681 	EXP 	stim: height = np.float64(0.05)
+261.0681 	EXP 	stim: text = 'silver'
+261.0681 	EXP 	fix: autoDraw = True
+261.1693 	EXP 	Device response: <KeyPress from None: t=261.04524330000095, value=m, duration=0.11350639999909617>
+261.5519 	INFO 	Keyboard events cleared
+261.5516 	EXP 	stim: autoDraw = True
+261.5684 	EXP 	fix: autoDraw = False
+262.1215 	DATA 	Keypress: z
+262.1354 	EXP 	Device response: <KeyPress from None: t=262.11959580000075, value=z, duration=None>
+262.1358 	EXP 	New trial (rep=7, index=19): <Trial 159 (19 in rep 7) data={'stimulus': 'trallip', 'type': 'nonword', 'correct_key': 'm', 'thisN': 159, 'thisTrialN': 19, 'thisRepN': 7}>
+262.1512 	EXP 	fix: autoDraw = False
+262.1512 	EXP 	stim: autoDraw = False
+262.1512 	EXP 	stim: height = np.float64(0.05)
+262.1512 	EXP 	stim: height = np.float64(0.05)
+262.1512 	EXP 	stim: height = np.float64(0.05)
+262.1512 	EXP 	stim: text = 'trallip'
+262.1512 	EXP 	fix: autoDraw = True
+262.2688 	EXP 	Device response: <KeyPress from None: t=262.11959580000075, value=z, duration=0.13391679999949702>
+262.6353 	INFO 	Keyboard events cleared
+262.6347 	EXP 	stim: autoDraw = True
+262.6517 	EXP 	fix: autoDraw = False
+264.8536 	DATA 	Keypress: m
+264.8691 	EXP 	Device response: <KeyPress from None: t=264.8498264000009, value=m, duration=None>
+264.8696 	EXP 	New trial (rep=8, index=0): <Trial 160 (0 in rep 8) data={'stimulus': 'snarp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 160, 'thisTrialN': 0, 'thisRepN': 8}>
+264.8846 	EXP 	fix: autoDraw = False
+264.8846 	EXP 	stim: autoDraw = False
+264.8846 	EXP 	stim: height = np.float64(0.05)
+264.8846 	EXP 	stim: height = np.float64(0.05)
+264.8846 	EXP 	stim: height = np.float64(0.05)
+264.8846 	EXP 	stim: text = 'snarp'
+264.8846 	EXP 	fix: autoDraw = True
+265.0193 	EXP 	Device response: <KeyPress from None: t=264.8498264000009, value=m, duration=0.15382169999975304>
+265.3849 	INFO 	Keyboard events cleared
+265.3847 	EXP 	fix: autoDraw = False
+265.3847 	EXP 	stim: autoDraw = True
+266.3530 	DATA 	Keypress: z
+266.3688 	EXP 	Device response: <KeyPress from None: t=266.3498881000014, value=z, duration=None>
+266.3692 	EXP 	New trial (rep=8, index=1): <Trial 161 (1 in rep 8) data={'stimulus': 'bottle', 'type': 'word', 'correct_key': 'z', 'thisN': 161, 'thisTrialN': 1, 'thisRepN': 8}>
+266.3845 	EXP 	fix: autoDraw = False
+266.3845 	EXP 	stim: autoDraw = False
+266.3845 	EXP 	stim: height = np.float64(0.05)
+266.3845 	EXP 	stim: height = np.float64(0.05)
+266.3845 	EXP 	stim: height = np.float64(0.05)
+266.3845 	EXP 	stim: text = 'bottle'
+266.3845 	EXP 	fix: autoDraw = True
+266.5347 	EXP 	Device response: <KeyPress from None: t=266.3498881000014, value=z, duration=0.17385189999913564>
+266.8683 	INFO 	Keyboard events cleared
+266.8681 	EXP 	stim: autoDraw = True
+266.8847 	EXP 	fix: autoDraw = False
+267.4353 	EXP 	Device response: <KeyPress from None: t=267.42434590000084, value=z, duration=None>
+267.4358 	EXP 	New trial (rep=8, index=2): <Trial 162 (2 in rep 8) data={'stimulus': 'smode', 'type': 'nonword', 'correct_key': 'm', 'thisN': 162, 'thisTrialN': 2, 'thisRepN': 8}>
+267.4406 	DATA 	Keypress: z
+267.4513 	EXP 	fix: autoDraw = False
+267.4513 	EXP 	stim: autoDraw = False
+267.4513 	EXP 	stim: height = np.float64(0.05)
+267.4513 	EXP 	stim: height = np.float64(0.05)
+267.4513 	EXP 	stim: height = np.float64(0.05)
+267.4513 	EXP 	stim: text = 'smode'
+267.4513 	EXP 	fix: autoDraw = True
+267.5846 	EXP 	Device response: <KeyPress from None: t=267.42434590000084, value=z, duration=0.14267710000058287>
+267.9519 	INFO 	Keyboard events cleared
+267.9516 	EXP 	fix: autoDraw = False
+267.9516 	EXP 	stim: autoDraw = True
+268.5524 	EXP 	Device response: <KeyPress from None: t=268.5422389000014, value=m, duration=None>
+268.5531 	EXP 	New trial (rep=8, index=3): <Trial 163 (3 in rep 8) data={'stimulus': 'trallip', 'type': 'nonword', 'correct_key': 'm', 'thisN': 163, 'thisTrialN': 3, 'thisRepN': 8}>
+268.5589 	DATA 	Keypress: m
+268.5682 	EXP 	fix: autoDraw = False
+268.5682 	EXP 	stim: autoDraw = False
+268.5682 	EXP 	stim: height = np.float64(0.05)
+268.5682 	EXP 	stim: height = np.float64(0.05)
+268.5682 	EXP 	stim: height = np.float64(0.05)
+268.5682 	EXP 	stim: text = 'trallip'
+268.5682 	EXP 	fix: autoDraw = True
+268.6852 	EXP 	Device response: <KeyPress from None: t=268.5422389000014, value=m, duration=0.13442939999913506>
+269.0680 	INFO 	Keyboard events cleared
+269.0678 	EXP 	fix: autoDraw = False
+269.0678 	EXP 	stim: autoDraw = True
+269.6343 	EXP 	Device response: <KeyPress from None: t=269.6325925000001, value=m, duration=None>
+269.6346 	EXP 	New trial (rep=8, index=4): <Trial 164 (4 in rep 8) data={'stimulus': 'market', 'type': 'word', 'correct_key': 'z', 'thisN': 164, 'thisTrialN': 4, 'thisRepN': 8}>
+269.6403 	DATA 	Keypress: m
+269.6510 	EXP 	fix: autoDraw = False
+269.6510 	EXP 	stim: autoDraw = False
+269.6510 	EXP 	stim: height = np.float64(0.05)
+269.6510 	EXP 	stim: height = np.float64(0.05)
+269.6510 	EXP 	stim: height = np.float64(0.05)
+269.6510 	EXP 	stim: text = 'market'
+269.6510 	EXP 	fix: autoDraw = True
+269.7684 	EXP 	Device response: <KeyPress from None: t=269.6325925000001, value=m, duration=0.1330216999995173>
+270.1340 	INFO 	Keyboard events cleared
+270.1339 	EXP 	stim: autoDraw = True
+270.1507 	EXP 	fix: autoDraw = False
+270.6679 	EXP 	Device response: <KeyPress from None: t=270.6639931999998, value=z, duration=None>
+270.6682 	EXP 	New trial (rep=8, index=5): <Trial 165 (5 in rep 8) data={'stimulus': 'doctor', 'type': 'word', 'correct_key': 'z', 'thisN': 165, 'thisTrialN': 5, 'thisRepN': 8}>
+270.6736 	DATA 	Keypress: z
+270.6841 	EXP 	fix: autoDraw = False
+270.6841 	EXP 	stim: autoDraw = False
+270.6841 	EXP 	stim: height = np.float64(0.05)
+270.6841 	EXP 	stim: height = np.float64(0.05)
+270.6841 	EXP 	stim: height = np.float64(0.05)
+270.6841 	EXP 	stim: text = 'doctor'
+270.6841 	EXP 	fix: autoDraw = True
+270.8180 	EXP 	Device response: <KeyPress from None: t=270.6639931999998, value=z, duration=0.14710910000030708>
+271.1677 	INFO 	Keyboard events cleared
+271.1675 	EXP 	stim: autoDraw = True
+271.1839 	EXP 	fix: autoDraw = False
+271.6341 	EXP 	Device response: <KeyPress from None: t=271.62683970000035, value=z, duration=None>
+271.6344 	EXP 	New trial (rep=8, index=6): <Trial 166 (6 in rep 8) data={'stimulus': 'brantle', 'type': 'nonword', 'correct_key': 'm', 'thisN': 166, 'thisTrialN': 6, 'thisRepN': 8}>
+271.6385 	DATA 	Keypress: z
+271.6506 	EXP 	fix: autoDraw = False
+271.6506 	EXP 	stim: autoDraw = False
+271.6506 	EXP 	stim: height = np.float64(0.05)
+271.6506 	EXP 	stim: height = np.float64(0.05)
+271.6506 	EXP 	stim: height = np.float64(0.05)
+271.6506 	EXP 	stim: text = 'brantle'
+271.6506 	EXP 	fix: autoDraw = True
+271.7679 	EXP 	Device response: <KeyPress from None: t=271.62683970000035, value=z, duration=0.12680659999932686>
+272.1340 	INFO 	Keyboard events cleared
+272.1338 	EXP 	stim: autoDraw = True
+272.1508 	EXP 	fix: autoDraw = False
+273.3851 	DATA 	Keypress: m
+273.4009 	EXP 	Device response: <KeyPress from None: t=273.383132500001, value=m, duration=None>
+273.4011 	EXP 	New trial (rep=8, index=7): <Trial 167 (7 in rep 8) data={'stimulus': 'garden', 'type': 'word', 'correct_key': 'z', 'thisN': 167, 'thisTrialN': 7, 'thisRepN': 8}>
+273.4172 	EXP 	fix: autoDraw = False
+273.4172 	EXP 	stim: autoDraw = False
+273.4172 	EXP 	stim: height = np.float64(0.05)
+273.4172 	EXP 	stim: height = np.float64(0.05)
+273.4172 	EXP 	stim: height = np.float64(0.05)
+273.4172 	EXP 	stim: text = 'garden'
+273.4172 	EXP 	fix: autoDraw = True
+273.5839 	EXP 	Device response: <KeyPress from None: t=273.383132500001, value=m, duration=0.18612949999987904>
+273.9011 	INFO 	Keyboard events cleared
+273.9009 	EXP 	stim: autoDraw = True
+273.9172 	EXP 	fix: autoDraw = False
+275.2683 	EXP 	Device response: <KeyPress from None: t=275.25938470000074, value=z, duration=None>
+275.2688 	EXP 	New trial (rep=8, index=8): <Trial 168 (8 in rep 8) data={'stimulus': 'river', 'type': 'word', 'correct_key': 'z', 'thisN': 168, 'thisTrialN': 8, 'thisRepN': 8}>
+275.2742 	DATA 	Keypress: z
+275.2842 	EXP 	fix: autoDraw = False
+275.2842 	EXP 	stim: autoDraw = False
+275.2842 	EXP 	stim: height = np.float64(0.05)
+275.2842 	EXP 	stim: height = np.float64(0.05)
+275.2842 	EXP 	stim: height = np.float64(0.05)
+275.2842 	EXP 	stim: text = 'river'
+275.2842 	EXP 	fix: autoDraw = True
+275.4351 	EXP 	Device response: <KeyPress from None: t=275.25938470000074, value=z, duration=0.16162570000051346>
+275.7839 	INFO 	Keyboard events cleared
+275.7837 	EXP 	fix: autoDraw = False
+275.7837 	EXP 	stim: autoDraw = True
+276.3017 	EXP 	Device response: <KeyPress from None: t=276.2873911000006, value=z, duration=None>
+276.3021 	EXP 	New trial (rep=8, index=9): <Trial 169 (9 in rep 8) data={'stimulus': 'clope', 'type': 'nonword', 'correct_key': 'm', 'thisN': 169, 'thisTrialN': 9, 'thisRepN': 8}>
+276.3071 	DATA 	Keypress: z
+276.3175 	EXP 	fix: autoDraw = False
+276.3175 	EXP 	stim: autoDraw = False
+276.3175 	EXP 	stim: height = np.float64(0.05)
+276.3175 	EXP 	stim: height = np.float64(0.05)
+276.3175 	EXP 	stim: height = np.float64(0.05)
+276.3175 	EXP 	stim: text = 'clope'
+276.3175 	EXP 	fix: autoDraw = True
+276.4518 	EXP 	Device response: <KeyPress from None: t=276.2873911000006, value=z, duration=0.1561720999998215>
+276.8180 	INFO 	Keyboard events cleared
+276.8177 	EXP 	fix: autoDraw = False
+276.8177 	EXP 	stim: autoDraw = True
+277.2348 	EXP 	Device response: <KeyPress from None: t=277.22484280000026, value=z, duration=None>
+277.2351 	EXP 	New trial (rep=8, index=10): <Trial 170 (10 in rep 8) data={'stimulus': 'flirp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 170, 'thisTrialN': 10, 'thisRepN': 8}>
+277.2404 	DATA 	Keypress: z
+277.2507 	EXP 	fix: autoDraw = False
+277.2507 	EXP 	stim: autoDraw = False
+277.2507 	EXP 	stim: height = np.float64(0.05)
+277.2507 	EXP 	stim: height = np.float64(0.05)
+277.2507 	EXP 	stim: height = np.float64(0.05)
+277.2507 	EXP 	stim: text = 'flirp'
+277.2507 	EXP 	fix: autoDraw = True
+277.3847 	EXP 	Device response: <KeyPress from None: t=277.22484280000026, value=z, duration=0.14323119999971823>
+277.7509 	INFO 	Keyboard events cleared
+277.7507 	EXP 	fix: autoDraw = False
+277.7507 	EXP 	stim: autoDraw = True
+278.5672 	EXP 	Device response: <KeyPress from None: t=278.55463880000025, value=m, duration=None>
+278.5676 	EXP 	New trial (rep=8, index=11): <Trial 171 (11 in rep 8) data={'stimulus': 'yellow', 'type': 'word', 'correct_key': 'z', 'thisN': 171, 'thisTrialN': 11, 'thisRepN': 8}>
+278.5727 	DATA 	Keypress: m
+278.5839 	EXP 	fix: autoDraw = False
+278.5839 	EXP 	stim: autoDraw = False
+278.5839 	EXP 	stim: height = np.float64(0.05)
+278.5839 	EXP 	stim: height = np.float64(0.05)
+278.5839 	EXP 	stim: height = np.float64(0.05)
+278.5839 	EXP 	stim: text = 'yellow'
+278.5839 	EXP 	fix: autoDraw = True
+278.7349 	EXP 	Device response: <KeyPress from None: t=278.55463880000025, value=m, duration=0.1749149999996007>
+279.0675 	INFO 	Keyboard events cleared
+279.0673 	EXP 	stim: autoDraw = True
+279.0837 	EXP 	fix: autoDraw = False
+279.9210 	DATA 	Keypress: z
+279.9344 	EXP 	Device response: <KeyPress from None: t=279.91896260000067, value=z, duration=None>
+279.9349 	EXP 	New trial (rep=8, index=12): <Trial 172 (12 in rep 8) data={'stimulus': 'silver', 'type': 'word', 'correct_key': 'z', 'thisN': 172, 'thisTrialN': 12, 'thisRepN': 8}>
+279.9508 	EXP 	fix: autoDraw = False
+279.9508 	EXP 	stim: autoDraw = False
+279.9508 	EXP 	stim: height = np.float64(0.05)
+279.9508 	EXP 	stim: height = np.float64(0.05)
+279.9508 	EXP 	stim: height = np.float64(0.05)
+279.9508 	EXP 	stim: text = 'silver'
+279.9508 	EXP 	fix: autoDraw = True
+280.0847 	EXP 	Device response: <KeyPress from None: t=279.91896260000067, value=z, duration=0.15330270000049495>
+280.4342 	INFO 	Keyboard events cleared
+280.4339 	EXP 	stim: autoDraw = True
+280.4508 	EXP 	fix: autoDraw = False
+281.4010 	EXP 	Device response: <KeyPress from None: t=281.3981380000005, value=z, duration=None>
+281.4014 	EXP 	New trial (rep=8, index=13): <Trial 173 (13 in rep 8) data={'stimulus': 'pillow', 'type': 'word', 'correct_key': 'z', 'thisN': 173, 'thisTrialN': 13, 'thisRepN': 8}>
+281.4079 	DATA 	Keypress: z
+281.4169 	EXP 	fix: autoDraw = False
+281.4169 	EXP 	stim: autoDraw = False
+281.4169 	EXP 	stim: height = np.float64(0.05)
+281.4169 	EXP 	stim: height = np.float64(0.05)
+281.4169 	EXP 	stim: height = np.float64(0.05)
+281.4169 	EXP 	stim: text = 'pillow'
+281.4169 	EXP 	fix: autoDraw = True
+281.5510 	EXP 	Device response: <KeyPress from None: t=281.3981380000005, value=z, duration=0.15123710000079882>
+281.9173 	INFO 	Keyboard events cleared
+281.9171 	EXP 	fix: autoDraw = False
+281.9171 	EXP 	stim: autoDraw = True
+282.5508 	EXP 	Device response: <KeyPress from None: t=282.54432559999987, value=z, duration=None>
+282.5512 	EXP 	New trial (rep=8, index=14): <Trial 174 (14 in rep 8) data={'stimulus': 'glenter', 'type': 'nonword', 'correct_key': 'm', 'thisN': 174, 'thisTrialN': 14, 'thisRepN': 8}>
+282.5557 	DATA 	Keypress: z
+282.5671 	EXP 	fix: autoDraw = False
+282.5671 	EXP 	stim: autoDraw = False
+282.5671 	EXP 	stim: height = np.float64(0.05)
+282.5671 	EXP 	stim: height = np.float64(0.05)
+282.5671 	EXP 	stim: height = np.float64(0.05)
+282.5671 	EXP 	stim: text = 'glenter'
+282.5671 	EXP 	fix: autoDraw = True
+282.6849 	EXP 	Device response: <KeyPress from None: t=282.54432559999987, value=z, duration=0.13082279999980528>
+283.0509 	INFO 	Keyboard events cleared
+283.0507 	EXP 	stim: autoDraw = True
+283.0670 	EXP 	fix: autoDraw = False
+283.9180 	EXP 	Device response: <KeyPress from None: t=283.9074392000002, value=m, duration=None>
+283.9185 	EXP 	New trial (rep=8, index=15): <Trial 175 (15 in rep 8) data={'stimulus': 'drent', 'type': 'nonword', 'correct_key': 'm', 'thisN': 175, 'thisTrialN': 15, 'thisRepN': 8}>
+283.9243 	DATA 	Keypress: m
+283.9334 	EXP 	fix: autoDraw = False
+283.9334 	EXP 	stim: autoDraw = False
+283.9334 	EXP 	stim: height = np.float64(0.05)
+283.9334 	EXP 	stim: height = np.float64(0.05)
+283.9334 	EXP 	stim: height = np.float64(0.05)
+283.9334 	EXP 	stim: text = 'drent'
+283.9334 	EXP 	fix: autoDraw = True
+284.0515 	EXP 	Device response: <KeyPress from None: t=283.9074392000002, value=m, duration=0.13384450000012293>
+284.4338 	INFO 	Keyboard events cleared
+284.4336 	EXP 	fix: autoDraw = False
+284.4336 	EXP 	stim: autoDraw = True
+285.1509 	EXP 	Device response: <KeyPress from None: t=285.14034230000107, value=m, duration=None>
+285.1514 	EXP 	New trial (rep=8, index=16): <Trial 176 (16 in rep 8) data={'stimulus': 'plome', 'type': 'nonword', 'correct_key': 'm', 'thisN': 176, 'thisTrialN': 16, 'thisRepN': 8}>
+285.1574 	DATA 	Keypress: m
+285.1669 	EXP 	fix: autoDraw = False
+285.1669 	EXP 	stim: autoDraw = False
+285.1669 	EXP 	stim: height = np.float64(0.05)
+285.1669 	EXP 	stim: height = np.float64(0.05)
+285.1669 	EXP 	stim: height = np.float64(0.05)
+285.1669 	EXP 	stim: text = 'plome'
+285.1669 	EXP 	fix: autoDraw = True
+285.2842 	EXP 	Device response: <KeyPress from None: t=285.14034230000107, value=m, duration=0.13024620000032883>
+285.6674 	INFO 	Keyboard events cleared
+285.6671 	EXP 	fix: autoDraw = False
+285.6671 	EXP 	stim: autoDraw = True
+286.2007 	EXP 	Device response: <KeyPress from None: t=286.1986938000009, value=m, duration=None>
+286.2010 	EXP 	New trial (rep=8, index=17): <Trial 177 (17 in rep 8) data={'stimulus': 'apple', 'type': 'word', 'correct_key': 'z', 'thisN': 177, 'thisTrialN': 17, 'thisRepN': 8}>
+286.2065 	DATA 	Keypress: m
+286.2166 	EXP 	fix: autoDraw = False
+286.2166 	EXP 	stim: autoDraw = False
+286.2166 	EXP 	stim: height = np.float64(0.05)
+286.2166 	EXP 	stim: height = np.float64(0.05)
+286.2166 	EXP 	stim: height = np.float64(0.05)
+286.2166 	EXP 	stim: text = 'apple'
+286.2166 	EXP 	fix: autoDraw = True
+286.3509 	EXP 	Device response: <KeyPress from None: t=286.1986938000009, value=m, duration=0.14396769999984826>
+286.7004 	INFO 	Keyboard events cleared
+286.7002 	EXP 	stim: autoDraw = True
+286.7171 	EXP 	fix: autoDraw = False
+287.3343 	EXP 	Device response: <KeyPress from None: t=287.3297519000007, value=z, duration=None>
+287.3347 	EXP 	New trial (rep=8, index=18): <Trial 178 (18 in rep 8) data={'stimulus': 'window', 'type': 'word', 'correct_key': 'z', 'thisN': 178, 'thisTrialN': 18, 'thisRepN': 8}>
+287.3395 	DATA 	Keypress: z
+287.3501 	EXP 	fix: autoDraw = False
+287.3501 	EXP 	stim: autoDraw = False
+287.3501 	EXP 	stim: height = np.float64(0.05)
+287.3501 	EXP 	stim: height = np.float64(0.05)
+287.3501 	EXP 	stim: height = np.float64(0.05)
+287.3501 	EXP 	stim: text = 'window'
+287.3501 	EXP 	fix: autoDraw = True
+287.5009 	EXP 	Device response: <KeyPress from None: t=287.3297519000007, value=z, duration=0.15320269999938319>
+287.8503 	INFO 	Keyboard events cleared
+287.8501 	EXP 	fix: autoDraw = False
+287.8501 	EXP 	stim: autoDraw = True
+288.4843 	EXP 	Device response: <KeyPress from None: t=288.4714666, value=z, duration=None>
+288.4848 	EXP 	New trial (rep=8, index=19): <Trial 179 (19 in rep 8) data={'stimulus': 'fradge', 'type': 'nonword', 'correct_key': 'm', 'thisN': 179, 'thisTrialN': 19, 'thisRepN': 8}>
+288.4908 	DATA 	Keypress: z
+288.5002 	EXP 	fix: autoDraw = False
+288.5002 	EXP 	stim: autoDraw = False
+288.5002 	EXP 	stim: height = np.float64(0.05)
+288.5002 	EXP 	stim: height = np.float64(0.05)
+288.5002 	EXP 	stim: height = np.float64(0.05)
+288.5002 	EXP 	stim: text = 'fradge'
+288.5002 	EXP 	fix: autoDraw = True
+288.6342 	EXP 	Device response: <KeyPress from None: t=288.4714666, value=z, duration=0.1522623000000749>
+288.9838 	INFO 	Keyboard events cleared
+288.9835 	EXP 	stim: autoDraw = True
+289.0005 	EXP 	fix: autoDraw = False
+290.5672 	EXP 	Device response: <KeyPress from None: t=290.56264460000057, value=m, duration=None>
+290.5676 	EXP 	New trial (rep=9, index=0): <Trial 180 (0 in rep 9) data={'stimulus': 'market', 'type': 'word', 'correct_key': 'z', 'thisN': 180, 'thisTrialN': 0, 'thisRepN': 9}>
+290.5719 	DATA 	Keypress: m
+290.5835 	EXP 	fix: autoDraw = False
+290.5835 	EXP 	stim: autoDraw = False
+290.5835 	EXP 	stim: height = np.float64(0.05)
+290.5835 	EXP 	stim: height = np.float64(0.05)
+290.5835 	EXP 	stim: height = np.float64(0.05)
+290.5835 	EXP 	stim: text = 'market'
+290.5835 	EXP 	fix: autoDraw = True
+290.7337 	EXP 	Device response: <KeyPress from None: t=290.56264460000057, value=m, duration=0.15961659999993572>
+291.0672 	INFO 	Keyboard events cleared
+291.0670 	EXP 	stim: autoDraw = True
+291.0834 	EXP 	fix: autoDraw = False
+291.6505 	EXP 	Device response: <KeyPress from None: t=291.6365944999998, value=z, duration=None>
+291.6508 	EXP 	New trial (rep=9, index=1): <Trial 181 (1 in rep 9) data={'stimulus': 'apple', 'type': 'word', 'correct_key': 'z', 'thisN': 181, 'thisTrialN': 1, 'thisRepN': 9}>
+291.6555 	DATA 	Keypress: z
+291.6670 	EXP 	fix: autoDraw = False
+291.6670 	EXP 	stim: autoDraw = False
+291.6670 	EXP 	stim: height = np.float64(0.05)
+291.6670 	EXP 	stim: height = np.float64(0.05)
+291.6670 	EXP 	stim: height = np.float64(0.05)
+291.6670 	EXP 	stim: text = 'apple'
+291.6670 	EXP 	fix: autoDraw = True
+291.8175 	EXP 	Device response: <KeyPress from None: t=291.6365944999998, value=z, duration=0.17571250000037253>
+292.1671 	INFO 	Keyboard events cleared
+292.1668 	EXP 	fix: autoDraw = False
+292.1668 	EXP 	stim: autoDraw = True
+292.6710 	DATA 	Keypress: z
+292.6844 	EXP 	Device response: <KeyPress from None: t=292.66910720000124, value=z, duration=None>
+292.6848 	EXP 	New trial (rep=9, index=2): <Trial 182 (2 in rep 9) data={'stimulus': 'trallip', 'type': 'nonword', 'correct_key': 'm', 'thisN': 182, 'thisTrialN': 2, 'thisRepN': 9}>
+292.7001 	EXP 	fix: autoDraw = False
+292.7001 	EXP 	stim: autoDraw = False
+292.7001 	EXP 	stim: height = np.float64(0.05)
+292.7001 	EXP 	stim: height = np.float64(0.05)
+292.7001 	EXP 	stim: height = np.float64(0.05)
+292.7001 	EXP 	stim: text = 'trallip'
+292.7001 	EXP 	fix: autoDraw = True
+292.8334 	EXP 	Device response: <KeyPress from None: t=292.66910720000124, value=z, duration=0.14683679999870947>
+293.2005 	INFO 	Keyboard events cleared
+293.2003 	EXP 	fix: autoDraw = False
+293.2003 	EXP 	stim: autoDraw = True
+294.5007 	EXP 	Device response: <KeyPress from None: t=294.4988559000012, value=m, duration=None>
+294.5012 	EXP 	New trial (rep=9, index=3): <Trial 183 (3 in rep 9) data={'stimulus': 'river', 'type': 'word', 'correct_key': 'z', 'thisN': 183, 'thisTrialN': 3, 'thisRepN': 9}>
+294.5064 	DATA 	Keypress: m
+294.5167 	EXP 	fix: autoDraw = False
+294.5167 	EXP 	stim: autoDraw = False
+294.5167 	EXP 	stim: height = np.float64(0.05)
+294.5167 	EXP 	stim: height = np.float64(0.05)
+294.5167 	EXP 	stim: height = np.float64(0.05)
+294.5167 	EXP 	stim: text = 'river'
+294.5167 	EXP 	fix: autoDraw = True
+294.6838 	EXP 	Device response: <KeyPress from None: t=294.4988559000012, value=m, duration=0.18346380000002682>
+295.0170 	INFO 	Keyboard events cleared
+295.0167 	EXP 	fix: autoDraw = False
+295.0167 	EXP 	stim: autoDraw = True
+296.1505 	EXP 	Device response: <KeyPress from None: t=296.1439010000013, value=z, duration=None>
+296.1509 	EXP 	New trial (rep=9, index=4): <Trial 184 (4 in rep 9) data={'stimulus': 'drent', 'type': 'nonword', 'correct_key': 'm', 'thisN': 184, 'thisTrialN': 4, 'thisRepN': 9}>
+296.1562 	DATA 	Keypress: z
+296.1666 	EXP 	fix: autoDraw = False
+296.1666 	EXP 	stim: autoDraw = False
+296.1666 	EXP 	stim: height = np.float64(0.05)
+296.1666 	EXP 	stim: height = np.float64(0.05)
+296.1666 	EXP 	stim: height = np.float64(0.05)
+296.1666 	EXP 	stim: text = 'drent'
+296.1666 	EXP 	fix: autoDraw = True
+296.3178 	EXP 	Device response: <KeyPress from None: t=296.1439010000013, value=z, duration=0.1549340999990818>
+296.6665 	INFO 	Keyboard events cleared
+296.6663 	EXP 	fix: autoDraw = False
+296.6663 	EXP 	stim: autoDraw = True
+298.0667 	EXP 	Device response: <KeyPress from None: t=298.05248120000033, value=m, duration=None>
+298.0671 	EXP 	New trial (rep=9, index=5): <Trial 185 (5 in rep 9) data={'stimulus': 'plome', 'type': 'nonword', 'correct_key': 'm', 'thisN': 185, 'thisTrialN': 5, 'thisRepN': 9}>
+298.0730 	DATA 	Keypress: m
+298.0831 	EXP 	fix: autoDraw = False
+298.0831 	EXP 	stim: autoDraw = False
+298.0831 	EXP 	stim: height = np.float64(0.05)
+298.0831 	EXP 	stim: height = np.float64(0.05)
+298.0831 	EXP 	stim: height = np.float64(0.05)
+298.0831 	EXP 	stim: text = 'plome'
+298.0831 	EXP 	fix: autoDraw = True
+298.2508 	EXP 	Device response: <KeyPress from None: t=298.05248120000033, value=m, duration=0.18708189999961178>
+298.5670 	INFO 	Keyboard events cleared
+298.5668 	EXP 	stim: autoDraw = True
+298.5826 	EXP 	fix: autoDraw = False
+300.5673 	EXP 	Device response: <KeyPress from None: t=300.5531738000009, value=m, duration=None>
+300.5678 	EXP 	New trial (rep=9, index=6): <Trial 186 (6 in rep 9) data={'stimulus': 'bottle', 'type': 'word', 'correct_key': 'z', 'thisN': 186, 'thisTrialN': 6, 'thisRepN': 9}>
+300.5733 	DATA 	Keypress: m
+300.5827 	EXP 	fix: autoDraw = False
+300.5827 	EXP 	stim: autoDraw = False
+300.5827 	EXP 	stim: height = np.float64(0.05)
+300.5827 	EXP 	stim: height = np.float64(0.05)
+300.5827 	EXP 	stim: height = np.float64(0.05)
+300.5827 	EXP 	stim: text = 'bottle'
+300.5827 	EXP 	fix: autoDraw = True
+300.7339 	EXP 	Device response: <KeyPress from None: t=300.5531738000009, value=m, duration=0.1683541000002151>
+301.0831 	INFO 	Keyboard events cleared
+301.0829 	EXP 	fix: autoDraw = False
+301.0829 	EXP 	stim: autoDraw = True
+301.6857 	DATA 	Keypress: z
+301.7003 	EXP 	Device response: <KeyPress from None: t=301.68295560000115, value=z, duration=None>
+301.7007 	EXP 	New trial (rep=9, index=7): <Trial 187 (7 in rep 9) data={'stimulus': 'snarp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 187, 'thisTrialN': 7, 'thisRepN': 9}>
+301.7163 	EXP 	fix: autoDraw = False
+301.7163 	EXP 	stim: autoDraw = False
+301.7163 	EXP 	stim: height = np.float64(0.05)
+301.7163 	EXP 	stim: height = np.float64(0.05)
+301.7163 	EXP 	stim: height = np.float64(0.05)
+301.7163 	EXP 	stim: text = 'snarp'
+301.7163 	EXP 	fix: autoDraw = True
+301.8337 	EXP 	Device response: <KeyPress from None: t=301.68295560000115, value=z, duration=0.14164139999957115>
+302.2161 	INFO 	Keyboard events cleared
+302.2160 	EXP 	fix: autoDraw = False
+302.2160 	EXP 	stim: autoDraw = True
+304.1330 	EXP 	Device response: <KeyPress from None: t=304.1278646999999, value=m, duration=None>
+304.1334 	EXP 	New trial (rep=9, index=8): <Trial 188 (8 in rep 9) data={'stimulus': 'fradge', 'type': 'nonword', 'correct_key': 'm', 'thisN': 188, 'thisTrialN': 8, 'thisRepN': 9}>
+304.1390 	DATA 	Keypress: m
+304.1493 	EXP 	fix: autoDraw = False
+304.1493 	EXP 	stim: autoDraw = False
+304.1493 	EXP 	stim: height = np.float64(0.05)
+304.1493 	EXP 	stim: height = np.float64(0.05)
+304.1493 	EXP 	stim: height = np.float64(0.05)
+304.1493 	EXP 	stim: text = 'fradge'
+304.1493 	EXP 	fix: autoDraw = True
+304.3170 	EXP 	Device response: <KeyPress from None: t=304.1278646999999, value=m, duration=0.1798402000003989>
+304.6327 	INFO 	Keyboard events cleared
+304.6325 	EXP 	stim: autoDraw = True
+304.6496 	EXP 	fix: autoDraw = False
+307.4003 	EXP 	Device response: <KeyPress from None: t=307.3892590000014, value=m, duration=None>
+307.4007 	EXP 	New trial (rep=9, index=9): <Trial 189 (9 in rep 9) data={'stimulus': 'smode', 'type': 'nonword', 'correct_key': 'm', 'thisN': 189, 'thisTrialN': 9, 'thisRepN': 9}>
+307.4058 	DATA 	Keypress: m
+307.4159 	EXP 	fix: autoDraw = False
+307.4159 	EXP 	stim: autoDraw = False
+307.4159 	EXP 	stim: height = np.float64(0.05)
+307.4159 	EXP 	stim: height = np.float64(0.05)
+307.4159 	EXP 	stim: height = np.float64(0.05)
+307.4159 	EXP 	stim: text = 'smode'
+307.4159 	EXP 	fix: autoDraw = True
+307.5501 	EXP 	Device response: <KeyPress from None: t=307.3892590000014, value=m, duration=0.15091389999906824>
+307.9159 	INFO 	Keyboard events cleared
+307.9157 	EXP 	fix: autoDraw = False
+307.9157 	EXP 	stim: autoDraw = True
+309.2000 	EXP 	Device response: <KeyPress from None: t=309.18642139999974, value=m, duration=None>
+309.2005 	EXP 	New trial (rep=9, index=10): <Trial 190 (10 in rep 9) data={'stimulus': 'clope', 'type': 'nonword', 'correct_key': 'm', 'thisN': 190, 'thisTrialN': 10, 'thisRepN': 9}>
+309.2062 	DATA 	Keypress: m
+309.2163 	EXP 	fix: autoDraw = False
+309.2163 	EXP 	stim: autoDraw = False
+309.2163 	EXP 	stim: height = np.float64(0.05)
+309.2163 	EXP 	stim: height = np.float64(0.05)
+309.2163 	EXP 	stim: height = np.float64(0.05)
+309.2163 	EXP 	stim: text = 'clope'
+309.2163 	EXP 	fix: autoDraw = True
+309.3837 	EXP 	Device response: <KeyPress from None: t=309.18642139999974, value=m, duration=0.18120510000153445>
+309.7162 	INFO 	Keyboard events cleared
+309.7159 	EXP 	fix: autoDraw = False
+309.7159 	EXP 	stim: autoDraw = True
+311.8035 	DATA 	Keypress: m
+311.8158 	EXP 	Device response: <KeyPress from None: t=311.8014860000003, value=m, duration=None>
+311.8162 	EXP 	New trial (rep=9, index=11): <Trial 191 (11 in rep 9) data={'stimulus': 'yellow', 'type': 'word', 'correct_key': 'z', 'thisN': 191, 'thisTrialN': 11, 'thisRepN': 9}>
+311.8318 	EXP 	fix: autoDraw = False
+311.8318 	EXP 	stim: autoDraw = False
+311.8318 	EXP 	stim: height = np.float64(0.05)
+311.8318 	EXP 	stim: height = np.float64(0.05)
+311.8318 	EXP 	stim: height = np.float64(0.05)
+311.8318 	EXP 	stim: text = 'yellow'
+311.8318 	EXP 	fix: autoDraw = True
+312.0001 	EXP 	Device response: <KeyPress from None: t=311.8014860000003, value=m, duration=0.18476949999967474>
+312.3158 	INFO 	Keyboard events cleared
+312.3156 	EXP 	stim: autoDraw = True
+312.3325 	EXP 	fix: autoDraw = False
+312.8332 	EXP 	Device response: <KeyPress from None: t=312.8245590000006, value=z, duration=None>
+312.8337 	EXP 	New trial (rep=9, index=12): <Trial 192 (12 in rep 9) data={'stimulus': 'window', 'type': 'word', 'correct_key': 'z', 'thisN': 192, 'thisTrialN': 12, 'thisRepN': 9}>
+312.8390 	DATA 	Keypress: z
+312.8491 	EXP 	fix: autoDraw = False
+312.8491 	EXP 	stim: autoDraw = False
+312.8491 	EXP 	stim: height = np.float64(0.05)
+312.8491 	EXP 	stim: height = np.float64(0.05)
+312.8491 	EXP 	stim: height = np.float64(0.05)
+312.8491 	EXP 	stim: text = 'window'
+312.8491 	EXP 	fix: autoDraw = True
+313.0170 	EXP 	Device response: <KeyPress from None: t=312.8245590000006, value=z, duration=0.17366880000008678>
+313.3328 	INFO 	Keyboard events cleared
+313.3324 	EXP 	stim: autoDraw = True
+313.3491 	EXP 	fix: autoDraw = False
+313.9342 	DATA 	Keypress: z
+313.9498 	EXP 	Device response: <KeyPress from None: t=313.93131710000125, value=z, duration=None>
+313.9504 	EXP 	New trial (rep=9, index=13): <Trial 193 (13 in rep 9) data={'stimulus': 'brantle', 'type': 'nonword', 'correct_key': 'm', 'thisN': 193, 'thisTrialN': 13, 'thisRepN': 9}>
+313.9659 	EXP 	fix: autoDraw = False
+313.9659 	EXP 	stim: autoDraw = False
+313.9659 	EXP 	stim: height = np.float64(0.05)
+313.9659 	EXP 	stim: height = np.float64(0.05)
+313.9659 	EXP 	stim: height = np.float64(0.05)
+313.9659 	EXP 	stim: text = 'brantle'
+313.9659 	EXP 	fix: autoDraw = True
+314.1159 	EXP 	Device response: <KeyPress from None: t=313.93131710000125, value=z, duration=0.16672899999866786>
+314.4658 	INFO 	Keyboard events cleared
+314.4656 	EXP 	fix: autoDraw = False
+314.4656 	EXP 	stim: autoDraw = True
+316.2824 	EXP 	Device response: <KeyPress from None: t=316.2787285000013, value=m, duration=None>
+316.2828 	EXP 	New trial (rep=9, index=14): <Trial 194 (14 in rep 9) data={'stimulus': 'glenter', 'type': 'nonword', 'correct_key': 'm', 'thisN': 194, 'thisTrialN': 14, 'thisRepN': 9}>
+316.2885 	DATA 	Keypress: m
+316.2987 	EXP 	fix: autoDraw = False
+316.2987 	EXP 	stim: autoDraw = False
+316.2987 	EXP 	stim: height = np.float64(0.05)
+316.2987 	EXP 	stim: height = np.float64(0.05)
+316.2987 	EXP 	stim: height = np.float64(0.05)
+316.2987 	EXP 	stim: text = 'glenter'
+316.2987 	EXP 	fix: autoDraw = True
+316.4493 	EXP 	Device response: <KeyPress from None: t=316.2787285000013, value=m, duration=0.1530349999993632>
+316.7824 	INFO 	Keyboard events cleared
+316.7822 	EXP 	stim: autoDraw = True
+316.7991 	EXP 	fix: autoDraw = False
+318.3163 	EXP 	Device response: <KeyPress from None: t=318.3089712000001, value=m, duration=None>
+318.3167 	EXP 	New trial (rep=9, index=15): <Trial 195 (15 in rep 9) data={'stimulus': 'doctor', 'type': 'word', 'correct_key': 'z', 'thisN': 195, 'thisTrialN': 15, 'thisRepN': 9}>
+318.3214 	DATA 	Keypress: m
+318.3318 	EXP 	fix: autoDraw = False
+318.3318 	EXP 	stim: autoDraw = False
+318.3318 	EXP 	stim: height = np.float64(0.05)
+318.3318 	EXP 	stim: height = np.float64(0.05)
+318.3318 	EXP 	stim: height = np.float64(0.05)
+318.3318 	EXP 	stim: text = 'doctor'
+318.3318 	EXP 	fix: autoDraw = True
+318.4989 	EXP 	Device response: <KeyPress from None: t=318.3089712000001, value=m, duration=0.18548790000022564>
+318.8325 	INFO 	Keyboard events cleared
+318.8322 	EXP 	fix: autoDraw = False
+318.8322 	EXP 	stim: autoDraw = True
+319.4664 	EXP 	Device response: <KeyPress from None: t=319.45407800000066, value=z, duration=None>
+319.4668 	EXP 	New trial (rep=9, index=16): <Trial 196 (16 in rep 9) data={'stimulus': 'silver', 'type': 'word', 'correct_key': 'z', 'thisN': 196, 'thisTrialN': 16, 'thisRepN': 9}>
+319.4715 	DATA 	Keypress: z
+319.4820 	EXP 	fix: autoDraw = False
+319.4820 	EXP 	stim: autoDraw = False
+319.4820 	EXP 	stim: height = np.float64(0.05)
+319.4820 	EXP 	stim: height = np.float64(0.05)
+319.4820 	EXP 	stim: height = np.float64(0.05)
+319.4820 	EXP 	stim: text = 'silver'
+319.4820 	EXP 	fix: autoDraw = True
+319.5998 	EXP 	Device response: <KeyPress from None: t=319.45407800000066, value=z, duration=0.13242239999999583>
+319.9822 	INFO 	Keyboard events cleared
+319.9820 	EXP 	fix: autoDraw = False
+319.9820 	EXP 	stim: autoDraw = True
+320.4328 	EXP 	Device response: <KeyPress from None: t=320.43128070000057, value=z, duration=None>
+320.4332 	EXP 	New trial (rep=9, index=17): <Trial 197 (17 in rep 9) data={'stimulus': 'garden', 'type': 'word', 'correct_key': 'z', 'thisN': 197, 'thisTrialN': 17, 'thisRepN': 9}>
+320.4392 	DATA 	Keypress: z
+320.4483 	EXP 	fix: autoDraw = False
+320.4483 	EXP 	stim: autoDraw = False
+320.4483 	EXP 	stim: height = np.float64(0.05)
+320.4483 	EXP 	stim: height = np.float64(0.05)
+320.4483 	EXP 	stim: height = np.float64(0.05)
+320.4483 	EXP 	stim: text = 'garden'
+320.4483 	EXP 	fix: autoDraw = True
+320.5825 	EXP 	Device response: <KeyPress from None: t=320.43128070000057, value=z, duration=0.1394018999999389>
+320.9320 	INFO 	Keyboard events cleared
+320.9318 	EXP 	stim: autoDraw = True
+320.9486 	EXP 	fix: autoDraw = False
+321.3820 	EXP 	Device response: <KeyPress from None: t=321.37353150000126, value=z, duration=None>
+321.3823 	EXP 	New trial (rep=9, index=18): <Trial 198 (18 in rep 9) data={'stimulus': 'pillow', 'type': 'word', 'correct_key': 'z', 'thisN': 198, 'thisTrialN': 18, 'thisRepN': 9}>
+321.3871 	DATA 	Keypress: z
+321.3986 	EXP 	fix: autoDraw = False
+321.3986 	EXP 	stim: autoDraw = False
+321.3986 	EXP 	stim: height = np.float64(0.05)
+321.3986 	EXP 	stim: height = np.float64(0.05)
+321.3986 	EXP 	stim: height = np.float64(0.05)
+321.3986 	EXP 	stim: text = 'pillow'
+321.3986 	EXP 	fix: autoDraw = True
+321.5166 	EXP 	Device response: <KeyPress from None: t=321.37353150000126, value=z, duration=0.14137559999835503>
+321.8819 	INFO 	Keyboard events cleared
+321.8817 	EXP 	stim: autoDraw = True
+321.8987 	EXP 	fix: autoDraw = False
+322.2996 	EXP 	Device response: <KeyPress from None: t=322.28556039999967, value=z, duration=None>
+322.3002 	EXP 	New trial (rep=9, index=19): <Trial 199 (19 in rep 9) data={'stimulus': 'flirp', 'type': 'nonword', 'correct_key': 'm', 'thisN': 199, 'thisTrialN': 19, 'thisRepN': 9}>
+322.3055 	DATA 	Keypress: z
+322.3152 	EXP 	fix: autoDraw = False
+322.3152 	EXP 	stim: autoDraw = False
+322.3152 	EXP 	stim: height = np.float64(0.05)
+322.3152 	EXP 	stim: height = np.float64(0.05)
+322.3152 	EXP 	stim: height = np.float64(0.05)
+322.3152 	EXP 	stim: text = 'flirp'
+322.3152 	EXP 	fix: autoDraw = True
+322.4490 	EXP 	Device response: <KeyPress from None: t=322.28556039999967, value=z, duration=0.15755580000040936>
+322.8158 	INFO 	Keyboard events cleared
+322.8156 	EXP 	fix: autoDraw = False
+322.8156 	EXP 	stim: autoDraw = True
+325.1827 	EXP 	Device response: <KeyPress from None: t=325.1685855000014, value=m, duration=None>
+325.1868 	DATA 	Keypress: m
+325.1988 	EXP 	fix: autoDraw = False
+325.1988 	EXP 	stim: autoDraw = False
+325.1988 	EXP 	text_2: autoDraw = True
+325.3173 	EXP 	Device response: <KeyPress from None: t=325.1685855000014, value=m, duration=0.13291079999908106>
+327.1983 	EXP 	text_2: autoDraw = False
+327.1983 	EXP 	text_2: autoDraw = False
+327.1986 	EXP 	lexical_decision: status = STOPPED
+327.2452 	INFO 	saved data to 'C:\\Users\\Heer Mankad\\OneDrive\\Desktop\\PSY310\\Lexical Decision Making\\data\\5_lexical_decision_2025-11-20_00h29.43.457.csv'
+327.2467 	INFO 	saved data to C:\Users\Heer Mankad\OneDrive\Desktop\PSY310\Lexical Decision Making\data\5_lexical_decision_2025-11-20_00h29.43.457.psydat
+327.4548 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+327.5131 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+327.5132 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
